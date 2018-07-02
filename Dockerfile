@@ -6,5 +6,5 @@ cmd pip install requirements.txt
 
 EXPOSE 8050
 
-cmd python main.py
+cmd /app/start.sh
 
