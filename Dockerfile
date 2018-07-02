@@ -1,10 +1,11 @@
-from python:3.6
+FROM python:3.6
 
-copy . /home/app
-workdir /home/app
-cmd pip install requirements.txt
+COPY . /home/app
+WORKDIR /home/app
+RUN python -m venv env && \
+    ./env/bin/pip install requirements.txt
 
 EXPOSE 8050
 
-cmd /home/app/start.sh
+CMD /home/app/start.sh
 

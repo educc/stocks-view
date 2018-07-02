@@ -1,4 +1,4 @@
 #!/bin/sh
 
 cd /home/app
-python main.py
+./env/bin/python main.py
