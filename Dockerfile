@@ -9,5 +9,5 @@ RUN python -m venv env && \
 
 EXPOSE 8080
 
-CMD ./env/bin/python ./env/bin/gunicorn -w 4 -b 0.0.0.0:8080 app:app
+CMD ./env/bin/python app.py
 
