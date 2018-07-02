@@ -13,6 +13,7 @@ _FILE_STOCKS_NAMES = "stocks_revenue_ordered_desc.csv"
 
 def stocks_name_list():
     result = []
+    i = 1
     with open(_FILE_STOCKS_NAMES) as myfile:
         is_first = True
         for line in myfile:
@@ -23,9 +24,10 @@ def stocks_name_list():
             parts = line.split(";")
             if (len(parts)) >= 2:
                 result.append({
-                    "label": parts[0] + " - " + parts[1],
+                    "label": "%d: %s - %s" % (i, parts[0],parts[1]),
                     "value": parts[0],
                 })
+                i += 1
     #end-with
     return result
 
