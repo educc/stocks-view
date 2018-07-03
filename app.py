@@ -22,7 +22,7 @@ def stocks_name_list():
                 continue
 
             parts = line.split(";")
-            if (len(parts)) >= 2:
+            if (len(parts)) == 3:
                 result.append({
                     "label": "%d: %s - %s" % (i, parts[0],parts[1]),
                     "value": parts[0],

@@ -1,635 +1,3126 @@
-stock;name;revenue
-AQB;AquaBounty Technologies, Inc.;50123.1721
-AMRH;Ameri Holdings, Inc.;12984.94599
-ALT;Altimmune, Inc.;8241.891662
-AVGR;Avinger, Inc.;6374.394034
-CHRS;Coherus BioSciences, Inc.;2871.04616
-AVXL;Anavex Life Sciences Corp.;2509.840352
-AKCA;Akcea Therapeutics, Inc.;1589.754604
-ABIL;Ability Inc.;1271.584476
-BRPAR;Big Rock Partners Acquisition Corp.;1115.170009
-BPTH;Bio-Path Holdings, Inc.;955.41857
-ARCT;Arcturus Therapeutics Ltd.;844.6869612
-ARWR;Arrowhead Pharmaceuticals, Inc.;678.5729423
-CLSN;Celsion Corporation;505.7949903
-ABMD;ABIOMED, Inc.;490.5384077
-BEAT;BioTelemetry, Inc.;489.0884914
-CELH;Celsius Holdings, Inc.;468.352239
-ANAB;AnaptysBio, Inc.;463.1009377
-BLUE;bluebird bio, Inc.;459.2661495
-AXGN;AxoGen, Inc.;452.7784539
-ALNY;Alnylam Pharmaceuticals, Inc.;427.3498785
-ACAD;ACADIA Pharmaceuticals Inc.;407.1614151
-BAND;Bandwidth Inc.;392.3676337
-BURG;Chanticleer Holdings, Inc.;387.8726678
-BLFS;BioLife Solutions, Inc.;368.6613797
-ANIP;ANI Pharmaceuticals, Inc.;367.2270327
-AMD;Advanced Micro Devices, Inc.;363.8959867
-CBAY;CymaBay Therapeutics Inc.;355.0394652
-BCRX;BioCryst Pharmaceuticals, Inc.;352.3139335
-ALGN;Align Technology, Inc.;347.5725557
-AGIO;Agios Pharmaceuticals, Inc.;340.789259
-ABCD;Cambium Learning Group, Inc.;328.099033
-CBPO;China Biologic Products Holdings, Inc.;324.1739024
-ASMB;Assembly Biosciences, Inc.;321.8597471
-ADUS;Addus HomeCare Corporation;320.3925427
-ARCB;ArcBest Corporation;309.9116148
-AAXN;Axon Enterprise, Inc.;304.8268219
-CECO;Career Education Corporation;302.2201129
-AMEH;Apollo Medical Holdings, Inc.;295.8477325
-CLFD;Clearfield, Inc.;295.1956958
-ARTX;Arotech Corporation;293.7131812
-CLUB;Town Sports International Holdings, Inc.;291.155337
-BZUN;Baozun Inc.;283.0291786
-BLDP;Ballard Power Systems, Inc.;280.3062102
-AGMH;AGM Group Holdings Inc.;275.8730159
-BGNE;BeiGene, Ltd.;274.4163944
-AXDX;Accelerate Diagnostics, Inc.;271.4312117
-CLVS;Clovis Oncology, Inc.;271.0367221
-CAMT;Camtek Ltd.;270.9215935
-CASI;CASI Pharmaceuticals, Inc.;270.1471415
-AMZN;Amazon.com, Inc.;267.8926326
-BOFI;BofI Holding, Inc.;267.6687603
-ANIK;Anika Therapeutics Inc.;257.8989979
-AVGO;Broadcom Inc.;257.7459032
-AMOT;Allied Motion Technologies, Inc.;256.6687238
-AMED;Amedisys Inc;256.4302754
-CENX;Century Aluminum Company;254.7076012
-ATVI;Activision Blizzard, Inc;254.1198481
-CDXS;Codexis, Inc.;253.9860517
-BCOM;B Communications Ltd.;252.8087639
-CEY;VictoryShares Emerging Market High Div Volatility Wtd ETF;250.999083
-CGNX;Cognex Corporation;247.8366815
-AERI;Aerie Pharmaceuticals, Inc.;244.6290733
-AEHR;Aehr Test Systems;243.1587672
-ALJJ;ALJ Regional Holdings, Inc.;240.6959207
-AUTO;AutoWeb, Inc.;236.4029398
-BBSI;Barrett Business Services, Inc.;235.3128993
-AGNCN;AGNC Investment Corp.;234.1340965
-ATRA;Atara Biotherapeutics, Inc.;232.2362334
-BOOM;DMC Global Inc.;231.2026757
-CAMP;CalAmp Corp.;228.6062855
-ADBE;Adobe Systems Incorporated;227.1467377
-CENT;Central Garden & Pet Company;224.339403
-BLPH;Bellerophon Therapeutics, Inc.;223.5387782
-BWEN;Broadwind Energy, Inc.;220.144915
-AMBA;Ambarella, Inc.;219.9668205
-CASH;Meta Financial Group, Inc.;219.8212008
-CBMG;Cellular Biomedicine Group, Inc.;219.7842321
-ATRC;AtriCure, Inc.;219.7164749
-ATSG;Air Transport Services Group, Inc;217.3193596
-BMRA;Biomerica, Inc.;215.7720453
-BIB;ProShares Ultra Nasdaq Biotechnology;215.3183618
-ARQL;ArQule, Inc.;214.4095317
-AAOI;Applied Optoelectronics, Inc.;212.4839965
-CENTA;Central Garden & Pet Company;212.2709957
-CBTX;CBTX, Inc.;209.1856136
-CDNA;CareDx, Inc.;204.5014691
-ARGX;argenx SE;204.4982069
-AKTS;Akoustis Technologies, Inc.;203.7560347
-APPF;AppFolio, Inc.;203.395568
-AVEO;AVEO Pharmaceuticals, Inc.;202.8358944
-CATS;Catasys, Inc.;202.0561558
-CDXC;ChromaDex Corporation;198.7454212
-AABA;Altaba Inc.;198.0969567
-ACLS;Axcelis Technologies, Inc.;198.0541518
-ARRY;Array BioPharma Inc.;197.7950603
-BREW;Craft Brew Alliance, Inc.;196.9223169
-BPMC;Blueprint Medicines Corporation;194.0873401
-CIGI;Colliers International Group Inc. ;193.2958417
-CIVB;Civista Bancshares, Inc. ;191.2179358
-AEIS;Advanced Energy Industries, Inc.;189.0838584
-AMAT;Applied Materials, Inc.;187.9693826
-CBAN;Colony Bankcorp, Inc.;187.0169818
-AAON;AAON, Inc.;186.4208727
-BLKB;Blackbaud, Inc.;185.9240069
-AMWD;American Woodmark Corporation;185.4704798
-ATRO;Astronics Corporation;182.5007226
-CARB;Carbonite, Inc.;180.7021402
-BASI;Bioanalytical Systems, Inc.;179.9622293
-CIFS;China Internet Nationwide Financial Services Inc.;179.8524392
-CHDN;Churchill Downs, Incorporated;178.9730911
-ASYS;Amtech Systems, Inc.;178.5821937
-ASND;Ascendis Pharma A/S;177.8900032
-BBGI;Beasley Broadcast Group, Inc.;177.5776587
-ANY;Sphere 3D Corp.;177.2407872
-CDW;CDW Corporation;176.0308058
-ABCB;Ameris Bancorp;175.9136992
-ASPU;Aspen Group Inc.;175.4824496
-ADES;Advanced Emissions Solutions, Inc.;173.9610411
-ABUS;Arbutus Biopharma Corporation;172.7881218
-ARDM;Aradigm Corporation;172.5630374
-CHTR;Charter Communications, Inc.;172.5327663
-ABEO;Abeona Therapeutics Inc.;170.8522379
-CARO;Carolina Financial Corporation;170.775937
-BRKS;Brooks Automation, Inc.;170.7240537
-CBOE;Cboe Global Markets, Inc.;170.1860726
-AVAV;AeroVironment, Inc.;169.6187366
-AAL;American Airlines Group, Inc.;168.7873097
-BABY;Natus Medical Incorporated;164.7145309
-CERC;Cerecor Inc.;164.2764965
-BCOR;Blucora, Inc.;164.2401148
-BGCP;BGC Partners, Inc.;154.6045128
-AVDL;Avadel Pharmaceuticals plc;154.2845265
-BSTC;BioSpecifics Technologies Corp;152.5743071
-ALDR;Alder BioPharmaceuticals, Inc.;151.3881143
-AZPN;Aspen Technology, Inc.;150.870522
-BLDR;Builders FirstSource, Inc.;147.7801921
-CACC;Credit Acceptance Corporation;146.2727636
-CCNI;Command Center, Inc.;144.5249409
-AMTD;TD Ameritrade Holding Corporation;143.2794184
-ADSK;Autodesk, Inc.;143.2229343
-BKYI;BIO-key International, Inc.;140.9210777
-ALKS;Alkermes plc;139.0881758
-ASML;ASML Holding N.V.;136.9995518
-CDNS;Cadence Design Systems, Inc.;136.9378249
-CLPS;CLPS Incorporation;135.0272232
-ATRI;Atrion Corporation;132.9023625
-CMCO;Columbus McKinnon Corporation;132.1428174
-ASUR;Asure Software Inc;131.5526719
-CERS;Cerus Corporation;130.5543042
-AFH;Atlas Financial Holdings, Inc.;130.4692167
-BANF;BancFirst Corporation;130.3528363
-CCRC;China Customer Relations Centers, Inc.;129.9991454
-CCMP;Cabot Microelectronics Corporation;129.816376
-BCPC;Balchem Corporation;129.4274774
-AUDC;AudioCodes Ltd.;129.0201052
-CAVM;Cavium, Inc.;128.6982004
-CEMI;Chembio Diagnostics, Inc.;128.5896401
-AXTI;AXT Inc;125.631528
-BLBD;Blue Bird Corporation;125.2956166
-BYFC;Broadway Financial Corporation;124.6746904
-ADMS;Adamas Pharmaceuticals, Inc.;123.1898423
-CCRN;Cross Country Healthcare, Inc.;122.8524619
-AMCA;iShares Russell 1000 Pure U.S. Revenue ETF;122.1623166
-ALTR;Altair Engineering Inc.;121.6335126
-CBRL;Cracker Barrel Old Country Store, Inc.;119.286576
-APPN;Appian Corporation;119.103736
-CHFN;Charter Financial Corp.;117.0752209
-ACGLO;Arch Capital Group Ltd.;116.8738123
-BWFG;Bankwell Financial Group, Inc.;116.8642044
-BLMT;BSB Bancorp, Inc.;116.4990643
-CDZI;Cadiz, Inc.;116.4586232
-ACRS;Aclaris Therapeutics, Inc.;115.7643146
-ALRM;Alarm.com Holdings, Inc.;114.944227
-ADP;Automatic Data Processing, Inc.;113.1123945
-BOMN;Boston Omaha Corporation;111.6169723
-ANSS;ANSYS, Inc.;111.1325166
-BIDU;Baidu, Inc.;110.9877033
-BKNG;Booking Holdings Inc.;110.9804303
-ATHX;Athersys, Inc.;110.8562142
-AXAS;Abraxas Petroleum Corporation;110.6708801
-CHFC;Chemical Financial Corporation;109.9041027
-BOCH;Bank of Commerce Holdings (CA);109.3889934
-BOLD;Audentes Therapeutics, Inc.;108.5041202
-ASTC;Astrotech Corporation;108.3409127
-BSRR;Sierra Bancorp;108.1926715
-AOSL;Alpha and Omega Semiconductor Limited;108.1723071
-ACXM;Acxiom Corporation;107.6420441
-CCOI;Cogent Communications Holdings, Inc.;107.6045839
-BNSO;Bonso Electronics International, Inc.;105.7930464
-CELG;Celgene Corporation;105.0635542
-CAR;Avis Budget Group, Inc.;104.8573385
-CHEF;"The Chefs&#39; Warehouse, Inc.";104.2895321
-ATHN;athenahealth, Inc.;103.9429697
-CIL;VictoryShares International Volatility Wtd ETF;103.6370381
-BSET;Bassett Furniture Industries, Incorporated;102.9767596
-APEN;Apollo Endosurgery, Inc.;102.3059814
-AAPL;Apple Inc.;101.2473416
-BPOP;Popular, Inc.;100.3602572
-ACHC;Acadia Healthcare Company, Inc.;100.1872902
-CATC;Cambridge Bancorp;100.0084055
-AOBC;American Outdoor Brands Corporation;99.90932344
-CALM;Cal-Maine Foods, Inc.;99.68735226
-ABAX;ABAXIS, Inc.;99.53093567
-ATTU;Attunity Ltd.;98.40440512
-CCCR;China Commercial Credit, Inc.;97.10959396
-CIVBP;Civista Bancshares, Inc. ;96.51533267
-ANGO;AngioDynamics, Inc.;96.42725683
-AMAG;AMAG Pharmaceuticals, Inc.;96.27392582
-AGFS;AgroFresh Solutions, Inc.;95.54840488
-CALI;China Auto Logistics Inc.;94.95762751
-AIMC;Altra Industrial Motion Corp.;94.11002712
-CLCT;Collectors Universe, Inc.;93.98459271
-BRKL;Brookline Bancorp, Inc.;93.91313974
-BJRI;"BJ&#39;s Restaurants, Inc.";93.55426446
-CHCO;City Holding Company;93.48951475
-BBH;VanEck Vectors Biotech ETF;93.32701304
-CASS;Cass Information Systems, Inc;93.29745566
-AMSF;AMERISAFE, Inc.;92.71702437
-CEVA;CEVA, Inc.;92.42872466
-ACHN;Achillion Pharmaceuticals, Inc.;92.14541831
-ALOT;AstroNova, Inc.;91.95143741
-BUSE;First Busey Corporation;91.94391575
-BMTC;Bryn Mawr Bank Corporation;91.80098632
-AMKR;Amkor Technology, Inc.;91.55164425
-BFIN;BankFinancial Corporation;91.15512886
-BKSC;Bank of South Carolina Corp.;90.70724651
-AQMS;Aqua Metals, Inc.;90.68622601
-ADI;Analog Devices, Inc.;90.44108746
-CDK;CDK Global, Inc.;89.45169121
-BIIB;Biogen Inc.;89.35741645
-CDEV;Centennial Resource Development, Inc.;89.09053913
-AMRB;American River Bankshares;88.42755932
-BDSI;BioDelivery Sciences International, Inc.;88.40268114
-ALQA;Alliqua BioMedical, Inc.;88.20195496
-CBSH;Commerce Bancshares, Inc.;88.07315007
-CASY;Caseys General Stores, Inc.;87.79139445
-APOG;Apogee Enterprises, Inc.;87.44506455
-CATY;Cathay General Bancorp;87.14369559
-BMRC;Bank of Marin Bancorp;87.07147893
-ALIM;Alimera Sciences, Inc.;86.88653825
-AKRX;Akorn, Inc.;86.04700975
-AMNB;American National Bankshares, Inc.;84.18926331
-CEZ;VictoryShares Emerging Market Volatility Wtd ETF;84.14230519
-CCXI;ChemoCentryx, Inc.;84.09225147
-CALA;Calithera Biosciences, Inc.;83.12299349
-BANR;Banner Corporation;81.71265414
-CATM;Cardtronics plc;81.31288559
-ANCX;Access National Corporation;81.20441239
-ABTX;Allegiance Bancshares, Inc.;80.93588302
-AGYS;Agilysys, Inc.;80.65418557
-CAC;Camden National Corporation;80.64528981
-ALGT;Allegiant Travel Company;80.45935968
-BRKR;Bruker Corporation;80.36590284
-ACNB;ACNB Corporation;80.29764617
-CASM;CAS Medical Systems, Inc.;80.02710028
-CHKP;Check Point Software Technologies Ltd.;79.67640854
-AMGN;Amgen Inc.;79.04554357
-ANDE;The Andersons, Inc.;78.86898519
-BRID;Bridgford Foods Corporation;78.75003868
-APOP;Cellect Biotechnology Ltd.;78.72162015
-ACMR;ACM Research, Inc.;78.59180612
-CCBG;Capital City Bank Group;78.10920692
-BNCL;Beneficial Bancorp, Inc.;77.72997003
-ACGL;Arch Capital Group Ltd.;77.67439374
-ANAT;American National Insurance Company;76.97523971
-ARTNA;Artesian Resources Corporation;75.11204487
-BPFH;Boston Private Financial Holdings, Inc.;74.92292345
-CCNE;CNB Financial Corporation;74.75815725
-ASTE;Astec Industries, Inc.;74.11876518
-ACRX;AcelRx Pharmaceuticals, Inc.;73.51591874
-ANGI;ANGI Homeservices Inc.;72.03164479
-AUPH;Aurinia Pharmaceuticals Inc;71.42905063
-CARV;Carver Bancorp, Inc.;71.21499251
-AMPH;Amphastar Pharmaceuticals, Inc.;70.92762705
-BHBK;Blue Hills Bancorp, Inc.;70.53118593
-AFSI;AmTrust Financial Services, Inc.;69.79290419
-ACIW;ACI Worldwide, Inc.;69.53279304
-BOKF;BOK Financial Corporation;68.85913804
-CINF;Cincinnati Financial Corporation;68.793184
-AMSWA;American Software, Inc.;68.39048504
-CARA;Cara Therapeutics, Inc.;66.49877706
-CETX;Cemtrex Inc.;66.24534131
-BDGE;Bridge Bancorp, Inc.;66.18723699
-CMCSA;Comcast Corporation;66.05524762
-BMRN;BioMarin Pharmaceutical Inc.;65.97737206
-AKAM;Akamai Technologies, Inc.;65.85285724
-CAKE;The Cheesecake Factory Incorporated;65.5477815
-BYSI;BeyondSpring, Inc.;64.50308912
-AAWW;Atlas Air Worldwide Holdings;64.4893287
-BL;BlackLine, Inc.;64.17816693
-ARRS;ARRIS International plc;64.15264577
-CFBK;Central Federal Corporation;63.69026687
-CBFV;CB Financial Services, Inc.;63.61884309
-CHMG;Chemung Financial Corp;63.24239932
-CHUY;"Chuy&#39;s Holdings, Inc.";62.99218886
-CDLX;Cardlytics, Inc.;62.75243082
-BLI;#N/A;62.12404154
-CFFI;C&F Financial Corporation;61.99886633
-ATNI;ATN International, Inc.;61.73346237
-AKER;Akers Biosciences Inc;60.21839886
-AGLE;Aeglea BioTherapeutics, Inc.;59.5590723
-APTI;Apptio, Inc.;59.06736168
-BVXV;BiondVax Pharmaceuticals Ltd.;58.74324222
-ASLN;ASLAN Pharmaceuticals Limited;58.64527629
-BBP;Virtus LifeSci Biotech Products ETF;57.65214059
-BCBP;BCB Bancorp, Inc. (NJ);57.61116259
-AROW;Arrow Financial Corporation;55.71629451
-BMCH;BMC Stock Holdings, Inc.;55.35107734
-CA;CA Inc.;54.94190882
-BECN;Beacon Roofing Supply, Inc.;53.81861856
-CERN;Cerner Corporation;53.57157772
-CELC;Celcuity Inc.;53.56538962
-APEI;American Public Education, Inc.;53.37816266
-BOTJ;Bank of the James Financial Group, Inc.;53.28251239
-ACIA;Acacia Communications, Inc.;52.68948871
-BOTZ;Global X Robotics & Artificial Intelligence ETF;50.2879986
-CADC;China Advanced Construction Materials Group, Inc.;50.16516584
-CECE;CECO Environmental Corp.;50.07314614
-CLAR;Clarus Corporation;48.93777499
-ATLO;Ames National Corporation;47.62669166
-CLSD;Clearside Biomedical, Inc.;46.69557541
-BELFA;Bel Fuse Inc.;45.57391719
-AIMT;Aimmune Therapeutics, Inc.;44.79245795
-ARKR;Ark Restaurants Corp.;44.64292777
-AIRG;Airgain, Inc.;44.18169663
-ATNX;Athenex, Inc.;44.17269695
-ACOR;Acorda Therapeutics, Inc.;43.94824315
-ARCW;ARC Group Worldwide, Inc.;43.86174993
-AIRR;First Trust RBA American Industrial Renaissance ETF;42.81993389
-ACWI;iShares MSCI ACWI Index Fund;42.68005021
-AVT;Avnet, Inc.;42.65990475
-CLWT;Euro Tech Holdings Company Limited;41.78026743
-ANCB;Anchor Bancorp;40.46967498
-BLMN;"Bloomin&#39; Brands, Inc.";40.46024868
-ABAC;Renmin Tianli Group, Inc.;40.25216915
-CHRW;C.H. Robinson Worldwide, Inc.;39.97962616
-AMBC;Ambac Financial Group, Inc.;39.24391973
-CFA;VictoryShares US 500 Volatility Wtd ETF;39.15279639
-ADAP;Adaptimmune Therapeutics plc;38.95798031
-CFO;VictoryShares US 500 Enhanced Volatility Wtd ETF;38.78711109
-AVHI;A V Homes, Inc.;38.26287011
-ALXN;Alexion Pharmaceuticals, Inc.;37.55050721
-BBC;Virtus LifeSci Biotech Clinical Trials ETF;37.49566902
-ASRV;AmeriServ Financial Inc.;36.24462334
-BCOV;Brightcove Inc.;35.84680249
-BTEC;Principal Healthcare Innovators Index ETF;35.64481592
-AIA;iShares Asia 50 ETF;35.24750689
-CARZ;First Trust NASDAQ Global Auto Index Fund;34.15339023
-ACBI;Atlantic Capital Bancshares, Inc.;33.86552222
-AMRK;A-Mark Precious Metals, Inc.;32.56429067
-CDC;VictoryShares US EQ Income Enhanced Volatility Wtd ETF;32.29888816
-AMCX;AMC Networks Inc.;32.23271089
-CIZN;Citizens Holding Company;31.52083155
-BATRK;Liberty Media Corporation;31.40331356
-CIBR;First Trust NASDAQ Cybersecurity ETF;31.11707885
-CATH;Global X S&P 500 Catholic Values ETF;29.79807353
-ALNA;Allena Pharmaceuticals, Inc.;29.58541439
-CDL;VictoryShares US Large Cap High Div Volatility Wtd ETF;29.25677683
-AUBN;Auburn National Bancorporation, Inc.;29.226367
-APTO;Aptose Biosciences, Inc.;27.56544543
-BCLI;Brainstorm Cell Therapeutics Inc.;26.22688718
-BATRA;Liberty Media Corporation;26.18296695
-BCML;BayCom Corp;26.14678256
-BELFB;Bel Fuse Inc.;25.89693358
-AAXJ;iShares MSCI All Country Asia ex Japan Index Fund;25.62978992
-ATRS;Antares Pharma, Inc.;24.81928857
-CLDX;Celldex Therapeutics, Inc.;24.59446664
-ADRA;Invesco BLDRS Asia 50 ADR Index Fund;24.48579185
-BILI;Bilibili Inc.;24.46619217
-CARG;CarGurus, Inc.;24.00233349
-ARII;American Railcar Industries, Inc.;23.77801922
-BFIT;Global X Health & Wellness Thematic ETF;23.3116382
-CHCI;Comstock Holding Companies, Inc.;23.01780373
-ACET;Aceto Corporation;22.7820942
-ALBO;Albireo Pharma, Inc.;21.96748824
-BCTF;Bancorp 34, Inc.;21.34172614
-AEGN;Aegion Corp;20.88257486
-ALDX;Aldeyra Therapeutics, Inc.;20.14907237
-CFFN;Capitol Federal Financial, Inc.;19.68659053
-APTX;Aptinyx Inc.;19.65345942
-CACG;ClearBridge All Cap Growth ETF;17.91800084
-CCD;Calamos Dynamic Convertible & Income Fund;17.68279921
-APPS;Digital Turbine, Inc.;17.62564385
-BGFV;Big 5 Sporting Goods Corporation;16.89245408
-BICK;First Trust BICK Index Fund;16.66321468
-ACWX;iShares MSCI ACWI ex US Index Fund;16.65945916
-AKAO;Achaogen, Inc.;16.4094185
-APWC;Asia Pacific Wire & Cable Corporation Limited;16.2611414
-AWRE;Aware, Inc.;16.20205947
-ASET;FlexShares Real Assets Allocation Index Fund;16.1547751
-CHW;Calamos Global Dynamic Income Fund;15.54153884
-AMRN;Amarin Corporation plc;14.39419195
-ALSK;Alaska Communications Systems Group, Inc.;14.10778186
-BSQR;BSQUARE Corporation;14.00231069
-APLS;Apellis Pharmaceuticals, Inc.;13.99260421
-ASRVP;AmeriServ Financial Inc.;13.68160338
-AIRT;Air T, Inc.;13.62861329
-BPOPM;Popular, Inc.;13.37692766
-CGO;Calamos Global Total Return Fund;12.95574326
-CHSCL;CHS Inc;10.59213439
-ADRD;Invesco BLDRS Developed Markets 100 ADR Index Fund;10.12256153
-ARLP;Alliance Resource Partners, L.P.;9.683404284
-BHAC;Barington/Hilco Acquisition Corp.;9.504972914
-BANFP;BancFirst Corporation;9.101825189
-ADRE;Invesco BLDRS Emerging Markets 50 ADR Index Fund;8.948627819
-CBLK;Carbon Black, Inc.;8.60484091
-BNDX;Vanguard Total International Bond ETF;8.557769919
-ADRU;Invesco BLDRS Europe Select ADR Index Fund;8.080094999
-CDMOP;Avid Bioservices, Inc.;7.597673333
-BWINB;Baldwin & Lyons, Inc.;7.461626135
-CLBK;Columbia Financial, Inc.;7.328138781
-AUTL;Autolus Therapeutics plc;7.160004
-CHSCO;CHS Inc;6.930144272
-ADVM;Adverum Biotechnologies, Inc.;6.30478611
-CG;The Carlyle Group L.P.;6.196344004
-ARNA;Arena Pharmaceuticals, Inc.;6.05958741
-CHSCM;CHS Inc;5.308127324
-APVO;Aptevo Therapeutics Inc.;5.152631579
-CHY;Calamos Convertible and High Income Fund;4.986515567
-CAAS;China Automotive Systems, Inc.;4.933258665
-BPOPN;Popular, Inc.;4.88410596
-BRPAU;Big Rock Partners Acquisition Corp.;4.843246861
-BFST;Business First Bancshares, Inc.;4.315122724
-CBSHP;Commerce Bancshares, Inc.;4.030601606
-AGNCB;AGNC Investment Corp.;3.813085293
-ATAC;Atlantic Acquisition Corp.;3.759172381
-AAME;Atlantic American Corporation;3.604617504
-BPRN;The Bank of Princeton;3.185597797
-BRPA;Big Rock Partners Acquisition Corp.;3.10371517
-BRAC;Black Ridge Acquisition Corp.;3.027139875
-BOKFL;BOK Financial Corporation;3.008164361
-AHPA;Avista Healthcare Public Acquisition Corp.;2.954487826
-CHSCN;CHS Inc;2.920349538
-BOFIL;BofI Holding, Inc.;2.763523808
-CGBD;TCG BDC, Inc.;2.756662038
-AEMD;Aethlon Medical, Inc.;2.44145981
-CIZ;VictoryShares Developed Enhanced Volatility Wtd ETF;1.316646001
-BWINA;Baldwin & Lyons, Inc.;0.827936108
-BWB;Bridgewater Bancshares, Inc.;0.792393027
-CID;VictoryShares International High Div Volatility Wtd ETF;0.731286146
-ACT;AdvisorShares Vice ETF;0.538500737
-BHTG;BioHiTech Global, Inc.;0.43475995
-BCAC;Bison Capital Acquisition Corp.;0.415561872
-CLRG;IQ Chaikin U.S. Large Cap ETF;0.249112911
-CLRBZ;Cellectar Biosciences, Inc.;0
-CLRBW;Cellectar Biosciences, Inc.;0
-CLIRW;ClearSign Combustion Corporation;0
-CIVEC;Causeway ETMF Trust;0
-CHEKZ;Check-Cap Ltd.;0
-CHEKW;Check-Cap Ltd.;0
-CGVIC;Causeway ETMF Trust;0
-CETXW;Cemtrex Inc.;0
-CERCW;Cerecor Inc.;0
-CATYW;Cathay General Bancorp;0
-CART;Carolina Trust BancShares, Inc.;0
-BVXVW;BiondVax Pharmaceuticals Ltd.;0
-BVNSC;Brandes Investment Trust;0
-BRPAW;Big Rock Partners Acquisition Corp.;0
-BRACW;Black Ridge Acquisition Corp.;0
-BRACU;Black Ridge Acquisition Corp.;0
-BRACR;Black Ridge Acquisition Corp.;0
-BPFHW;Boston Private Financial Holdings, Inc.;0
-BNTCW;Benitec Biopharma Limited;0
-BLNKW;Blink Charging Co.;0
-BHACW;Barington/Hilco Acquisition Corp.;0
-BHACU;Barington/Hilco Acquisition Corp.;0
-BHACR;Barington/Hilco Acquisition Corp.;0
-BCACW;Bison Capital Acquisition Corp.;0
-BCACU;Bison Capital Acquisition Corp.;0
-BCACR;Bison Capital Acquisition Corp.;0
-ATISW;Attis Industries Inc.;0
-ATACU;Atlantic Acquisition Corp.;0
-ATACR;Atlantic Acquisition Corp.;0
-APOPW;Cellect Biotechnology Ltd.;0
-APDNW;Applied DNA Sciences Inc;0
-AMRWW;Alta Mesa Resources, Inc.;0
-AMRHW;Ameri Holdings, Inc.;0
-AMBCW;Ambac Financial Group, Inc.;0
-AHPAW;Avista Healthcare Public Acquisition Corp.;0
-AHPAU;Avista Healthcare Public Acquisition Corp.;0
-AGFSW;AgroFresh Solutions, Inc.;0
-AFHBL;Atlas Financial Holdings, Inc.;0
-ADXSW;Advaxis, Inc.;0
-ABEOW;Abeona Therapeutics Inc.;0
-ATOM;Atomera Incorporated;-0.186277042
-BFRA;Biofrontera AG;-0.246305419
-ALTY;Global X SuperDividend Alternatives ETF;-0.269375008
-AIQ;Global X Future Analytics Tech ETF;-0.372439479
-ALCO;Alico, Inc.;-0.418708495
-AMTX;Aemetis, Inc;-0.922238681
-CHI;Calamos Convertible Opportunities and Income Fund;-1.482902017
-CFRX;ContraFect Corporation;-1.936209675
-ACGLP;Arch Capital Group Ltd.;-1.994642176
-CLIR;ClearSign Combustion Corporation;-2.316421022
-AVID;Avid Technology, Inc.;-2.33911996
-CGEN;Compugen Ltd.;-3.528672162
-ARCI;Appliance Recycling Centers of America, Inc.;-3.536918566
-AGZD;WisdomTree Barclays Interest Rate Hedged U.S. Aggregate Bond F;-3.773940691
-ACSF;American Capital Senior Floating, Ltd.;-3.894260074
-CIU;iShares Intermediate Credit Bond ETF;-4.470645423
-BOSC;B.O.S. Better Online Solutions;-4.668853047
-ATAX;America First Multifamily Investors, L.P.;-5.246049311
-CETV;Central European Media Enterprises Ltd.;-5.403496979
-CHSCP;CHS Inc;-5.45804278
-AIHS;Senmiao Technology Limited;-5.564924115
-BCNA;Reality Shares Nasdaq NexGen Economy China ETF;-5.82644604
-BANX;StoneCastle Financial Corp;-6.185226671
-ADXS;Advaxis, Inc.;-6.452835418
-BLCN;Reality Shares Nasdaq NextGen Economy ETF;-7.381447423
-CAPR;Capricor Therapeutics, Inc.;-7.551922425
-CDMO;Avid Bioservices, Inc.;-7.923036828
-CLMT;Calumet Specialty Products Partners, L.P.;-8.024691358
-ARCC;Ares Capital Corporation;-8.221982623
-AVRO;AVROBIO, Inc.;-8.461544601
-BPY;Brookfield Property Partners L.P.;-10.01634129
-BMLP;Bank Of Montreal;-11.34444912
-CASA;Casa Systems, Inc.;-11.96765024
-ASV;ASV Holdings, Inc.;-12.56810682
-AGND;WisdomTree Barclays Negative Duration U.S. Aggregate Bond Fund;-13.39083569
-CLLS;Cellectis S.A.;-14.1387394
-ADTN;ADTRAN, Inc.;-14.16834893
-CKPT;Checkpoint Therapeutics, Inc.;-14.29792746
-BRQS;Borqs Technologies, Inc. ;-15.19379845
-BTAI;BioXcel Therapeutics, Inc.;-16.59111514
-BNFT;Benefitfocus, Inc.;-16.76129672
-ASPS;Altisource Portfolio Solutions S.A.;-17.02457984
-AMOV;America Movil, S.A.B. de C.V.;-17.59641581
-CMCT;CIM Commercial Trust Corporation;-17.71117166
-CFBI;Community First Bancshares, Inc.;-18.00192056
-AMCN;AirMedia Group Inc;-18.67261591
-BKEPP;Blueknight Energy Partners L.P., L.L.C.;-19.96465708
-CBAK;CBAK Energy Technology, Inc.;-21.70709913
-BSPM;Biostar Pharmaceuticals, Inc.;-22.17981234
-ADMA;ADMA Biologics Inc;-23.25912986
-BOXL;Boxlight Corporation;-25.4726637
-ARAY;Accuray Incorporated;-30.07221174
-BOJA;"Bojangles&#39;, Inc.";-32.0938932
-CLXT;Calyxt, Inc.;-32.12257321
-AEY;ADDvantage Technologies Group, Inc.;-32.61835234
-AMR;Alta Mesa Resources, Inc.;-32.64094955
-AZRX;AzurRx BioPharma, Inc.;-32.71989547
-ATAI;ATA Inc.;-33.08949191
-CLGN;CollPlant Holdings, Ltd.;-33.29608939
-CCIH;ChinaCache International Holdings Ltd.;-33.37167838
-ARPO;Aerpio Pharmaceuticals, Inc.;-33.46491228
-ACER;Acer Therapeutics Inc.;-38.01066808
-AINV;Apollo Investment Corporation;-39.31761339
-AGNC;AGNC Investment Corp.;-41.62917054
-AQXP;Aquinox Pharmaceuticals, Inc.;-45.09664245
-ATLC;Atlanticus Holdings Corporation;-45.5113704
-AGEN;Agenus Inc.;-45.99338189
-AY;Atlantica Yield plc;-48.5820581
-ACIU;AC Immune SA;-48.91507427
-BIOS;BioScrip, Inc.;-49.66016509
-CBLI;Cleveland BioLabs, Inc.;-50.26081877
-ALRN;Aileron Therapeutics, Inc.;-50.88649486
-CJJD;China Jo-Jo Drugstores, Inc.;-51.92251852
-BKEP;Blueknight Energy Partners L.P., L.L.C.;-52.18363318
-CETXP;Cemtrex Inc.;-52.62352518
-AKBA;Akebia Therapeutics, Inc.;-52.88062292
-CLRO;ClearOne, Inc.;-53.89221557
-AVNW;Aviat Networks, Inc.;-53.92867104
-BKCC;BlackRock Capital Investment Corporation;-54.29107338
-CHNR;China Natural Resources, Inc.;-58.85117436
-AHPI;Allied Healthcare Products, Inc.;-61.61238819
-APRI;Apricus Biosciences, Inc.;-61.98755011
-ATXI;Avenue Therapeutics, Inc.;-62.64862726
-AETI;American Electric Technologies, Inc.;-62.66414158
-CALL;magicJack VocalTec Ltd;-64.85685027
-ATIS;Attis Industries Inc.;-65.45454545
-ASFI;Asta Funding, Inc.;-66.80627407
-AFMD;Affimed N.V.;-68.31491457
-BBBY;Bed Bath & Beyond Inc.;-71.92046243
-CLNE;Clean Energy Fuels Corp.;-72.47827016
-BIOL;Biolase, Inc.;-73.72578743
-ABDC;Alcentra Capital Corp.;-73.80486501
-ASNA;Ascena Retail Group, Inc.;-77.41265203
-AMSC;American Superconductor Corporation;-78.02755082
-ARTW;"Art&#39;s-Way Manufacturing Co., Inc.";-78.0484805
-AMRS;Amyris, Inc.;-78.14774666
-AGTC;Applied Genetic Technologies Corporation;-78.27314067
-CDOR;Condor Hospitality Trust, Inc.;-81.45672649
-ACTG;Acacia Research Corporation;-82.78390246
-CLDC;China Lending Corporation;-84.26113515
-CDTX;Cidara Therapeutics, Inc.;-89.50536698
-CIDM;Cinedigm Corp;-92.84085468
-AXSM;Axsome Therapeutics, Inc.;-93.29347599
-BLRX;BioLineRx Ltd.;-94.44103489
-ADMP;Adamis Pharmaceuticals Corporation;-95.73321551
-ARDX;Ardelyx, Inc.;-96.00577846
-CLBS;Caladrius Biosciences, Inc.;-97.49602126
-CCLP;CSI Compressco LP;-102.4945967
-BLCM;Bellicum Pharmaceuticals, Inc.;-102.6593876
-AGRX;Agile Therapeutics, Inc.;-102.7879
-ALLT;Allot Communications Ltd.;-106.8646017
-BNTC;Benitec Biopharma Limited;-108.7311167
-AREX;Approach Resources Inc.;-109.461343
-ATEC;Alphatec Holdings, Inc.;-109.8785268
-BBOX;Black Box Corporation;-112.9606849
-ADOM;ADOMANI, Inc.;-117.2008114
-ASNS;Arsanis, Inc.;-118.7663062
-CHMA;Chiasma, Inc.;-118.8889995
-ALPN;Alpine Immune Sciences, Inc.;-123.4802571
-BVSN;BroadVision, Inc.;-123.5547465
-ADRO;Aduro Biotech, Inc.;-131.8902979
-ARLZ;Aralez Pharmaceuticals Inc.;-146.6462598
-CCCL;China Ceramics Co., Ltd.;-148.3875178
-CFMS;ConforMIS, Inc.;-153.184953
-AMMA;Alliance MMA, Inc.;-155.6331583
-CHKE;Cherokee Inc.;-158.4164824
-APDN;Applied DNA Sciences Inc;-165.8237256
-CGIX;Cancer Genetics, Inc.;-167.6556035
-AXON;Axovant Sciences Ltd.;-176.179052
-CHEK;Check-Cap Ltd.;-178.5094653
-ASCMA;Ascent Capital Group, Inc.;-180.1236195
-BIS;ProShares UltraShort Nasdaq Biotechnology;-185.1950912
-CATB;Catabasis Pharmaceuticals, Inc.;-186.1177342
-BLNK;Blink Charging Co.;-186.2913259
-AIPT;Precision Therapeutics Inc.;-188.7754068
-CBIO;Catalyst Biosciences, Inc. ;-190.4882126
-CELGZ;Celgene Corporation;-193.3767688
-BHF;Brighthouse Financial, Inc.;-194.989053
-CDTI;CDTI Advanced Materials, Inc.;-212.7385103
-CHFS;CHF Solutions, Inc.;-242.3590393
-AKTX;Akari Therapeutics Plc;-256.0641074
-ABIO;ARCA biopharma, Inc.;-260.2010657
-AEZS;AEterna Zentaris Inc.;-264.7959779
-ACST;Acasti Pharma, Inc.;-271.266447
-BIOC;Biocept, Inc.;-288.6861629
-AYTU;Aytu BioScience, Inc.;-310.0639571
-CLRB;Cellectar Biosciences, Inc.;-316.1600455
-ATOS;Atossa Genetics Inc.;-340.7724145
-ACHV;Achieve Life Sciences, Inc. ;-367.2441288
-AMDA;Amedica Corporation;-367.7753278
+stock;stock_desc;revenue
+NK;NantKwest, Inc.;173082.15340125802
+PUB;"People&#39;s Utah Bancorp";143406.28857107798
+RUN;Sunrun Inc.;78441.70908327118
+AQB;AquaBounty Technologies, Inc.;50123.172103487064
+OPNT;Opiant Pharmaceuticals, Inc.;19826.788728664604
+EVER;EverQuote, Inc.;15656.522608695654
+RVEN;Reven Housing REIT, Inc.;13406.38048595719
+AMRH;Ameri Holdings, Inc.;12984.94599117602
+ALT;Altimmune, Inc.;7676.116261388936
+GPP;Green Plains Partners LP;7649.9730773457095
+LBC;Luther Burbank Corporation;6663.347016967707
+AVGR;Avinger, Inc.;6374.394033508407
+YRIV;Yangtze River Port and Logistics Limited ;3032.2697208759846
+AVXL;Anavex Life Sciences Corp.;2609.5156771310103
+GLBS;Globus Maritime Limited;2394.84794929094
+GBT;Global Blood Therapeutics, Inc.;2127.210073104232
+RMBL;RumbleOn, Inc.;2032.6219037233213
+OSS;One Stop Systems, Inc.;1918.076923076923
+TELL;Tellurian Inc.;1862.0647292371775
+PXUS;Principal International Multi-Factor Index ETF;1780.3093223472272
+AKCA;Akcea Therapeutics, Inc.;1589.7546044299543
+VTC;Vanguard Total Corporate Bond ETF;1472.6874553718308
+EPIX;ESSA Pharma Inc.;1345.6151370531845
+WINS;Wins Finance Holdings Inc.;1314.766578191292
+ABIL;Ability Inc.;1272.5844757602722
+LIVE;Live Ventures Incorporated;1268.9358182201258
+KBSF;KBS Fashion Group Limited;1233.295399664568
+RBCN;Rubicon Technology, Inc.;1211.5684155233002
+LX;LexinFintech Holdings Ltd.;1169.9156188921418
+BRPAR;Big Rock Partners Acquisition Corp.;1115.1700087183958
+SSNT;SilverSun Technologies, Inc.;1094.1213197271593
+GRVY;GRAVITY Co., Ltd.;941.9514684114946
+HEAR;Turtle Beach Corporation;904.0156771556999
+NBEV;New Age Beverages Corporation;898.6583263019038
+SEII;Sharing Economy International Inc.;896.2157418798786
+IDXG;Interpace Diagnostics Group, Inc.;824.328755590634
+GTXI;GTx, Inc.;809.8230784733805
+NYMX;Nymox Pharmaceutical Corporation;789.8454466049944
+HLG;Hailiang Education Group Inc.;763.6085486108072
+EXPI;eXp World Holdings, Inc.;746.1531135531136
+OPGN;OpGen, Inc.;698.2693635271545
+RKDA;Arcadia Biosciences, Inc.;647.8251516951693
+OPRX;OptimizeRx Corporation;644.3843263735737
+NIHD;NII Holdings, Inc.;643.5794097173205
+ONCY;Oncolytics Biotech Inc.;643.2432432432432
+STIM;Neuronetics, Inc.;639.1666944444444
+CLSN;Celsion Corporation;637.9886985622643
+RTTR;Ritter Pharmaceuticals, Inc.;635.359700474588
+MDGL;Madrigal Pharmaceuticals, Inc.;603.421749058379
+MGEN;Miragen Therapeutics, Inc.;591.0608653375373
+TNDM;Tandem Diabetes Care, Inc.;590.1739186303479
+RIOT;Riot Blockchain, Inc;566.1795117191165
+COOL;PolarityTE, Inc.;550.7344146221207
+MRNS;Marinus Pharmaceuticals, Inc.;549.2251556660589
+TNXP;Tonix Pharmaceuticals Holding Corp.;532.4696483189998
+EXEL;Exelixis, Inc.;488.3194474026421
+GDS;GDS Holdings Limited;469.0258627349554
+ANAB;AnaptysBio, Inc.;463.1009377121918
+LOXO;Loxo Oncology, Inc.;428.94020157996624
+XOMA;XOMA Corporation;427.63798085470603
+AXGN;AxoGen, Inc.;414.86955204073047
+SIEB;Siebert Financial Corp.;412.8073985107684
+BURG;Chanticleer Holdings, Inc.;406.0877695198804
+NVDA;NVIDIA Corporation;402.00898627490574
+MRTX;Mirati Therapeutics, Inc.;395.88573016069216
+CELH;Celsius Holdings, Inc.;394.72586538911435
+BAND;Bandwidth Inc.;392.3676337259987
+EGRX;Eagle Pharmaceuticals, Inc.;389.43375959496524
+FMI;Foundation Medicine, Inc.;387.84550324495524
+SIGA;SIGA Technologies Inc.;376.42186738176497
+BLFS;BioLife Solutions, Inc.;372.66698192709
+IMMU;Immunomedics, Inc.;370.13730026011194
+DLPN;Dolphin Entertainment, Inc.;370.0793650793651
+SRPT;Sarepta Therapeutics, Inc.;356.4865361805797
+ABMD;ABIOMED, Inc.;353.4628836648062
+ERI;Eldorado Resorts, Inc.;350.30076827796825
+CBAY;CymaBay Therapeutics Inc.;345.8172429565618
+AMD;Advanced Micro Devices, Inc.;343.33662312454544
+NKTR;Nektar Therapeutics;342.1227911618146
+AVEO;AVEO Pharmaceuticals, Inc.;333.5207128637786
+CRBP;Corbus Pharmaceuticals Holdings, Inc.;330.48899326385975
+PIRS;Pieris Pharmaceuticals, Inc.;327.1690815730628
+ASMB;Assembly Biosciences, Inc.;320.2185982968958
+CLUB;Town Sports International Holdings, Inc.;313.7977067977068
+TREE;LendingTree, Inc.;312.90558813649204
+USAT;USA Technologies, Inc.;309.6687665528245
+IIN;IntriCon Corporation;307.29257243608913
+SGMO;Sangamo Therapeutics, Inc.;303.81259464588004
+DVAX;Dynavax Technologies Corporation;298.67890170064885
+EYE;National Vision Holdings, Inc.;298.1339948003932
+SPPI;Spectrum Pharmaceuticals, Inc.;295.5714104634055
+SGMS;Scientific Games Corp;294.5189124636492
+ABCD;Cambium Learning Group, Inc.;293.2009358193325
+AMEH;Apollo Medical Holdings, Inc.;291.20029656432746
+ARWR;Arrowhead Pharmaceuticals, Inc.;290.3252863035335
+EXAS;Exact Sciences Corporation;290.1417682629329
+HTHT;Huazhu Group Limited;289.6192812497387
+SPHS;Sophiris Bio, Inc.;288.3844931687197
+NFLX;Netflix, Inc.;287.2834772119443
+GLPG;Galapagos NV;286.7432767929434
+PLSE;Pulse Biosciences, Inc;285.6540865569934
+WKHS;Workhorse Group, Inc.;285.5415027926458
+FIVN;Five9, Inc.;285.441029482638
+ARQL;ArQule, Inc.;284.8160919540229
+BZUN;Baozun Inc.;283.0291786165207
+ESPR;Esperion Therapeutics, Inc.;281.93133504095385
+CASI;CASI Pharmaceuticals, Inc.;279.86181539961837
+TCCO;Technical Communications Corporation;277.61440015284563
+WB;Weibo Corporation;276.9073740838699
+AGMH;AGM Group Holdings Inc.;275.87301587301585
+BGNE;BeiGene, Ltd.;274.4163944162178
+IMGN;ImmunoGen, Inc.;272.3879000698638
+CUR;Neuralstem, Inc.;272.38690913655665
+QURE;uniQure N.V.;269.09197310694435
+EGAN;eGain Corporation;268.08904409013047
+HRTX;Heron Therapeutics, Inc.  ;265.1525795029753
+MYOK;MyoKardia, Inc.;264.9573707484211
+SAGE;Sage Therapeutics, Inc.;260.628383879368
+MOSY;MoSys, Inc.;260.3924840978795
+YTEN;Yield10 Bioscience, Inc.;259.2546545313687
+SUPN;Supernus Pharmaceuticals, Inc.;257.1899590295618
+OCLR;Oclaro, Inc.;254.19036677853148
+CWST;Casella Waste Systems, Inc.;251.3191221195979
+MTBC;Medical Transcription Billing, Corp.;251.19699265064918
+RMR;The RMR Group Inc.;251.06545818252891
+CEY;VictoryShares Emerging Market High Div Volatility Wtd ETF;250.9990829805847
+ABEO;Abeona Therapeutics Inc.;250.6596453144657
+OLED;Universal Display Corporation;250.5512372451172
+HSKA;Heska Corporation;250.50188827745094
+CYRX;CryoPort, Inc.;250.23796558164122
+NAKD;Naked Brand Group Limited;249.7775978005828
+ALGN;Align Technology, Inc.;248.21877332193742
+ZGNX;Zogenix, Inc.;247.68734675603326
+CORT;Corcept Therapeutics Incorporated;247.44911843237998
+NBIX;Neurocrine Biosciences, Inc.;246.18737938686203
+MGPI;MGP Ingredients, Inc.;242.3548039663666
+RGSE;Real Goods Solar, Inc.;241.7956487956488
+ASPU;Aspen Group Inc.;239.4824495633266
+HIIQ;Health Insurance Innovations, Inc.;238.07713222624318
+EXPO;Exponent, Inc.;237.57832298728988
+LGCY;Legacy Reserves LP;237.225832020847
+OHGI;One Horizon Group, Inc.;237.08166551644806
+INGN;Inogen, Inc;236.13927968548188
+STMP;Stamps.com Inc.;235.91136752246757
+CWBR;CohBar, Inc.;235.88492304706065
+AMZN;Amazon.com, Inc.;234.9251013297313
+MZOR;Mazor Robotics Ltd.;234.27608326047223
+AGNCN;AGNC Investment Corp.;234.13409649096258
+SODA;SodaStream International Ltd.;233.1174067858906
+VKTX;Viking Therapeutics, Inc.;231.36756346682816
+CENT;Central Garden & Pet Company;226.95550243170933
+LGIH;LGI Homes, Inc.;225.8173664670323
+SPAR;Spartan Motors, Inc.;224.62560024903576
+EAST;Eastside Distilling, Inc.;224.61538461538467
+GDEN;Golden Entertainment, Inc.;224.60626441531969
+CDNA;CareDx, Inc.;224.39097189503505
+FIZZ;National Beverage Corp.;224.13299437634745
+BLPH;Bellerophon Therapeutics, Inc.;223.53877822699388
+CDXS;Codexis, Inc.;222.86031468227208
+TRUP;Trupanion, Inc.;222.74620612296215
+CECO;Career Education Corporation;215.49207531833042
+RBB;RBB Bancorp;215.0755680391159
+LMAT;LeMaitre Vascular, Inc.;214.54774002612277
+LPTH;LightPath Technologies, Inc.;213.3891340278094
+EBIX;Ebix, Inc.;213.2075783453099
+LNTH;Lantheus Holdings, Inc.;212.48043862033012
+NVEE;NV5 Global, Inc.;212.47343023825997
+EDUC;Educational Development Corporation;212.04677733099578
+OSTK;Overstock.com, Inc.;211.63219677530267
+CBTX;CBTX, Inc.;209.18561362695723
+FFHL;Fuwei Films (Holdings) Co., Ltd.;209.10555287598106
+IOTS;Adesto Technologies Corporation;208.8021426497845
+TCMD;Tactile Systems Technology, Inc.;208.48513611526053
+NOVT;Novanta Inc.;208.36091130443174
+CUTR;Cutera, Inc.;208.25212473113112
+TRHC;Tabula Rasa HealthCare, Inc.;207.0230379994885
+WIX;Wix.com Ltd.;206.95022958634712
+BMRA;Biomerica, Inc.;205.37318489183082
+TWOU;2U, Inc.;205.2897917567173
+BOOM;DMC Global Inc.;205.1927899836384
+ARGX;argenx SE;204.49820693947143
+RNEM;First Trust Emerging Markets Equity Select ETF;204.27310228445762
+CENTA;Central Garden & Pet Company;204.07449634124904
+AKTS;Akoustis Technologies, Inc.;203.75603471071457
+ESIO;Electro Scientific Industries, Inc.;203.6800867020466
+MIME;Mimecast Limited;203.65538231398511
+APPF;AppFolio, Inc.;203.39556798215372
+UPLD;Upland Software, Inc.;202.49458989722595
+FANH;Fanhua Inc.;201.4507431284336
+LGCYP;Legacy Reserves LP;201.26729361537338
+TPIV;TapImmune Inc.;201.0390626326647
+NHTC;Natural Health Trends Corp.;199.96049660990616
+XNET;Xunlei Limited;198.4669011251358
+GALT;Galectin Therapeutics Inc.;197.7678053165734
+BEAT;BioTelemetry, Inc.;197.4451846505002
+JAGX;Jaguar Health, Inc.;197.1821739408917
+TTWO;Take-Two Interactive Software, Inc.;196.1292429727598
+LGCYO;Legacy Reserves LP;195.55027379092797
+URGN;UroGen Pharma Ltd.;194.94441027170387
+BPMC;Blueprint Medicines Corporation;194.08734011029026
+ECYT;Endocyte, Inc.;193.2392102696044
+CYBE;CyberOptics Corporation;192.57348067340337
+CODA;Coda Octopus Group, Inc.;192.56547493856476
+SEDG;SolarEdge Technologies, Inc.;190.59793643280983
+SKYW;SkyWest, Inc.;190.15113749218483
+COHR;Coherent, Inc.;189.83383642013936
+SITO;SITO Mobile, Ltd.;188.7610151256249
+INNT;Innovate Biopharmaceuticals, Inc.;186.19664221578336
+AAOI;Applied Optoelectronics, Inc.;185.08945589193365
+PLBC;Plumas Bancorp;184.85802023370542
+PRAH;PRA Health Sciences, Inc.;184.7408699807854
+LGND;Ligand Pharmaceuticals Incorporated;183.9786257762435
+DAIO;Data I/O Corporation;183.84345152292772
+VICR;Vicor Corporation;183.56374667343948
+RFIL;RF Industries, Ltd.;182.2268809690194
+PRMW;Primo Water Corporation;181.73092852721308
+NVTR;Nuvectra Corporation;181.61164546518768
+CRSP;CRISPR Therapeutics AG;181.59799238469157
+NMRD;Nemaura Medical Inc.;180.50880626223093
+CIFS;China Internet Nationwide Financial Services Inc.;179.8524392407369
+ATVI;Activision Blizzard, Inc;179.77800648991865
+OTIV;On Track Innovations Ltd;179.16899300731637
+ZAGG;ZAGG Inc;178.10353025951065
+ASND;Ascendis Pharma A/S;177.89000315058564
+JSML;Janus Henderson Small Cap Growth Alpha ETF;177.85518112903588
+CEZ;VictoryShares Emerging Market Volatility Wtd ETF;177.6884441138846
+ORBK;Orbotech Ltd.;176.85308731602265
+ARRY;Array BioPharma Inc.;175.65538187878292
+TCX;Tucows Inc.;175.25140213107943
+CRNT;Ceragon Networks Ltd.;174.61629409500688
+ULBI;Ultralife Corporation;173.5936878730272
+UBIO;Proshares UltraPro Nasdaq Biotechnology;172.01633768150685
+MASI;Masimo Corporation;171.6865326463485
+OLLI;"Ollie&#39;s Bargain Outlet Holdings, Inc.";171.31945534409158
+STAA;STAAR Surgical Company;171.28577443453034
+REPH;Recro Pharma, Inc.;170.9131608509448
+DRRX;DURECT Corporation;170.17326855998257
+FMAO;Farmers & Merchants Bancorp, Inc.;168.99549565385445
+BBSI;Barrett Business Services, Inc.;168.2793071014122
+SLP;Simulations Plus, Inc.;167.54624034799136
+TQQQ;ProShares UltraPro QQQ;167.2044533976075
+CERC;Cerecor Inc.;164.27649652368757
+VSTM;Verastem, Inc.;163.89062780481268
+TTD;The Trade Desk, Inc.;163.84915076570041
+SSC;Seven Stars Cloud Group, Inc.;163.80319667545754
+ITI;Iteris, Inc.;163.33689297623994
+SSTI;ShotSpotter, Inc.;162.94990128091655
+ICUI;ICU Medical, Inc.;162.89671479699385
+DMPI;DelMar Pharmaceuticals, Inc.;161.23578694776688
+GCVRZ;Sanofi;159.60556210389657
+GGAL;Grupo Financiero Galicia S.A.;158.87895035228473
+NEO;NeoGenomics, Inc.;158.78948462294449
+RCKT;Rocket Pharmaceuticals, Inc.;158.6728282197858
+WLDN;Willdan Group, Inc.;158.43903278814835
+TSBK;Timberland Bancorp, Inc.;157.7813681006073
+XENT;Intersect ENT, Inc.;157.6681956529822
+GLMD;Galmed Pharmaceuticals Ltd.;155.8184787764147
+WIFI;Boingo Wireless, Inc.;155.58779690770382
+CASH;Meta Financial Group, Inc.;155.41803036172809
+AAXN;Axon Enterprise, Inc.;155.02653501503698
+CALI;China Auto Logistics Inc.;154.92203727875403
+APEN;Apollo Endosurgery, Inc.;153.84520995273766
+IIVI;II-VI Incorporated;153.70421626451272
+TIG;TiGenix;153.2083839252535
+VCEL;Vericel Corporation;152.81965114735172
+RICK;RCI Hospitality Holdings, Inc.;152.7578939474115
+FSBW;FS Bancorp, Inc.;152.69684229709898
+CPRX;Catalyst Pharmaceuticals, Inc.;152.41513942232206
+IPGP;IPG Photonics Corporation;151.51764381825248
+FOLD;Amicus Therapeutics, Inc.;151.23958111911668
+MRCY;Mercury Systems Inc;150.6937411948649
+RGNX;REGENXBIO Inc.;149.83778860293916
+LITE;Lumentum Holdings Inc.;149.16779892933238
+CTRL;Control4 Corporation;149.10680053467127
+FATE;Fate Therapeutics, Inc.;148.9935421161018
+TEAM;Atlassian Corporation Plc;148.9815707452188
+ADBE;Adobe Systems Incorporated;148.34756645203316
+NVCR;NovoCure Limited;147.95994794977923
+PATK;Patrick Industries, Inc.;147.92029796291706
+BBGI;Beasley Broadcast Group, Inc.;146.36835757287997
+MOMO;Momo Inc.;146.32166878421395
+JOUT;Johnson Outdoors Inc.;146.08424340206517
+EVBG;Everbridge, Inc.;145.84005225481323
+LOGI;Logitech International S.A.;145.71767939117566
+TTGT;TechTarget, Inc.;145.40720974878496
+ETSY;Etsy, Inc.;145.1769562418013
+UCTT;Ultra Clean Holdings, Inc.;145.03901478782728
+OTEL;Otelco Inc.;144.92238889664026
+EXTR;Extreme Networks, Inc.;144.7268842461549
+GTHX;G1 Therapeutics, Inc.;144.37012689116642
+SSKN;Strata Skin Sciences, Inc.;144.26155969634226
+PETS;PetMed Express, Inc.;144.0216078547302
+CORV;Correvio Pharma Corp.;143.87096774193546
+KNSL;Kinsale Capital Group, Inc.;143.60417709023218
+EOLS;Evolus, Inc.;143.39130434782606
+ZN;Zion Oil & Gas Inc;143.06780600801233
+GLYC;GlycoMimetics, Inc.;143.02099201261044
+CHDN;Churchill Downs, Incorporated;142.9619259381783
+IRTC;iRhythm Technologies, Inc.;142.958388575105
+ITCI;Intra-Cellular Therapies Inc.;142.8942123712613
+NSSC;NAPCO Security Technologies, Inc.;142.51416921148567
+AVAV;AeroVironment, Inc.;142.09468646382345
+ENPH;Enphase Energy, Inc.;142.01070629889068
+BLUE;bluebird bio, Inc.;141.82007262805723
+CONN;"Conn&#39;s, Inc.";141.6517804764528
+HQY;HealthEquity, Inc.;141.48087548233138
+SMMF;Summit Financial Group, Inc.;141.3497463281298
+MRUS;Merus N.V.;141.19818317798666
+SESN;Sesen Bio, Inc.;140.7407407407407
+MBIN;Merchants Bancorp;140.5262453604066
+QNST;QuinStreet, Inc.;140.31476388218402
+CCCR;China Commercial Credit, Inc.;140.086981882241
+AMRN;Amarin Corporation plc;140.07320429823272
+ALNY;Alnylam Pharmaceuticals, Inc.;140.03516841493035
+CGNX;Cognex Corporation;139.86298110436684
+QDEL;Quidel Corporation;139.83579914748987
+SGH;SMART Global Holdings, Inc.;139.6546397149072
+MMSI;Merit Medical Systems, Inc.;139.31497302792684
+NTES;NetEase, Inc.;139.23523752812355
+FOXF;Fox Factory Holding Corp.;139.0732608433432
+CARB;Carbonite, Inc.;138.90036677164602
+SINO;Sino-Global Shipping America, Ltd.;138.32700803445198
+AMWD;American Woodmark Corporation;138.26149756851868
+GAIA;Gaia, Inc.;137.6803368296887
+PENN;Penn National Gaming, Inc.;137.59110028562355
+HCM;Hutchison China MediTech Limited;137.4683731960585
+PCMI;PCM, Inc.;137.46660321428274
+UBNT;Ubiquiti Networks, Inc.;137.05383994020207
+JOBS;51job, Inc.;136.24088916121786
+QCRH;QCR Holdings, Inc.;135.83562135869622
+SPRT;support.com, Inc.;135.8173290980518
+CPRT;Copart, Inc.;135.75230963845604
+BCOR;Blucora, Inc.;135.3635100127116
+CLPS;CLPS Incorporation;135.02722323049002
+IDXX;IDEXX Laboratories, Inc.;134.9579577119457
+VRNS;Varonis Systems, Inc.;134.4994005772146
+CARO;Carolina Financial Corporation;134.42116112664013
+XNCR;Xencor, Inc.;134.19477280680067
+ENTA;Enanta Pharmaceuticals, Inc.;134.19351220065818
+ARDM;Aradigm Corporation;134.10149890366006
+ASUR;Asure Software Inc;133.7808722308983
+BLDR;Builders FirstSource, Inc.;133.40178172958645
+TSRO;TESARO, Inc.;133.36598521283636
+VRAY;ViewRay, Inc.;133.3298863773648
+RARE;Ultragenyx Pharmaceutical Inc.;133.0334516227282
+IRMD;iRadimed Corporation;132.8891523666259
+GENC;Gencor Industries Inc.;132.3223024731112
+HLNE;Hamilton Lane Incorporated;131.97796654046996
+OSBC;Old Second Bancorp, Inc.;130.91103996499675
+KONE;Kingtone Wirelessinfo Solution Holding Ltd;130.8676486337111
+HOFT;Hooker Furniture Corporation;130.35639782750462
+AXTI;AXT Inc;130.2867227146104
+CCRC;China Customer Relations Centers, Inc.;129.99914539717713
+SBLKZ;Star Bulk Carriers Corp.;129.9843541881715
+YY;YY Inc.;129.36420470214807
+CEMI;Chembio Diagnostics, Inc.;128.58964007001043
+COLL;Collegium Pharmaceutical, Inc.;128.38835138344282
+AMED;Amedisys Inc;128.38288264388865
+SRDX;Surmodics, Inc.;128.24968365377447
+TBK;Triumph Bancorp, Inc.;127.96230833103938
+DRNA;Dicerna Pharmaceuticals, Inc.;127.68333402522624
+PRTA;Prothena Corporation plc;127.61873370054428
+PDEX;Pro-Dex, Inc.;127.59037473910722
+UTSI;UTStarcom Holdings Corp;127.43256099155522
+EA;Electronic Arts Inc.;127.31712673056106
+FGEN;FibroGen, Inc;127.05119637232397
+NEPT;Neptune Technologies & Bioresources Inc;126.9209756598975
+NVMI;Nova Measuring Instruments Ltd.;126.59486221212087
+BRKS;Brooks Automation, Inc.;126.3864649603181
+SBBX;SB One Bancorp;126.29526483994302
+MITK;Mitek Systems, Inc.;125.96659449427779
+LHCG;LHC Group;125.91880818194865
+AEIS;Advanced Energy Industries, Inc.;125.63978652258271
+RADA;RADA Electronic Industries Ltd.;125.53662006275425
+FLL;Full House Resorts, Inc.;124.9578035098171
+MKTX;MarketAxess Holdings, Inc.;124.57003620125813
+CAMT;Camtek Ltd.;124.52007834434971
+EFSC;Enterprise Financial Services Corporation;124.42567111763604
+MCRI;Monarch Casino & Resort, Inc.;124.25093878756346
+TTMI;TTM Technologies, Inc.;124.07776896030563
+CATS;Catasys, Inc.;124.0309620533894
+FSFG;First Savings Financial Group, Inc.;123.09538143361792
+CIGI;Colliers International Group Inc. ;122.9636672110997
+TLND;Talend S.A.;122.91075810652181
+RETA;Reata Pharmaceuticals, Inc.;122.73812745366304
+HALO;Halozyme Therapeutics, Inc.;122.16923708366242
+AMCA;iShares Russell 1000 Pure U.S. Revenue ETF;122.16231659398889
+NEXT;NextDecade Corporation;122.1530353724126
+CVCO;Cavco Industries, Inc.;122.10661949977128
+FBIOP;Fortress Biotech, Inc.;122.08143336804689
+SFBS;ServisFirst Bancshares, Inc.;121.7213733768635
+ALTR;Altair Engineering Inc.;121.63351262768532
+MKSI;MKS Instruments, Inc.;121.38993018258192
+MELI;MercadoLibre, Inc.;120.94940022733417
+FDBC;Fidelity D & D Bancorp, Inc.;120.85371280998717
+FSV;FirstService Corporation;120.75611060409383
+HMNY;Helios and Matheson Analytics Inc;120.54793695049898
+CCXI;ChemoCentryx, Inc.;120.426937920109
+MTCH;Match Group, Inc.;120.23185233531389
+ROCK;Gibraltar Industries, Inc.;120.12841166655271
+HIFS;Hingham Institution for Savings;120.02552561411412
+NFEC;NF Energy Saving Corporation;119.64609012339102
+ATSG;Air Transport Services Group, Inc;119.60469205072698
+TACT;TransAct Technologies Incorporated;119.16474807264098
+APPN;Appian Corporation;119.10373596116989
+QBAK;Qualstar Corporation;118.32745436236311
+PTLA;Portola Pharmaceuticals, Inc.;118.06396217640571
+PNK;Pinnacle Entertainment, Inc.;118.05393302391823
+FONR;Fonar Corporation;118.01003964164667
+BLDP;Ballard Power Systems, Inc.;117.98302519690127
+ISRG;Intuitive Surgical, Inc.;117.86924072182266
+LOPE;Grand Canyon Education, Inc.;117.80898092967615
+CTMX;CytomX Therapeutics, Inc.;117.65819098029976
+ITIC;Investors Title Company;117.3096757236308
+ICLR;ICON plc;117.25073543917671
+WVE;WAVE Life Sciences Ltd.;117.09430589905556
+AZPN;Aspen Technology, Inc.;117.08723829461601
+PLUS;ePlus inc.;117.04604630056966
+VRSN;VeriSign, Inc.;116.92698078234613
+ACGLO;Arch Capital Group Ltd.;116.87381233452122
+ENTG;Entegris, Inc.;116.70136851494952
+CSFL;CenterState Bank Corporation;116.6802212057305
+MLAB;Mesa Laboratories, Inc.;116.55253865957104
+TSC;TriState Capital Holdings, Inc.;116.41370364612897
+SHSP;SharpSpring, Inc.;116.39190148721204
+UNTY;Unity Bancorp, Inc.;116.38112262906735
+PTC;PTC Inc.;116.12626825607305
+PCTY;Paylocity Holding Corporation;115.84173559709895
+ACRS;Aclaris Therapeutics, Inc.;115.76431458021189
+KURA;Kura Oncology, Inc.;115.61829610037746
+CACC;Credit Acceptance Corporation;115.36331758097182
+ALRM;Alarm.com Holdings, Inc.;114.94422702222066
+MPWR;Monolithic Power Systems, Inc.;114.7256402608405
+INTL;INTL FCStone Inc.;114.03451491249062
+CIVB;Civista Bancshares, Inc. ;113.55954716858852
+DFBG;Differential Brands Group Inc.;113.32239779576105
+PEGA;Pegasystems Inc.;113.31172642594686
+SAIA;Saia, Inc.;113.20414543910114
+RILY;B. Riley Financial, Inc.;113.1853885218973
+KTOS;Kratos Defense & Security Solutions, Inc.;112.8866282158963
+PPBI;Pacific Premier Bancorp Inc;112.70346617868202
+ACLS;Axcelis Technologies, Inc.;112.38893676036884
+STLD;Steel Dynamics, Inc.;111.67737952732864
+BOMN;Boston Omaha Corporation;111.61697233583912
+FBMS;The First Bancshares, Inc.;111.29464778684087
+CASM;CAS Medical Systems, Inc.;111.28341979249798
+IMMR;Immersion Corporation;111.08930693231108
+BLKB;Blackbaud, Inc.;110.87827289314089
+OFLX;Omega Flex, Inc.;110.65235629328285
+CVGI;Commercial Vehicle Group, Inc.;110.58510590157151
+RP;RealPage, Inc.;110.57222498127307
+IMTE;Integrated Media Technology Limited;110.52674234434303
+SFST;Southern First Bancshares, Inc.;110.31887426629996
+GTLS;Chart Industries, Inc.;110.03356546918803
+CENX;Century Aluminum Company;109.99245816979177
+IAC;IAC/InterActiveCorp;109.2210790900258
+LLNW;Limelight Networks, Inc.;109.06617526956568
+TUSK;Mammoth Energy Services, Inc.;108.89770918396911
+CSGP;CoStar Group, Inc.;108.71642434163148
+BOLD;Audentes Therapeutics, Inc.;108.50412017383005
+PNTR;Pointer Telocation Ltd.;108.07191703111963
+SIVB;SVB Financial Group;108.04693626356699
+QLYS;Qualys, Inc.;107.9319433222714
+PYPL;PayPal Holdings, Inc.;107.87117257357586
+IQ;iQIYI, Inc.;107.71703536977492
+TRCB;Two River Bancorp;107.55225581981483
+ETFC;E*TRADE Financial Corporation;107.35050462089764
+FIVE;Five Below, Inc.;107.2067644074898
+ADUS;Addus HomeCare Corporation;106.5371572911685
+RVNC;Revance Therapeutics, Inc.;106.38137749033858
+IART;Integra LifeSciences Holdings Corporation;106.38038655225182
+AERI;Aerie Pharmaceuticals, Inc.;106.23545626724734
+SSFN;Stewardship Financial Corp;106.09534910905896
+FFKT;Farmers Capital Bank Corporation;106.06220758860717
+ICHR;Ichor Holdings;105.66469631751414
+AOSL;Alpha and Omega Semiconductor Limited;105.65573198546448
+CTRP;Ctrip.com International, Ltd.;105.64813514927866
+PCYO;Pure Cycle Corporation;105.58263596270785
+JNP;Juniper Pharmaceuticals, Inc.;105.56176831875895
+LFUS;Littelfuse, Inc.;105.22791498948894
+DWSN;Dawson Geophysical Company;105.10685303467734
+NEWA;Newater Technology, Inc.;105.01614932126695
+SFLY;Shutterfly, Inc.;104.80099439913072
+STRL;Sterling Construction Company Inc;104.53630725867401
+AVGO;Broadcom Inc.;104.18410611586002
+FRBA;First Bank;104.17676323150776
+FB;Facebook, Inc.;104.07296692025174
+IBKR;Interactive Brokers Group, Inc.;104.03487118689661
+GVP;GSE Systems, Inc.;103.55987155647595
+PFBC;Preferred Bank;103.55877444708094
+MCBC;Macatawa Bank Corporation;103.44643226427462
+FRBK;Republic First Bancorp, Inc.;103.36867662022459
+NANO;Nanometrics Incorporated;103.36567084118401
+PAAS;Pan American Silver Corp.;103.05998104093723
+OSUR;OraSure Technologies, Inc.;102.93436510611828
+BLBD;Blue Bird Corporation;102.67197447318169
+TVTY;Tivity Health, Inc.;102.42392829562044
+NTRI;NutriSystem Inc;102.40010789589543
+TZOO;Travelzoo;102.35757022362382
+MBUU;Malibu Boats, Inc.;102.31721355863627
+ROKU;Roku, Inc.;102.19177330271441
+LOGM;LogMein, Inc.;102.07524828168879
+FUNC;First United Corporation;101.8770455025765
+INSM;Insmed, Inc.;101.70005412551407
+PRPH;ProPhase Labs, Inc.;101.50453234165602
+NTIC;Northern Technologies International Corporation;101.39644179583836
+CDNS;Cadence Design Systems, Inc.;101.39169150446669
+STRS;Stratus Properties Inc.;101.2132233373882
+IRBT;iRobot Corporation;100.81521149053626
+UNB;Union Bankshares, Inc.;100.77504258540841
+FBNC;First Bancorp;100.65576604982012
+RCKY;Rocky Brands, Inc.;100.50903336152957
+BNSO;Bonso Electronics International, Inc.;100.48678709481766
+MNOV;MediciNova, Inc.;100.30289647623111
+PVAC;Penn Virginia Corporation;100.12293242454922
+EVSTC;Eaton Vance NextShares Trust;100.00999500010028
+LXRX;Lexicon Pharmaceuticals, Inc.;100.00246862663484
+EVLMC;Eaton Vance NextShares Trust II;99.97010497114125
+EVGBC;Eaton Vance NextShares Trust;99.92004497751063
+TTEK;Tetra Tech, Inc.;99.91949511717466
+OKDCC;Eaton Vance NextShares Trust II;99.90010588352811
+MBTF;M B T Financial Corp;99.8823845250917
+ANGI;ANGI Homeservices Inc.;99.80006004761395
+USCR;U S Concrete, Inc.;99.72843509591176
+PMD;Psychemedics Corporation;99.71915406370411
+OKTA;Okta, Inc.;99.29518866455854
+POOL;Pool Corporation;99.2519069615346
+CCMP;Cabot Microelectronics Corporation;99.20769038712005
+ADMS;Adamas Pharmaceuticals, Inc.;99.20696574600937
+LRCX;Lam Research Corporation;98.91515167908065
+CTAS;Cintas Corporation;98.90639737270406
+BASI;Bioanalytical Systems, Inc.;98.8978662177355
+GLUU;Glu Mobile Inc.;98.74931129476587
+NBN;Northeast Bancorp;98.73681915380612
+Z;Zillow Group, Inc.;98.56211688153392
+OLBK;Old Line Bancshares, Inc.;98.56190877665523
+LPSN;LivePerson, Inc.;98.52832376802675
+FCCO;First Community Corporation;98.46311741679662
+CDW;CDW Corporation;98.43923932591167
+SBCF;Seacoast Banking Corporation of Florida;98.33521651504287
+CWAY;Coastway Bancorp, Inc.;98.19540087067082
+SYNH;Syneos Health, Inc.;97.87407481779918
+SBBP;Strongbridge Biopharma plc;97.83133062640145
+SINA;Sina Corporation;97.77297529239188
+IESC;IES Holdings, Inc.;97.33410382799971
+PLCE;"Children&#39;s Place, Inc. (The)";97.18899618435572
+PFIE;Profire Energy, Inc.;97.09797096601162
+NCOM;National Commerce Corporation;96.8593566218224
+AMAT;Applied Materials, Inc.;96.65074818212568
+PKBK;Parke Bancorp, Inc.;96.51985987992441
+FMBH;First Mid-Illinois Bancshares, Inc.;96.38102830941146
+NTAP;NetApp, Inc.;96.38054252417388
+COUP;Coupa Software Incorporated;96.27554637715367
+MU;Micron Technology, Inc.;96.14678335124941
+CZFC;Citizens First Corporation;96.07856739100137
+TOWN;Towne Bank;96.01687788735687
+QADA;QAD Inc.;95.97788891931687
+AGFS;AgroFresh Solutions, Inc.;95.96334263838784
+RCM;R1 RCM Inc.;95.93679458239279
+FRPT;Freshpet, Inc.;95.90035723754575
+VBTX;Veritex Holdings, Inc.;95.7387775771556
+TXMD;TherapeuticsMD, Inc.;95.73027235866083
+XENE;Xenon Pharmaceuticals Inc.;95.71557959544333
+INBK;First Internet Bancorp;95.66212974630263
+UCBA;United Community Bancorp;95.57288295141673
+GFN;General Finance Corporation;95.48035498708703
+NEOG;Neogen Corporation;95.06268126373394
+CNCE;Concert Pharmaceuticals, Inc.;94.86653024114838
+KINS;Kingstone Companies, Inc;94.70405988634398
+JYNT;The Joint Corp.;94.64752395313013
+PFPT;Proofpoint, Inc.;94.63446702036923
+ON;ON Semiconductor Corporation;94.6082286848526
+EGHT;8x8 Inc;94.47605895075012
+RLJE;RLJ Entertainment, Inc.;94.46598241113807
+BKYI;BIO-key International, Inc.;94.3932999046898
+PODD;Insulet Corporation;94.30229448438313
+RGEN;Repligen Corporation;93.8239886685291
+INTU;Intuit Inc.;93.45688075205484
+FCCY;1st Constitution Bancorp (NJ);93.2146964439678
+TMUS;T-Mobile US, Inc.;93.14776426498828
+NCBS;Nicolet Bankshares Inc.;93.07785323901919
+PGTI;PGT Innovations, Inc.;92.90474477360299
+OVLY;Oak Valley Bancorp (CA);92.86396224184446
+DSGX;The Descartes Systems Group Inc.;92.48747978871859
+CORI;Corium International, Inc.;92.43602701216061
+EQFN;Equitable Financial Corp.;92.13310367874821
+LOAN;Manhattan Bridge Capital, Inc;92.12366209432987
+QADB;QAD Inc.;91.97878141724271
+PRSC;The Providence Service Corporation;91.93152224317853
+HTLF;Heartland Financial USA, Inc.;91.40994867024659
+ANSS;ANSYS, Inc.;91.31226450766253
+NAII;Natural Alternatives International, Inc.;91.30622095855517
+GCBC;Greene County Bancorp, Inc.;91.2562485545849
+TPIC;TPI Composites, Inc.;91.14648371706474
+UFPI;Universal Forest Products, Inc.;91.07928457626657
+SMBC;Southern Missouri Bancorp, Inc.;90.89978077082205
+MGRC;McGrath RentCorp;90.80517238706663
+WSFS;WSFS Financial Corporation;90.7913994562013
+UBFO;United Security Bancshares;90.77654163361595
+AQMS;Aqua Metals, Inc.;90.68622600813279
+LUNA;Luna Innovations Incorporated;90.67145307522664
+EXLS;ExlService Holdings, Inc.;90.40813406217197
+COHU;Cohu, Inc.;90.34680103881269
+ENFC;Entegra Financial Corp.;90.24814406418741
+SBFG;SB Financial Group, Inc.;90.13604946099608
+BREW;Craft Brew Alliance, Inc.;89.98176924962682
+PSCH;Invesco S&P SmallCap Health Care ETF;89.7807528763798
+UCFC;United Community Financial Corp.;89.71176657464893
+FANG;Diamondback Energy, Inc.;89.65822262017642
+IBTX;Independent Bank Group, Inc;89.54464042583498
+BOFI;BofI Holding, Inc.;89.54315490710702
+FRME;First Merchants Corporation;89.52032875308294
+TAST;Carrols Restaurant Group, Inc.;89.47312360860369
+CFBK;Central Federal Corporation;89.38276172432876
+CARA;Cara Therapeutics, Inc.;89.27182121641442
+FNBG;FNB Bancorp;89.18121703557017
+SIGI;Selective Insurance Group, Inc.;89.12256093583103
+EYPT;EyePoint Pharmaceuticals, Inc.;89.0909090909091
+CDEV;Centennial Resource Development, Inc.;89.09053913032321
+COKE;Coca-Cola Bottling Co. Consolidated;88.99934704167273
+FCBC;First Community Bancshares, Inc.;88.84665377030447
+ABCB;Ameris Bancorp;88.63929494951395
+DXCM;DexCom, Inc.;88.61878080300868
+CRAI;CRA International,Inc.;88.52625461579706
+HCKT;The Hackett Group, Inc.;88.44356841728452
+RGCO;RGC Resources Inc.;88.27311839421999
+GBNK;Guaranty Bancorp;88.1536490690572
+RTRX;Retrophin, Inc.;87.97902668434307
+KEQU;Kewaunee Scientific Corporation;87.81162886466761
+AKER;Akers Biosciences Inc;87.80460575404268
+NSIT;Insight Enterprises, Inc.;87.597954219159
+GOOG;Alphabet Inc.;87.29988565082009
+LJPC;La Jolla Pharmaceutical Company;87.17247909910056
+OVBC;Ohio Valley Banc Corp.;87.11523868860182
+SYBT;Stock Yards Bancorp, Inc.;87.09660659608258
+ROLL;RBC Bearings Incorporated;87.05946003179768
+GOOGL;Alphabet Inc.;86.85151323513495
+FTNT;Fortinet, Inc.;86.69003816280245
+TSEM;Tower Semiconductor Ltd.;86.68652866923017
+CBAN;Colony Bankcorp, Inc.;86.00566797851148
+CONE;CyrusOne Inc;85.95614827117491
+ENG;ENGlobal Corporation;85.53486813701993
+ODFL;Old Dominion Freight Line, Inc.;85.45051378765
+LULU;lululemon athletica inc.;85.38959758144564
+JKHY;Jack Henry & Associates, Inc.;85.25890900837229
+RBNC;Reliant Bancorp, Inc.;85.16475731905503
+ADSK;Autodesk, Inc.;85.05279123585218
+YNDX;Yandex N.V.;84.8561557003117
+MSEX;Middlesex Water Company;84.83416535283715
+HBCP;Home Bancorp, Inc.;84.82492119459219
+EPAY;Bottomline Technologies, Inc.;84.78411776985546
+CHFN;Charter Financial Corp.;84.73488629027499
+IPAR;Inter Parfums, Inc.;84.73177855825507
+MPB;Mid Penn Bancorp;84.66432984376239
+AMOT;Allied Motion Technologies, Inc.;84.60568209686623
+DCPH;Deciphera Pharmaceuticals, Inc.;84.5307782333065
+BANF;BancFirst Corporation;84.37449033348673
+FISV;Fiserv, Inc.;84.10042557254773
+GILT;Gilat Satellite Networks Ltd.;84.04429703125547
+OFIX;Orthofix International N.V.;83.99583346367329
+HFWA;Heritage Financial Corporation;83.97616071694506
+GWPH;GW Pharmaceuticals Plc;83.90930755885972
+FFWM;First Foundation Inc.;83.74187492205172
+NERV;Minerva Neurosciences, Inc;83.72914531949729
+VTSI;VirTra, Inc.;83.70035602927516
+ESLT;Elbit Systems Ltd.;83.69302168814927
+MSBF;MSB Financial Corp.;83.67486425562987
+MSFT;Microsoft Corporation;83.46111767455785
+MCFT;MCBC Holdings, Inc.;83.42088163670168
+NMIH;NMI Holdings Inc;83.37783466719853
+TSG;The Stars Group Inc.;83.34595718030072
+MLNX;Mellanox Technologies, Ltd.;83.22869848978334
+MLVF;Malvern Bancorp, Inc.;83.1666300308495
+TXN;Texas Instruments Incorporated;83.14487282705679
+SGEN;Seattle Genetics, Inc.;83.02758280866941
+SHEN;Shenandoah Telecommunications Co;83.01441725833632
+PNQI;Invesco Nasdaq Internet ETF;82.63674819586927
+SIEN;Sientra, Inc.;82.62858259654978
+SLAB;Silicon Laboratories, Inc.;82.36847359841744
+PVBC;Provident Bancorp, Inc.;82.34133490956205
+RDNT;RadNet, Inc.;82.26122987334222
+MARK;Remark Holdings, Inc.;82.25215836097085
+NICE;NICE Ltd;82.14816477067038
+ARNA;Arena Pharmaceuticals, Inc.;82.01758764324791
+EBMT;Eagle Bancorp Montana, Inc.;81.99029245516208
+SBLK;Star Bulk Carriers Corp.;81.75214449602277
+GABC;German American Bancorp, Inc.;81.73324100124407
+CVGW;Calavo Growers, Inc.;81.69764698072025
+IBCP;Independent Bank Corporation;81.66670328575977
+MCHP;Microchip Technology Incorporated;81.47140656320727
+ESXB;Community Bankers Trust Corporation.;81.34650072150069
+CBPO;China Biologic Products Holdings, Inc.;81.15200145514926
+ATRA;Atara Biotherapeutics, Inc.;81.06252449681813
+ABTX;Allegiance Bancshares, Inc.;80.93588301534622
+SHBI;Shore Bancshares Inc;80.88655844970233
+KBAL;Kimball International, Inc.;80.8402268890201
+BOCH;Bank of Commerce Holdings (CA);80.68128135393104
+PLAY;"Dave & Buster&#39;s Entertainment, Inc.";80.50584948379667
+AUPH;Aurinia Pharmaceuticals Inc;80.4290506271978
+CTXS;Citrix Systems, Inc.;80.40567221162686
+CHFC;Chemical Financial Corporation;80.28955082086921
+SIRI;Sirius XM Holdings Inc.;80.27538998343135
+FDEF;First Defiance Financial Corp.;80.17577040264547
+CRUS;Cirrus Logic, Inc.;80.14098843978225
+ELOX;Eloxx Pharmaceuticals, Inc.;80.10878010878012
+ASML;ASML Holding N.V.;79.9384076386842
+SNPS;Synopsys, Inc.;79.89612737531569
+HTBK;Heritage Commerce Corp;79.80716640814984
+IBUY;Amplify Online Retail ETF;79.57551754375947
+ZG;Zillow Group, Inc.;79.50271967473971
+COLM;Columbia Sportswear Company;79.39521893119617
+ZION;Zions Bancorporation;79.28026891129946
+CIVBP;Civista Bancshares, Inc. ;79.01532553128803
+KGJI;Kingold Jewelry Inc.;78.87363470466052
+DSWL;Deswell Industries, Inc.;78.86109417758185
+CEVA;CEVA, Inc.;78.82938178634568
+HBP;Huttig Building Products, Inc.;78.78280942006432
+APOP;Cellect Biotechnology Ltd.;78.72162014821679
+AXAS;Abraxas Petroleum Corporation;78.67865511387278
+BRKL;Brookline Bancorp, Inc.;78.6448749014629
+ACMR;ACM Research, Inc.;78.5918061233493
+WRLD;World Acceptance Corporation;78.58696974711634
+MORN;Morningstar, Inc.;78.55586450176415
+TSRI;TSR, Inc.;78.53499949169422
+NSTG;NanoString Technologies, Inc.;78.47982961348806
+ZIV;Credit Suisse AG;78.42456528710781
+ICFI;ICF International, Inc.;78.39993806601484
+RUTH;"Ruth&#39;s Hospitality Group, Inc.";78.25332111440595
+CSX;CSX Corporation;78.18193079022409
+NWFL;Norwood Financial Corp.;78.1787186687432
+UTMD;Utah Medical Products, Inc.;78.06856470455182
+MBWM;Mercantile Bank Corporation;78.02849923092779
+CNBKA;Century Bancorp, Inc.;77.95607128393745
+UONE;Urban One, Inc. ;77.86127048285857
+CNTY;Century Casinos, Inc.;77.78230810082796
+UFCS;United Fire Group, Inc;77.76585126607692
+RVSB;Riverview Bancorp Inc;77.76230370274497
+WTFC;Wintrust Financial Corporation;77.69862743121688
+SSNC;SS&C Technologies Holdings, Inc.;77.63297856252973
+INDB;Independent Bank Corp.;77.4923597050118
+ZBRA;Zebra Technologies Corporation;77.4073994240175
+ISTR;Investar Holding Corporation;77.2388987083797
+SOCL;Global X Social Media ETF;77.06064580477107
+TRNS;Transcat, Inc.;76.90608666226272
+PGC;Peapack-Gladstone Financial Corporation;76.89505425349638
+SMTC;Semtech Corporation;76.84936915087444
+CVCY;Central Valley Community Bancorp;76.76284426034587
+EQIX;Equinix, Inc.;76.66872034954633
+EZPW;EZCORP, Inc.;76.52427969773328
+ALBO;Albireo Pharma, Inc.;76.5171397995745
+BLMT;BSB Bancorp, Inc.;76.31710552844933
+IRCP;IRSA Propiedades Comerciales S.A.;76.2635529202465
+IPCC;Infinity Property and Casualty Corporation;75.76315539997042
+RBCAA;Republic Bancorp, Inc.;75.67626551610907
+EBTC;Enterprise Bancorp Inc;75.56592919274323
+SOXX;iShares PHLX SOX Semiconductor Sector Index Fund;75.56012684772023
+TXRH;Texas Roadhouse, Inc.;75.4106357545418
+CMPR;Cimpress N.V;75.34935665589579
+SIFY;Sify Technologies Limited;75.16004092910545
+NDSN;Nordson Corporation;75.03798563730476
+ULTA;Ulta Beauty, Inc.;74.87999900878002
+ARTX;Arotech Corporation;74.83366312228935
+KZIA;Kazia Therapeutics Limited;74.6330044657361
+KMPH;KemPharm, Inc.;74.56983926264978
+CATC;Cambridge Bancorp;74.47051449105177
+TBPH;Theravance Biopharma, Inc.;74.41539092430378
+NDAQ;Nasdaq, Inc.;74.41043083808442
+HIHO;Highway Holdings Limited;74.21305541621844
+HA;Hawaiian Holdings, Inc.;74.15906427983963
+SIMO;Silicon Motion Technology Corporation;74.1164917422185
+KWEB;KraneShares Trust KraneShares CSI China Internet ETF;74.05687507585719
+CDZI;Cadiz, Inc.;73.93952886318846
+KLXI;KLX Inc.;73.92215996303717
+EDIT;Editas Medicine, Inc.;73.9159570068263
+CHTR;Charter Communications, Inc.;73.78190221634199
+CME;CME Group Inc.;73.7584350789963
+MYGN;Myriad Genetics, Inc.;73.5661015736394
+TYME;Tyme Technologies, Inc.;73.49996206912718
+VRTX;Vertex Pharmaceuticals Incorporated;73.4477264355024
+CADC;China Advanced Construction Materials Group, Inc.;73.43200981577417
+LBAI;Lakeland Bancorp, Inc.;73.41018013101957
+FSBC;FSB Bancorp, Inc.;73.35307285932065
+SSRM;SSR Mining Inc.;73.33333191221394
+CBOE;Cboe Global Markets, Inc.;73.3316429913471
+SFIX;Stitch Fix, Inc.;73.23200257462999
+HBNC;Horizon Bancorp, Inc.;73.22247430425928
+WEN;"Wendy&#39;s Company (The)";73.20887751347257
+OCFC;OceanFirst Financial Corp.;73.1870775585591
+DLTH;Duluth Holdings Inc.;73.08661114002501
+FMNB;Farmers National Banc Corp.;72.95936380529783
+MANT;ManTech International Corporation;72.94291614318453
+ARTNA;Artesian Resources Corporation;72.93976434482387
+HCCI;Heritage-Crystal Clean, Inc.;72.59605991734864
+FSNN;Fusion Connect, Inc.;72.49346070018
+LOB;Live Oak Bancshares, Inc.;72.43869712334421
+VUZI;Vuzix Corporation;72.41242115472654
+FNLC;First Bancorp, Inc (ME);72.34449003704884
+FSLR;First Solar, Inc.;72.3033482938989
+RDFN;Redfin Corporation;72.29330450347223
+INFO;IHS Markit Ltd.;72.24856926195311
+AOBC;American Outdoor Brands Corporation;72.21188989336343
+NVEC;NVE Corporation;72.20382892740722
+MAR;Marriott International;71.8611902025448
+FNJN;Finjan Holdings, Inc.;71.6368539363192
+RAVN;Raven Industries, Inc.;71.56713968456495
+SMBK;SmartFinancial, Inc.;71.52803342179476
+MRTN;Marten Transport, Ltd.;71.4638181826156
+JBSS;John B. Sanfilippo & Son, Inc.;71.45598983914152
+SCHN;Schnitzer Steel Industries, Inc.;71.43519368436212
+MXIM;Maxim Integrated Products, Inc.;71.39469717140291
+FFIN;First Financial Bankshares, Inc.;71.02583692951997
+FBNK;First Connecticut Bancorp, Inc.;70.96214713888675
+RUSHB;Rush Enterprises, Inc.;70.94503359227838
+JD;JD.com, Inc.;70.88889260540773
+SMTX;SMTC Corporation;70.8579007199697
+SLCT;Select Bancorp, Inc.;70.85739979822408
+FCFS;First Cash, Inc.;70.73253023513332
+PRGX;PRGX Global, Inc.;70.25994065665392
+CAC;Camden National Corporation;70.23454005408948
+EGBN;Eagle Bancorp, Inc.;70.21822589247043
+GNBC;Green Bancorp, Inc.;70.10303399012811
+CPLA;Capella Education Company;69.97228636987843
+TCBI;Texas Capital Bancshares, Inc.;69.70439714157683
+CROX;Crocs, Inc.;69.63096485124512
+WING;Wingstop Inc.;69.51093357098202
+FRPH;FRP Holdings, Inc.;69.50627761020257
+SKYY;First Trust Cloud Computing ETF;69.4606291566525
+SBFGP;SB Financial Group, Inc.;69.45109621267204
+FFBC;First Financial Bancorp.;69.38517071773884
+ATRI;Atrion Corporation;69.37480358301572
+JRVR;James River Group Holdings, Ltd.;69.29643031829875
+SYNL;Synalloy Corporation;69.16909589976424
+KLIC;Kulicke and Soffa Industries, Inc.;69.15981278660011
+IDCC;InterDigital, Inc.;69.1200951655541
+AABA;Altaba Inc.;69.11982149504279
+LONE;Lonestar Resources US Inc.;69.06123172207174
+WPRT;Westport Fuel Systems Inc;68.95209437891572
+REGI;Renewable Energy Group, Inc.;68.92049513455275
+KOSS;Koss Corporation;68.87818141274585
+LTXB;LegacyTexas Financial Group, Inc.;68.74518045230175
+TCFC;The Community Financial Corporation;68.55095798761255
+MFSF;MutualFirst Financial Inc.;68.52351910592982
+CTWS;Connecticut Water Service, Inc.;68.51629699482912
+IBOC;International Bancshares Corporation;68.21606930595517
+CSGS;CSG Systems International, Inc.;68.11921498369409
+LKFN;Lakeland Financial Corporation;67.9940244275799
+IOSP;Innospec Inc.;67.78004398552966
+MRVL;Marvell Technology Group Ltd.;67.74539553023187
+WYNN;Wynn Resorts, Limited;67.51208956827371
+EQBK;Equity Bancshares, Inc.;67.46130157871342
+PEBO;Peoples Bancorp Inc.;67.0976991697101
+CHMG;Chemung Financial Corp;66.95274752297594
+CSPI;CSP Inc.;66.76624614957082
+TRCH;Torchlight Energy Resources, Inc.;66.62509670143261
+XCRA;Xcerra Corporation;66.52615492047227
+ORGS;Orgenesis Inc.;66.49608299462437
+HTBI;HomeTrust Bancshares, Inc.;66.3644888039082
+CMCO;Columbus McKinnon Corporation;66.35856182493394
+FFNW;First Financial Northwest, Inc.;66.35557322731286
+CETX;Cemtrex Inc.;66.24534131441429
+MTFB;Motif Bio plc;65.96096981440088
+LIVN;LivaNova PLC;65.91715911119435
+BECN;Beacon Roofing Supply, Inc.;65.89839155355894
+GERN;Geron Corporation;65.87297790134537
+SORL;SORL Auto Parts, Inc.;65.73468182596525
+VNOM;Viper Energy Partners LP;65.68874040106775
+CYRN;CYREN Ltd.;65.58370284686075
+ULTI;The Ultimate Software Group, Inc.;65.46037967059928
+ORMP;Oramed Pharmaceuticals Inc.;65.44166482110289
+ILMN;Illumina, Inc.;65.44005033862743
+WDFC;WD-40 Company;65.33924460643689
+CSWI;CSW Industrials, Inc.;64.92299588406601
+EBSB;Meridian Bancorp, Inc.;64.88670142383992
+RUSHA;Rush Enterprises, Inc.;64.8513742112827
+RGLD;Royal Gold, Inc.;64.78790547792734
+XLRN;Acceleron Pharma Inc.;64.63042883306738
+CHCO;City Holding Company;64.61870416561108
+ILG;ILG, Inc;64.53799640958282
+BYSI;BeyondSpring, Inc.;64.50308912066828
+KE;Kimball Electronics, Inc.;64.41606049710903
+GFED;Guaranty Federal Bancshares, Inc.;64.34697993513304
+FINX;Global X FinTech ETF;64.34202610239026
+QTEC;First Trust NASDAQ-100- Technology Index Fund;64.21861687454258
+BL;BlackLine, Inc.;64.17816692599396
+MOTS;Motus GI Holdings, Inc.;64.15525114155253
+FORD;Forward Industries, Inc.;64.06325233875208
+CCNE;CNB Financial Corporation;64.00107070319783
+UCBI;United Community Banks, Inc.;63.960347852348505
+PTH;Invesco DWA Healthcare Momentum ETF;63.932383402694185
+MNTA;Momenta Pharmaceuticals, Inc.;63.75361525429156
+HEES;H&E Equipment Services, Inc.;63.716438664430754
+KIN;Kindred Biosciences, Inc.;63.57456378529732
+AMNB;American National Bankshares, Inc.;63.47495079254209
+GSIT;GSI Technology, Inc.;63.241623190036265
+ROST;Ross Stores, Inc.;63.067102985939286
+GNPX;Genprex, Inc.;63.04255319148936
+CXSE;WisdomTree China ex-State-Owned Enterprises Fund;63.04019202249766
+STBZ;State Bank Financial Corporation.;62.88126197469339
+CDLX;Cardlytics, Inc.;62.752430815258066
+COBZ;CoBiz Financial Inc.;62.33071395566918
+LTRX;Lantronix, Inc.;62.329607263284466
+MSBI;Midland States Bancorp, Inc.;62.2885896233426
+MDB;MongoDB, Inc.;62.22276932351507
+OPOF;Old Point Financial Corporation;62.14814939641414
+TWIN;Twin Disc, Incorporated;62.137877180602416
+BYFC;Broadway Financial Corporation;62.11457727121953
+NTGR;NETGEAR, Inc.;62.091891021122294
+VIRC;Virco Manufacturing Corporation;62.08710601567742
+ADI;Analog Devices, Inc.;62.028747516051766
+BWFG;Bankwell Financial Group, Inc.;61.95406066769709
+CNMD;CONMED Corporation;61.869986406201036
+VALU;Value Line, Inc.;61.753529595358046
+CBMG;Cellular Biomedicine Group, Inc.;61.336110480365804
+PGJ;Invesco Golden Dragon China ETF;61.24225150680144
+DNBF;DNB Financial Corp;61.22814903959126
+ITUS;ITUS Corporation;61.10160577588585
+RDCM;Radcom Ltd.;60.98615851812565
+SPLK;Splunk Inc.;60.955653403275605
+OTTR;Otter Tail Corporation;60.91378506600387
+CYBR;CyberArk Software Ltd.;60.91256716809583
+LION;Fidelity Southern Corporation;60.905123343742375
+ONCE;Spark Therapeutics, Inc.;60.88815863643123
+KRYS;Krystal Biotech, Inc.;60.85475125722802
+ANCX;Access National Corporation;60.84719971264374
+BHBK;Blue Hills Bancorp, Inc.;60.83813261563908
+VNDA;Vanda Pharmaceuticals Inc.;60.82522581581213
+ICBK;County Bancorp, Inc.;60.80834183520794
+ISNS;Image Sensing Systems, Inc.;60.7266049578043
+BSRR;Sierra Bancorp;60.69961533978588
+PBYI;Puma Biotechnology Inc;60.69151089421624
+NAVG;The Navigators Group, Inc.;60.240120913652575
+MNST;Monster Beverage Corporation;60.22900352862686
+ENSG;The Ensign Group, Inc.;60.006677034063586
+OMCL;Omnicell, Inc.;59.96455024236563
+CMTA;Clementia Pharmaceuticals Inc.;59.94409481688149
+PLPC;Preformed Line Products Company;59.727520354017315
+BUSE;First Busey Corporation;59.67397255809951
+CWBC;Community West Bancshares;59.66185979989362
+EWBC;East West Bancorp, Inc.;59.656541471090534
+MDSO;Medidata Solutions, Inc.;59.63191386802198
+TAIT;Taitron Components Incorporated;59.600550964187335
+AGLE;Aeglea BioTherapeutics, Inc.;59.55907229958691
+GHDX;Genomic Health, Inc.;59.51758799038586
+UBSH;Union Bankshares Corporation;59.38473190884204
+AAPL;Apple Inc.;59.37480681793471
+SEIC;SEI Investments Company;59.2341773510761
+SRCE;1st Source Corporation;59.18868713619693
+SPKE;Spark Energy, Inc.;59.11925023755529
+WINA;Winmark Corporation;59.0722505082817
+APTI;Apptio, Inc.;59.06736167756567
+BRID;Bridgford Foods Corporation;59.011755415805766
+SHOO;Steven Madden, Ltd.;58.98667409808391
+CBFV;CB Financial Services, Inc.;58.91198099802425
+IOVA;Iovance Biotherapeutics, Inc.;58.82796319149571
+BVXV;BiondVax Pharmaceuticals Ltd.;58.743242217953
+ASLN;ASLAN Pharmaceuticals Limited;58.645276292335126
+FCNCA;First Citizens BancShares, Inc.;58.569492759448366
+ASTE;Astec Industries, Inc.;58.53781162364665
+LAKE;Lakeland Industries, Inc.;58.53291386391602
+GSHD;Goosehead Insurance, Inc.;58.47618412698412
+KEYW;The KEYW Holding Corporation;58.434078010552184
+VRSK;Verisk Analytics, Inc.;58.35284943522838
+MEET;The Meet Group, Inc.;58.30388692579507
+RYAAY;Ryanair Holdings plc;58.20834281739097
+HDSN;Hudson Technologies, Inc.;58.16215288489073
+IIIN;Insteel Industries, Inc.;58.16028671693627
+HBMD;Howard Bancorp, Inc.;58.07790335276668
+FLWS;1-800 FLOWERS.COM, Inc.;58.05857117220074
+SASR;Sandy Spring Bancorp, Inc.;58.041032856544334
+ITRI;Itron, Inc.;58.00461054955845
+CDK;CDK Global, Inc.;57.9678266903431
+PNFP;Pinnacle Financial Partners, Inc.;57.92176267709243
+SQLV;Legg Mason Small-Cap Quality Value ETF;57.90620419198092
+JSMD;Janus Henderson Small/Mid Cap Growth Alpha ETF;57.78342725444948
+PEBK;Peoples Bancorp of North Carolina, Inc.;57.73511901367108
+AMRK;A-Mark Precious Metals, Inc.;57.60188465913666
+AIMC;Altra Industrial Motion Corp.;57.58717103771602
+ICCC;ImmuCell Corporation;57.544218417508944
+SLDB;Solid Biosciences Inc.;57.515470490032214
+GROW;U.S. Global Investors, Inc.;57.460595434599924
+PSCT;Invesco S&P SmallCap Information Technology ETF;57.426780764006025
+ERII;Energy Recovery, Inc.;57.42629561514856
+FORM;FormFactor, Inc.;57.42393820415518
+BBP;Virtus LifeSci Biotech Products ETF;57.38341889117174
+BOKF;BOK Financial Corporation;57.29926974333502
+CHUY;"Chuy&#39;s Holdings, Inc.";57.14100271791483
+FIBK;First Interstate BancSystem, Inc.;56.93844376786966
+MDCO;The Medicines Company;56.78817233232198
+AUDC;AudioCodes Ltd.;56.77652810110912
+CHRS;Coherus BioSciences, Inc.;56.76044522958476
+ECOL;US Ecology, Inc.;56.745378399010306
+HMST;HomeStreet, Inc.;56.74360540184911
+CASS;Cass Information Systems, Inc;56.709314769129065
+CVLY;Codorus Valley Bancorp, Inc;56.689993620496324
+MRLN;Marlin Business Services Corp.;56.56687373161651
+DNKN;"Dunkin&#39; Brands Group, Inc.";56.401794187812825
+BRKR;Bruker Corporation;56.316762613152704
+BCPC;Balchem Corporation;56.28776227673863
+WTBA;West Bancorporation;56.287159779742225
+CFFI;C&F Financial Corporation;56.21924486729827
+NTWK;NetSol Technologies Inc.;56.02394239318636
+ADP;Automatic Data Processing, Inc.;55.82640429762016
+SGC;Superior Group of Companies, Inc.;55.57899873824998
+TSLA;Tesla, Inc. ;55.56849026777216
+EXPD;Expeditors International of Washington, Inc.;55.51031470702307
+QQQ;Invesco QQQ Trust, Series 1;55.468988588615915
+CATY;Cathay General Bancorp;55.463963146010315
+NBTB;NBT Bancorp Inc.;55.2449844519404
+AAON;AAON, Inc.;55.1237290205076
+PCOM;Points International, Ltd.;55.05349467226806
+IMRN;Immuron Limited;55.013493219516064
+HSII;Heidrick & Struggles International, Inc.;54.98979160553604
+MYRG;MYR Group, Inc.;54.94497018948465
+CDXC;ChromaDex Corporation;54.85259217714069
+FORTY;Formula Systems (1985) Ltd.;54.82577344478662
+FYC;First Trust Small Cap Growth AlphaDEX Fund;54.740816476751974
+AMRB;American River Bankshares;54.73849397227504
+CBSH;Commerce Bancshares, Inc.;54.69307275978959
+ACNB;ACNB Corporation;54.685506570073215
+LMNX;Luminex Corporation;54.450235513355594
+DENN;"Denny&#39;s Corporation";54.35390248663326
+DWAQ;Invesco DWA NASDAQ Momentum ETF;54.33704938084618
+HELE;Helen of Troy Limited;54.32250692031275
+ZIXI;Zix Corporation;54.20716971821557
+PLXS;Plexus Corp.;54.041032594776965
+PTF;Invesco DWA Technology Momentum ETF;53.953093142940205
+NXTM;NxStage Medical, Inc.;53.78420972117108
+TECH;Bio-Techne Corp;53.77133648571859
+MEOH;Methanex Corporation;53.70582030155654
+CRESY;Cresud S.A.C.I.F. y A.;53.655879721207796
+CELC;Celcuity Inc.;53.56538962482796
+DOVA;Dova Pharmaceuticals, Inc.;53.55176646551837
+LBRDK;Liberty Broadband Corporation;53.46924769046632
+IRDM;Iridium Communications Inc;53.32378126047131
+ATRS;Antares Pharma, Inc.;53.3013333524843
+BOTJ;Bank of the James Financial Group, Inc.;53.28251239091385
+MGLN;Magellan Health, Inc.;53.27692585228927
+LPLA;LPL Financial Holdings Inc.;53.23075302306792
+HMNF;HMN Financial, Inc.;53.215554376556085
+WASH;Washington Trust Bancorp, Inc.;53.20599386979512
+NXST;Nexstar Media Group, Inc.;53.18031487295062
+AMSWA;American Software, Inc.;53.11887790888453
+MEIP;MEI Pharma, Inc.;53.08772186400083
+MTLS;Materialise NV;53.03532491910204
+STRA;Strayer Education, Inc.;53.00724007144889
+LSTR;Landstar System, Inc.;52.923766207248676
+RNST;Renasant Corporation;52.863118303341565
+HAS;Hasbro, Inc.;52.860421001261045
+WAFD;Washington Federal, Inc.;52.74132765600493
+ACIA;Acacia Communications, Inc.;52.68948870783399
+HOMB;Home BancShares, Inc.;52.625497707533896
+BMRC;Bank of Marin Bancorp;52.60252301267984
+ROBO;Exchange Traded Concepts Trust ROBO Global Robotics and Automa;52.58177374421088
+FLIR;FLIR Systems, Inc.;52.572589608936184
+BMTC;Bryn Mawr Bank Corporation;52.571813545282865
+ZNGA;Zynga Inc.;52.55082810793337
+AAWW;Atlas Air Worldwide Holdings;52.54019387251965
+UMBF;UMB Financial Corporation;52.515396356059256
+LBRDA;Liberty Broadband Corporation;52.44393502110877
+CZWI;Citizens Community Bancorp, Inc.;52.19433571608718
+DGII;Digi International Inc.;52.142712589513025
+NKSH;National Bankshares, Inc.;52.08033232942863
+WCFB;WCF Bancorp, Inc.;51.9368291452642
+HOLX;Hologic, Inc.;51.9154260620697
+ABAX;ABAXIS, Inc.;51.87814582156372
+HFBL;Home Federal Bancorp, Inc. of Louisiana;51.77798735408153
+SNES;SenesTech, Inc.;51.776020502934514
+CRMT;"America&#39;s Car-Mart, Inc.";51.71203000976868
+NCNA;NuCana plc;51.655345563205614
+STML;Stemline Therapeutics, Inc.;51.58680218155766
+TCBK;TriCo Bancshares;51.500325911682154
+MBFI;MB Financial Inc.;51.444437065453
+FMBI;First Midwest Bancorp, Inc.;51.430198974918085
+CMTL;Comtech Telecommunications Corp.;51.37493302043637
+GWRS;Global Water Resources, Inc.;51.19567656050647
+PBIP;Prudential Bancorp, Inc.;51.13126673836503
+WWD;Woodward, Inc.;51.088277137105976
+EEFT;Euronet Worldwide, Inc.;51.06927387511119
+COLB;Columbia Banking System, Inc.;50.94626355700211
+ACXM;Acxiom Corporation;50.92278625796489
+QABA;First Trust NASDAQ ABA Community Bank Index Fund;50.906480781249186
+ORRF;Orrstown Financial Services Inc;50.86458592317037
+ONEQ;Fidelity Nasdaq Composite Index Tracking Stock;50.84110791442424
+CETV;Central European Media Enterprises Ltd.;50.76158371958738
+OMEX;Odyssey Marine Exploration, Inc.;50.66583909015253
+STBA;S&T Bancorp, Inc.;50.41681119936396
+CRVL;CorVel Corp.;50.37495713302171
+TTEC;TTEC Holdings, Inc.;50.3102134865139
+WVFC;WVS Financial Corp.;50.30188357397299
+BOTZ;Global X Robotics & Artificial Intelligence ETF;50.287998600118485
+BSET;Bassett Furniture Industries, Incorporated;50.26635936218814
+EBAY;eBay Inc.;50.23774571569162
+HSDT;Helius Medical Technologies, Inc.;50.18120272794958
+IDTI;Integrated Device Technology, Inc.;50.11092002629482
+IJT;iShares S&P Small-Cap 600 Growth ETF;50.08910696641223
+DHIL;Diamond Hill Investment Group, Inc.;50.072617005935356
+SPSC;SPS Commerce, Inc.;50.05066250215954
+WDAY;Workday, Inc.;50.00795419512848
+VERI;Veritone, Inc.;49.94330293568939
+VRTU;Virtusa Corporation;49.92419155963144
+ZEUS;Olympic Steel, Inc.;49.91893988186395
+SBAC;SBA Communications Corporation;49.914227140199046
+XLNX;Xilinx, Inc.;49.817615226417345
+PME;Pingtan Marine Enterprise Ltd.;49.80257119066428
+CLWT;Euro Tech Holdings Company Limited;49.75597593528781
+AIRR;First Trust RBA American Industrial Renaissance ETF;49.72699803629004
+BNCL;Beneficial Bancorp, Inc.;49.5739156454471
+MTSL;MER Telemanagement Solutions Ltd.;49.48401361875321
+SNHY;Sun Hydraulics Corporation;49.45230563782363
+NTNX;Nutanix, Inc.;49.32651400548052
+CNET;ChinaNet Online Holdings, Inc.;49.22218284904322
+GSBC;Great Southern Bancorp, Inc.;49.17223737184594
+AMTD;TD Ameritrade Holding Corporation;49.09866955971398
+FTXL;First Trust Nasdaq Semiconductor ETF;49.082204932943455
+APEI;American Public Education, Inc.;49.031985162325135
+CSCO;Cisco Systems, Inc.;48.93661713686943
+CSII;Cardiovascular Systems, Inc.;48.87340646003687
+LANC;Lancaster Colony Corporation;48.82575034411008
+FOSL;Fossil Group, Inc.;48.65367692659419
+DORM;Dorman Products, Inc.;48.61963514232431
+CCOI;Cogent Communications Holdings, Inc.;48.55033167237045
+GAIN;Gladstone Investment Corporation;48.49532409271683
+LSXMB;Liberty Media Corporation;48.443169885827714
+TGTX;TG Therapeutics, Inc.;48.36482766816475
+IRDMB;Iridium Communications Inc;48.34236980157472
+SLIM;The Obesity ETF;48.310279148075
+YORW;The York Water Company;48.25556571382661
+SONA;Southern National Bancorp of Virginia, Inc.;48.237419827009305
+BPOP;Popular, Inc.;48.21012940980569
+KBWR;Invesco KBW Regional Banking ETF;48.18350617795967
+HCSG;Healthcare Services Group, Inc.;48.06492359748836
+WATT;Energous Corporation;48.02029730392954
+EML;Eastern Company (The);47.81915916371385
+ATTU;Attunity Ltd.;47.800337638963654
+PSCI;Invesco S&P SmallCap Industrials ETF;47.783871126824764
+JBHT;J.B. Hunt Transport Services, Inc.;47.77784201939227
+NTRS;Northern Trust Corporation;47.75521119732389
+NTRA;Natera, Inc.;47.5921130876692
+BKSC;Bank of South Carolina Corp.;47.565232575235356
+ATRC;AtriCure, Inc.;47.387455109566005
+CTSH;Cognizant Technology Solutions Corporation;47.32877746811165
+HONE;HarborOne Bancorp, Inc.;47.12718304067566
+PDCE;PDC Energy, Inc.;46.99987422883852
+NAOV;NanoVibronix, Inc.;46.997260851243155
+CCBG;Capital City Bank Group;46.974759750682594
+NRIM;Northrim BanCorp Inc;46.90587396235105
+SANM;Sanmina Corporation;46.86669234265561
+CLSD;Clearside Biomedical, Inc.;46.69557541138944
+MSG;The Madison Square Garden Company;46.62034644186372
+PSCC;Invesco S&P SmallCap Consumer Staples ETF;46.608426246285006
+MEDP;Medpace Holdings, Inc.;46.54767877474224
+TACO;Del Taco Restaurants, Inc.;46.43451787546857
+MGYR;Magyar Bancorp, Inc.;46.38938337259806
+LSXMK;Liberty Media Corporation;46.3469720741503
+NGHC;National General Holdings Corp;46.31898798637812
+SFNC;Simmons First National Corporation;46.317637526860196
+OPTN;OptiNose, Inc.;46.19628515441724
+MLCO;Melco Resorts & Entertainment Limited;46.1630136218274
+PRGS;Progress Software Corporation;45.78571499725996
+JCTCF;Jewett-Cameron Trading Company;45.7281938844535
+SVRA;Savara, Inc.;45.53282174584605
+PAYX;Paychex, Inc.;45.52239776942665
+PAHC;Phibro Animal Health Corporation;45.44081851021586
+MAMS;MAM Software Group, Inc.;45.327868325992384
+GENY;Principal Millennials Index ETF;45.13329806724704
+MGEE;MGE Energy Inc.;45.07912251943307
+GBCI;Glacier Bancorp, Inc.;45.06366428361194
+TBNK;Territorial Bancorp Inc.;45.01647575427654
+AIMT;Aimmune Therapeutics, Inc.;44.792457952016136
+FAD;First Trust Multi Cap Growth AlphaDEX Fund;44.5681972927879
+UVSP;Univest Corporation of Pennsylvania;44.489382891429216
+FFIV;F5 Networks, Inc.;44.393335551151864
+WOOD;iShares S&P Global Timber & Forestry Index Fund;44.29620155750828
+BFIN;BankFinancial Corporation;44.279112852548025
+VONG;Vanguard Russell 1000 Growth ETF;44.27750964058539
+TRMK;Trustmark Corporation;44.24868843517076
+EXPE;Expedia Group, Inc.;44.22021547455195
+AIRG;Airgain, Inc.;44.1816966331005
+ATNX;Athenex, Inc.;44.172696952548364
+HWBK;Hawthorn Bancshares, Inc.;44.15622659874954
+QQQC;Global X NASDAQ China Technology ETF;44.14574088465669
+QGEN;Qiagen N.V.;43.962940490417395
+WSC;WillScot Corporation;43.89694838570969
+FITB;Fifth Third Bancorp;43.88717612012009
+BMCH;BMC Stock Holdings, Inc.;43.880573797603915
+ARCW;ARC Group Worldwide, Inc.;43.86174993230231
+AROW;Arrow Financial Corporation;43.7087898798184
+HAFC;Hanmi Financial Corporation;43.68032537618228
+CSOD;Cornerstone OnDemand, Inc.;43.658502253857804
+SP;SP Plus Corporation;43.64837408062411
+FNY;First Trust Mid Cap Growth AlphaDEX Fund;43.58014498347535
+GBLI;Global Indemnity Limited;43.553308331777416
+PFBI;Premier Financial Bancorp, Inc.;43.552547110673885
+IPKW;Invesco International BuyBack Achievers ETF;43.48634335742051
+EHTH;eHealth, Inc.;43.45300875048613
+TILE;Interface, Inc.;43.41249531787176
+KBWP;Invesco KBW Property & Casualty Insurance ETF;43.31188100260542
+HDP;Hortonworks, Inc.;43.28276071302993
+IFRX;InflaRx N.V.;43.20721784251059
+WNEB;Western New England Bancorp, Inc.;43.18560529574917
+IEA;Infrastructure and Energy Alternatives, Inc.;43.17080871858356
+RPD;Rapid7, Inc.;43.1487210925662
+NDLS;Noodles & Company;43.09641353023737
+CTBI;Community Trust Bancorp, Inc.;43.08724320681877
+THFF;First Financial Corporation Indiana;43.07237234681095
+EDAP;EDAP TMS S.A.;43.06327558322306
+KELYA;Kelly Services, Inc.;43.017845629461135
+STFC;State Auto Financial Corporation;43.01050031314159
+JJSF;J & J Snack Foods Corp.;42.859632485156894
+HZNP;Horizon Pharma plc;42.783197825096764
+CTRE;CareTrust REIT, Inc.;42.771943071915175
+MMYT;MakeMyTrip Limited;42.72358042580491
+JCOM;j2 Global, Inc.;42.59955961916404
+HDS;HD Supply Holdings, Inc.;42.59845914718379
+MBCN;Middlefield Banc Corp.;42.48285080765518
+SMPL;The Simply Good Foods Company;42.478123074457514
+VTWG;Vanguard Russell 2000 Growth ETF;42.47549195070479
+FGBI;First Guaranty Bancshares, Inc.;42.290731956997774
+KALU;Kaiser Aluminum Corporation;42.27028991175882
+MILN;Global X Millennials Thematic ETF;42.192774072186836
+FLXS;Flexsteel Industries, Inc.;42.16024692489833
+KLAC;KLA-Tencor Corporation;42.1275167305774
+TST;TheStreet, Inc.;41.92807557805733
+AMSF;AMERISAFE, Inc.;41.90057785291833
+COST;Costco Wholesale Corporation;41.895211624045885
+SAFM;Sanderson Farms, Inc.;41.774548300033544
+SILC;Silicom Ltd;41.59474333091969
+TROW;T. Rowe Price Group, Inc.;41.56212151732795
+FWONK;Liberty Media Corporation;41.520315574895406
+IUSG;iShares Core S&P U.S. Growth ETF;41.45169680913922
+EFOI;Energy Focus, Inc.;41.41445768703075
+LSXMA;Liberty Media Corporation;41.40730394657818
+FNSR;Finisar Corporation;41.281060398155574
+RRR;Red Rock Resorts, Inc.;41.22927063923717
+KALA;Kala Pharmaceuticals, Inc.;41.19775201966982
+GRIF;Griffin Industrial Realty, Inc.;41.173476711062264
+CYCCP;Cyclacel Pharmaceuticals, Inc.;41.15886525086014
+CNXN;PC Connection, Inc.;41.15873150901119
+NWBI;Northwest Bancshares, Inc.;41.14417860257488
+VBFC;Village Bank and Trust Financial Corp.;41.13298662012032
+ORBC;ORBCOMM Inc.;41.125964173360046
+BANR;Banner Corporation;40.82709219661666
+ITRN;Ituran Location and Control Ltd.;40.67493597379536
+FULT;Fulton Financial Corporation;40.66774605455943
+VREX;Varex Imaging Corporation;40.60743345107511
+PTCT;PTC Therapeutics, Inc.;40.59777645858483
+LARK;Landmark Bancorp Inc.;40.57213990159832
+POWI;Power Integrations, Inc.;40.4500074053536
+ORLY;"O&#39;Reilly Automotive, Inc.";40.44738094775961
+SVA;Sinovac Biotech, Ltd.;40.42590274515662
+GRID;First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index ;40.42333420504757
+SBSI;Southside Bancshares, Inc.;40.36326522869213
+LCNB;LCNB Corporation;40.35302218748953
+KFRC;Kforce, Inc.;40.33618131051507
+KBWB;Invesco KBW Bank ETF;40.26407284652849
+FWONA;Liberty Media Corporation;40.20123631447872
+PRFT;Perficient, Inc.;40.177974198855324
+DSPG;DSP Group, Inc.;40.16375997122911
+ACGL;Arch Capital Group Ltd.;40.16134669270262
+DXJS;WisdomTree Japan Hedged SmallCap Equity Fund;40.14251266852878
+WSBC;WesBanco, Inc.;40.02416813312405
+PXLW;Pixelworks, Inc.;39.930300052251255
+ATHX;Athersys, Inc.;39.90558782392823
+PSL;Invesco DWA Consumer Staples Momentum ETF;39.8299371329484
+DWAS;Invesco DWA SmallCap Momentum ETF;39.80549559752886
+CAVM;Cavium, Inc.;39.72982412972672
+CBLI;Cleveland BioLabs, Inc.;39.34370100411214
+HBAN;Huntington Bancshares Incorporated;39.28993492276045
+MATW;Matthews International Corporation;39.17017163687879
+KANG;iKang Healthcare Group, Inc.;39.052631790073036
+MFNC;Mackinac Financial Corporation;39.05018729925118
+IRWD;Ironwood Pharmaceuticals, Inc.;39.011685032480344
+KRNY;Kearny Financial;38.99644034279709
+ADAP;Adaptimmune Therapeutics plc;38.95798031250931
+BJRI;"BJ&#39;s Restaurants, Inc.";38.953063395259264
+FNCB;FNCB Bancorp Inc.;38.92280813734634
+XT;iShares Exponential Technologies ETF;38.92148719100298
+PSCF;Invesco S&P SmallCap Financials ETF;38.87629482094893
+PSCM;Invesco S&P SmallCap Materials ETF;38.840645294653584
+RDVT;Red Violet, Inc.;38.70967741935482
+DMLP;Dorchester Minerals, L.P.;38.67899410992908
+SAFT;Safety Insurance Group, Inc.;38.58076530520684
+OFED;Oconee Federal Financial Corp.;38.52971937717871
+USAP;Universal Stainless & Alloy Products, Inc.;38.45321300890659
+FTC;First Trust Large Cap Growth AlphaDEX Fund;38.4259011347436
+PMBC;Pacific Mercantile Bancorp;38.34338683275709
+NXPI;NXP Semiconductors N.V.;38.29332028043609
+AMPH;Amphastar Pharmaceuticals, Inc.;38.241912764517366
+FOX;Twenty-First Century Fox, Inc.;38.162361550713825
+OBSV;ObsEva SA;38.10913799967625
+SPNS;Sapiens International Corporation N.V.;38.09410044374914
+NATH;"Nathan&#39;s Famous, Inc.";38.00980089437775
+AVHI;A V Homes, Inc.;37.97673807029645
+HURC;Hurco Companies, Inc.;37.82817978531533
+FSCT;ForeScout Technologies, Inc.;37.77628690087667
+CHEF;"The Chefs&#39; Warehouse, Inc.";37.7627545241547
+BDGE;Bridge Bancorp, Inc.;37.74020043183705
+AMKR;Amkor Technology, Inc.;37.66476389077744
+CIL;VictoryShares International Volatility Wtd ETF;37.662645409517225
+FAMI;FARMMI, INC.;37.54045307443366
+COMM;CommScope Holding Company, Inc.;37.528563440979994
+ESGR;Enstar Group Limited;37.43130304971834
+PRFZ;Invesco FTSE RAFI US 1500 Small-Mid ETF;37.379287872892036
+DOX;Amdocs Limited;37.285528863189384
+RIGL;Rigel Pharmaceuticals, Inc.;37.28296553194467
+TTS;Tile Shop Hldgs, Inc.;37.19530168104005
+STND;Standard AVB Financial Corp.;37.16739564178515
+AIA;iShares Asia 50 ETF;37.14399472786026
+TRST;TrustCo Bank Corp NY;37.124126116068396
+ISCA;International Speedway Corporation;37.10947093514784
+TWNK;Hostess Brands, Inc.;37.09497919183785
+FEUZ;First Trust Eurozone AlphaDEX ETF;37.04566007001958
+APWC;Asia Pacific Wire & Cable Corporation Limited;37.04164256795833
+QQEW;First Trust NASDAQ-100 Equal Weighted Index Fund;37.00307260664238
+SRTS;Sensus Healthcare, Inc.;36.98113207547169
+URBN;Urban Outfitters, Inc.;36.97728580128248
+FISI;Financial Institutions, Inc.;36.800238092555105
+WLFC;Willis Lease Finance Corporation;36.73657801615292
+APTO;Aptose Biosciences, Inc.;36.72575077843328
+CINF;Cincinnati Financial Corporation;36.702706482060634
+CAMP;CalAmp Corp.;36.60066729100109
+ANGO;AngioDynamics, Inc.;36.53364861924389
+AEGN;Aegion Corp;36.49880369302406
+VTWO;Vanguard Russell 2000 ETF;36.320656615103715
+MERC;Mercer International Inc.;36.19414819956255
+VC;Visteon Corporation;36.1865403820143
+BCOV;Brightcove Inc.;36.17640542095651
+CVLT;Commvault Systems, Inc.;36.13980003330964
+FCA;First Trust China AlphaDEX Fund;36.06293117390166
+FOXA;Twenty-First Century Fox, Inc.;36.00656785112531
+EEI;Ecology and Environment, Inc.;35.86030748177133
+FFIC;Flushing Financial Corporation;35.68848820516136
+CTSO;Cytosorbents Corporation;35.67711717604393
+FYX;First Trust Small Cap Core AlphaDEX Fund;35.65699872146695
+MBII;Marrone Bio Innovations, Inc.;35.65257233160057
+BTEC;Principal Healthcare Innovators Index ETF;35.644815918464445
+LECO;Lincoln Electric Holdings, Inc.;35.58710134315032
+HUBG;Hub Group, Inc.;35.52481665268802
+FTXO;First Trust Nasdaq Bank ETF;35.46329236569329
+PPIH;Perma-Pipe International Holdings, Inc.;35.38210456940671
+FNWB;First Northwest Bancorp;35.318215899587756
+BGCP;BGC Partners, Inc.;35.273191588329425
+UMPQ;Umpqua Holdings Corporation;35.136784117249306
+CFA;VictoryShares US 500 Volatility Wtd ETF;35.09449996574193
+FELE;Franklin Electric Co., Inc.;35.038653681947636
+NATI;National Instruments Corporation;34.907726324850856
+PSCU;Invesco S&P SmallCap Utilities ETF;34.89353755173349
+VSEC;VSE Corporation;34.86790838167701
+QQQX;Nuveen NASDAQ 100 Dynamic Overwrite Fund;34.8245208798551
+RDVY;First Trust Rising Dividend Achievers ETF;34.80892135820666
+QLC;FlexShares US Quality Large Cap Index Fund;34.735670115726535
+ORG;The Organics ETF;34.729302915209246
+XBIO;Xenetic Biosciences, Inc.;34.59418678419789
+IEUS;iShares MSCI Europe Small-Cap ETF;34.51960840844467
+CNOB;ConnectOne Bancorp, Inc.;34.497895599664204
+UBNK;United Financial Bancorp, Inc. ;34.45666547392257
+SPTN;SpartanNash Company;34.4473410755499
+SSB;South State Corporation;34.426240075075114
+SBPH;Spring Bank Pharmaceuticals, Inc.;34.33903613513634
+MCHI;iShares MSCI China ETF;34.33493230669336
+HOPE;Hope Bancorp, Inc.;34.32583776231995
+TECD;Tech Data Corporation;34.290928266229855
+PDP;Invesco DWA Momentum ETF;34.25171642270968
+DRIO;DarioHealth Corp.;34.249663896201376
+CYAD;Celyad SA;34.22691679609622
+ONB;Old National Bancorp;34.11951201659761
+FNGN;Financial Engines, Inc.;34.047138579050255
+GURE;Gulf Resources, Inc.;33.985623099935836
+ASRV;AmeriServ Financial Inc.;33.924685465921755
+ACBI;Atlantic Capital Bancshares, Inc.;33.865522217246394
+FSZ;First Trust Switzerland AlphaDEX Fund;33.82303911627086
+CFO;VictoryShares US 500 Enhanced Volatility Wtd ETF;33.80428720551458
+FGM;First Trust Germany AlphaDEX Fund;33.68372546650167
+INTC;Intel Corporation;33.67964079502602
+WEB;Web.com Group, Inc.;33.65200228725456
+EWZS;iShares MSCI Brazil Small-Cap ETF;33.6013425619475
+BBC;Virtus LifeSci Biotech Clinical Trials ETF;33.60054182578216
+TRMB;Trimble Inc.;33.596986480375264
+SONC;Sonic Corp.;33.5549686611205
+HBIO;Harvard Bioscience, Inc.;33.5473889311306
+PDFS;PDF Solutions, Inc.;33.50043852132923
+SIFI;SI Financial Group, Inc.;33.41771926518307
+NTRP;Neurotrope, Inc.;33.375397407679145
+ERIE;Erie Indemnity Company;33.354664358486914
+DOCU;DocuSign, Inc.;33.27460609111503
+ESQ;Esquire Financial Holdings, Inc.;33.2155493798864
+FTCS;First Trust Capital Strength ETF;33.18993184367815
+USOI;Credit Suisse AG;33.137217840739325
+IBKC;IBERIABANK Corporation;33.07901383098155
+SCZ;iShares MSCI EAFE Small-Cap ETF;33.028078126411614
+RESN;Resonant Inc.;32.99777888078016
+LLEX;Lilis Energy, Inc.;32.99055242451473
+PCH;PotlatchDeltic Corporation;32.886841246354535
+NEWT;Newtek Business Services Corp.;32.84415425268071
+MANH;Manhattan Associates, Inc.;32.78794346016127
+ALOT;AstroNova, Inc.;32.773458526200756
+SSBI;Summit State Bank;32.72161176218064
+FLEX;Flex Ltd.;32.66437113070545
+VTWV;Vanguard Russell 2000 Value ETF;32.611352718106914
+ITEQ;BlueStar Israel Technology ETF;32.56723498530354
+PGNX;Progenics Pharmaceuticals Inc.;32.554143057133544
+LNGR;Global X Longevity Thematic ETF;32.529925037408844
+VIRT;Virtu Financial, Inc.;32.52915903171504
+XSPL;Xspand Products Lab, Inc.;32.367972742759775
+WLTW;Willis Towers Watson Public Limited Company;32.272998953387216
+SLM;SLM Corporation;32.20931262795423
+VTHR;Vanguard Russell 3000 ETF;32.18009675828172
+SABR;Sabre Corporation;32.16580625885726
+USAK;USA Truck, Inc.;32.09331014937324
+CERS;Cerus Corporation;32.06365055013595
+BSTC;BioSpecifics Technologies Corp;31.954127525595283
+WSBF;Waterstone Financial, Inc.;31.94333745454513
+FEP;First Trust Europe AlphaDEX Fund;31.77991104628279
+FONE;First Trust NASDAQ Smartphone Index Fund;31.769527828957735
+DGRW;WisdomTree U.S. Quality Dividend Growth Fund;31.667646642836786
+MOFG;MidWestOne Financial Group, Inc.;31.65433156365347
+TITN;Titan Machinery Inc.;31.64962112127779
+BPFH;Boston Private Financial Holdings, Inc.;31.632145584072603
+BATRK;Liberty Media Corporation;31.403313557706937
+DWCH;Datawatch Corporation;31.393178893178913
+RDWR;Radware Ltd.;31.37130908225869
+VIAV;Viavi Solutions Inc.;31.29732039657317
+PSET;Principal Price Setters Index ETF;31.295019892604458
+RNDB;Randolph Bancorp, Inc.;31.270366449511414
+LIND;Lindblad Expeditions Holdings Inc. ;31.260593373451087
+SBUX;Starbucks Corporation;31.241138920794413
+ESSA;ESSA Bancorp, Inc.;31.122443932616534
+CIBR;First Trust NASDAQ Cybersecurity ETF;31.11707885279749
+APPS;Digital Turbine, Inc.;31.07992343273564
+PSCD;Invesco S&P SmallCap Consumer Discretionary ETF;31.00688949542719
+OBCI;Ocean Bio-Chem, Inc.;30.998210789971196
+ATLO;Ames National Corporation;30.989996516803217
+HYGS;Hydrogenics Corporation;30.975126455277476
+PEY;Invesco High Yield Equity Dividend Achievers ETF;30.964197895452187
+FV;First Trust Dorsey Wright Focus 5 ETF;30.890635703940916
+CFRX;ContraFect Corporation;30.885287446308126
+MACQU;M I Acquisitions, Inc.;30.884817615766508
+RILYZ;B. Riley Financial, Inc.;30.81715642746603
+SYKE;Sykes Enterprises, Incorporated;30.812161735780037
+FDTS;First Trust Developed Markets ex-US Small Cap AlphaDEX Fund;30.627549457163298
+JBLU;JetBlue Airways Corporation;30.497788919245053
+SMED;Sharps Compliance Corp.;30.492404604362463
+KRNT;Kornit Digital Ltd.;30.423951223901668
+LMB;Limbach Holdings, Inc.;30.24203722552825
+TATT;TAT Technologies Ltd.;30.240800182047636
+CREE;Cree, Inc.;30.17579088585306
+MNTX;Manitex International, Inc.;30.169319884115083
+FLXN;Flexion Therapeutics, Inc.;29.95942733567334
+PY;Principal Shareholder Yield Index ETF;29.871251425143853
+VONE;Vanguard Russell 1000 ETF;29.829598212440615
+CATH;Global X S&P 500 Catholic Values ETF;29.79807353105363
+CZNC;Citizens & Northern Corp;29.784340402928066
+TUSA;First Trust Total US Market AlphaDEX ETF;29.772230527628395
+AWRE;Aware, Inc.;29.664386790361974
+ALNA;Allena Pharmaceuticals, Inc.;29.585414394820305
+DGRS;WisdomTree U.S. SmallCap Quality Dividend Growth Fund;29.578919307816548
+WSCI;WSI Industries Inc.;29.482192131887103
+FBIO;Fortress Biotech, Inc.;29.4415974063989
+BKNG;Booking Holdings Inc.;29.356824240146338
+PYZ;Invesco DWA Basic Materials Momentum ETF;29.315668424661865
+PROV;Provident Financial Holdings, Inc.;29.303621038914486
+CDL;VictoryShares US Large Cap High Div Volatility Wtd ETF;29.25677683318692
+OTEX;Open Text Corporation;29.237911502725183
+AUBN;Auburn National Bancorporation, Inc.;29.226367002510244
+FNX;First Trust Mid Cap Core AlphaDEX Fund;29.221590494476445
+UMRX;Unum Therapeutics Inc.;29.16291629162916
+CSTR;CapStar Financial Holdings, Inc.;29.1284797510243
+NTLA;Intellia Therapeutics, Inc.;29.099519292481084
+RFEM;First Trust RiverFront Dynamic Emerging Markets ETF;28.92428549304975
+GRFS;Grifols, S.A.;28.907779229445325
+FEX;First Trust Large Cap Core AlphaDEX Fund;28.856034268376533
+CIZN;Citizens Holding Company;28.608888475379473
+PTEN;Patterson-UTI Energy, Inc.;28.600940478135485
+ASYS;Amtech Systems, Inc.;28.591608089444314
+SNBR;Sleep Number Corporation;28.539482078264257
+UHAL;Amerco;28.364511704248216
+FLAG;Exchange Traded Concepts Trust FLAG-Forensic Accounting Long-S;28.35505525831097
+CSF;VictoryShares US Discovery Enhanced Volatility Wtd ETF;28.34862562879856
+KRMA;Global X Conscious Companies ETF;28.29855299300874
+DWLD;Davis Select Worldwide ETF;28.17926937539937
+DIOD;Diodes Incorporated;27.891944761805405
+USLB;Invesco Russell 1000 Low Beta Equal Weight ETF;27.839300999070232
+LSBK;Lake Shore Bancorp, Inc.;27.80597097091156
+OZRK;Bank of the Ozarks;27.580496130784255
+FEMS;First Trust Emerging Markets Small Cap AlphaDEX Fund;27.53260421185685
+XEL;Xcel Energy Inc.;27.408270238383935
+MLHR;Herman Miller, Inc.;27.272002017542675
+ACIW;ACI Worldwide, Inc.;27.253460749349188
+OPBK;OP Bancorp;27.200000000000003
+GRBK;Green Brick Partners, Inc.;27.190138298324896
+LMNR;Limoneira Co;27.09107546120957
+FDT;First Trust Developed Markets Ex-US AlphaDEX Fund;27.085827718234782
+FMK;First Trust Mega Cap AlphaDEX Fund;27.06367025973003
+LAMR;Lamar Advertising Company;26.99893843695081
+TDIV;First Trust NASDAQ Technology Dividend Index Fund;26.928270997048244
+SCVL;Shoe Carnival, Inc.;26.89293577766236
+WERN;Werner Enterprises, Inc.;26.812391871906144
+ESG;FlexShares STOXX US ESG Impact Index Fund;26.748405545690034
+LAND;Gladstone Land Corporation;26.70360482419953
+CHKP;Check Point Software Technologies Ltd.;26.64433747235823
+SYNC;Synacor, Inc.;26.62479812114239
+JKI;iShares Morningstar Mid-Cap ETF;26.590174619336793
+GNTX;Gentex Corporation;26.527594449486074
+TRS;TriMas Corporation;26.428008591645153
+BCBP;BCB Bancorp, Inc. (NJ);26.421825609772284
+CDC;VictoryShares US EQ Income Enhanced Volatility Wtd ETF;26.41316068143773
+FEM;First Trust Emerging Markets AlphaDEX Fund;26.314332644357876
+ARCB;ArcBest Corporation;26.30134017439383
+ZFGN;Zafgen, Inc.;26.270608359187435
+UDBI;Legg Mason US Diversified Core ETF;26.23462665981218
+SNSR;Global X Internet of Things ETF;26.233567281711657
+BATRA;Liberty Media Corporation;26.182966946238295
+BCML;BayCom Corp;26.14678256132605
+UFPT;UFP Technologies, Inc.;26.121035473015127
+MVBF;MVB Financial Corp.;26.108502564927335
+RDI;Reading International Inc;26.102241665869244
+PEZ;Invesco DWA Consumer Cyclicals Momentum ETF;26.05726376265264
+GRMN;Garmin Ltd.;26.012569033927107
+WEYS;Weyco Group, Inc.;25.985389240810605
+MGIC;Magic Software Enterprises Ltd.;25.934882209245032
+USLM;United States Lime & Minerals, Inc.;25.845240625303873
+SBGI;Sinclair Broadcast Group, Inc.;25.839327501864858
+CASY;Caseys General Stores, Inc.;25.78598005947447
+SCHL;Scholastic Corporation;25.739588588846686
+MINI;Mobile Mini, Inc.;25.567583758078385
+EEMA;iShares MSCI Emerging Markets Asia ETF;25.49377870578317
+VUSE;ETF Series Solutions Trust Vident Core US Equity ETF;25.401503815160737
+DWLV;Invesco DWA Momentum & Low Volatility Rotation ETF;25.334746849003835
+AKAO;Achaogen, Inc.;25.150677239010506
+CVTI;Covenant Transportation Group, Inc.;25.130692699067836
+SWKS;Skyworks Solutions, Inc.;25.130076820016612
+WABC;Westamerica Bancorporation;25.081037938378273
+EMCI;EMC Insurance Group Inc.;25.04683541938188
+WIRE;Encore Wire Corporation;24.960146056907504
+FARM;Farmer Brothers Company;24.94588185814601
+AGYS;Agilysys, Inc.;24.93203887111798
+FCBP;First Choice Bancorp;24.734689795918356
+FJP;First Trust Japan AlphaDEX Fund;24.71045812816449
+QQXT;First Trust NASDAQ-100 Ex-Technology Sector Index Fund;24.683413663864485
+SWIN;ALPS/Dorsey Wright Sector Momentum ETF;24.50666153543486
+BILI;Bilibili Inc.;24.466192170818516
+DNJR;GOLDEN BULL LIMITED;24.458874458874448
+DLTR;Dollar Tree, Inc.;24.45517370351176
+ESGE;iShares MSCI EM ESG Optimized ETF;24.367663899014588
+ESGG;FlexShares STOXX Global ESG Impact Index Fund;24.352087658667756
+LPTX;LEAP THERAPEUTICS, INC.;24.3168492089833
+FPXI;First Trust International IPO ETF;24.129926327289752
+CYTK;Cytokinetics, Incorporated;24.00967929518727
+CARG;CarGurus, Inc.;24.002333489835536
+LABL;Multi-Color Corporation;23.96043097600726
+OXSQ;Oxford Square Capital Corp.;23.877917414721722
+FNKO;Funko, Inc.;23.80684444112819
+WHF;WhiteHorse Finance, Inc.;23.77296804479812
+JACK;Jack In The Box Inc.;23.67596874871613
+AAXJ;iShares MSCI All Country Asia ex Japan Index Fund;23.573883693154215
+CTIB;CTI Industries Corporation;23.430617867380207
+BFIT;Global X Health & Wellness Thematic ETF;23.311638197186397
+BICK;First Trust BICK Index Fund;23.305831718913808
+DVY;iShares Select Dividend ETF;23.241185116573234
+KMDA;Kamada Ltd.;23.21083899897755
+FVC;First Trust Dorsey Wright Dynamic Focus 5 ETF;23.149077901197842
+SLMBP;SLM Corporation;23.09701652614458
+LRGE;ClearBridge Large Cap Growth ESG ETF;23.07973484705198
+SPRO;Spero Therapeutics, Inc.;23.014110737053215
+ESGU;iShares MSCI USA ESG Optimized ETF;22.97606890475079
+ULH;Universal Logistics Holdings, Inc.;22.92749698581362
+VLGEA;Village Super Market, Inc.;22.769453925057206
+LASR;nLIGHT, Inc.;22.671613258938265
+FYT;First Trust Small Cap Value AlphaDEX Fund;22.612073149200597
+PBCT;"People&#39;s United Financial, Inc.";22.530239547654148
+DCOM;Dime Community Bancshares, Inc.;22.452061239081388
+KIDS;OrthoPediatrics Corp.;22.439408492669358
+RFEU;First Trust RiverFront Dynamic Europe ETF;22.43251349257939
+IPHS;Innophos Holdings, Inc.;22.37107592228414
+FAB;First Trust Multi Cap Value AlphaDEX Fund;22.356280629105598
+SURF;Surface Oncology, Inc.;22.355581395348807
+GLPI;Gaming and Leisure Properties, Inc.;22.34536599527793
+IMI;Intermolecular, Inc.;22.288631679690276
+ACWI;iShares MSCI ACWI Index Fund;22.191173390970775
+ALSK;Alaska Communications Systems Group, Inc.;22.15313053182713
+INDY;iShares S&P India Nifty 50 Index Fund;22.027211268005047
+PIE;Invesco DWA Emerging Markets Momentum ETF;21.99128348619321
+FTXN;First Trust Nasdaq Oil & Gas ETF;21.93029971167141
+INWK;InnerWorkings, Inc.;21.811957773617323
+CLVS;Clovis Oncology, Inc.;21.704047844813154
+MGI;Moneygram International, Inc.;21.665478034398156
+JVA;Coffee Holding Co., Inc.;21.598052954075044
+CTRN;Citi Trends, Inc.;21.523506261508842
+FTA;First Trust Large Cap Value AlphaDEX Fund;21.494432255410345
+AMSC;American Superconductor Corporation;21.49318146607613
+ENZL;iShares MSCI New Zealand ETF;21.37729271797602
+GOOD;Gladstone Commercial Corporation;21.35429336157047
+LRAD;LRAD Corporation;21.347937408816264
+BCTF;Bancorp 34, Inc.;21.341726135978163
+CY;Cypress Semiconductor Corporation;21.29604988222337
+CWCO;Consolidated Water Co. Ltd.;21.295639351277146
+CBRL;Cracker Barrel Old Country Store, Inc.;21.235611081657396
+LKQ;LKQ Corporation;21.148480020276878
+DMRC;Digimarc Corporation;20.995746946543264
+NSEC;National Security Group, Inc.;20.96362068856044
+PUI;Invesco DWA Utilities Momentum ETF;20.881291911964937
+PHO;Invesco Water Resources ETF;20.80821836994123
+ATAX;America First Multifamily Investors, L.P.;20.76019849096771
+GWGH;GWG Holdings, Inc;20.75865724099566
+CLAR;Clarus Corporation;20.68610868831795
+ADRE;Invesco BLDRS Emerging Markets 50 ADR Index Fund;20.66337376191251
+QSII;Quality Systems, Inc.;20.656807713290206
+LVHD;Legg Mason Low Volatility High Dividend ETF;20.643215673658005
+FORR;Forrester Research, Inc.;20.45202690488007
+EDBI;Legg Mason Emerging Markets Diversified Core ETF;20.44889220839353
+DLBL;Barclays PLC;20.419993691089857
+OBNK;Origin Bancorp, Inc.;20.411761764705886
+ABUS;Arbutus Biopharma Corporation;20.297545441964132
+DWPP;"First Trust Dorsey Wright People&#39;s Portfolio ETF";20.285366346545544
+CSBR;Champions Oncology, Inc.;20.28299076115286
+NFBK;Northfield Bancorp, Inc.;20.25807305286034
+OSPN;OneSpan Inc.;20.183486238532097
+MRAM;Everspin Technologies, Inc.;20.122278106703163
+APOG;Apogee Enterprises, Inc.;20.120356157242213
+RELL;Richardson Electronics, Ltd.;20.06904203207216
+MRSN;Mersana Therapeutics, Inc.;20.059857216125835
+PCSB;PCSB Financial Corporation;20.039589054211078
+FNK;First Trust Mid Cap Value AlphaDEX Fund;19.917389113734274
+ALDX;Aldeyra Therapeutics, Inc.;19.87129459281047
+FTXR;First Trust Nasdaq Transportation ETF;19.821138195594074
+IDLB;Invesco FTSE International Low Beta Equal Weight ETF;19.752862807045204
+AXDX;Accelerate Diagnostics, Inc.;19.702578711366954
+APTX;Aptinyx Inc.;19.653459423096066
+MRBK;Meridian Bank;19.56193452013339
+PFM;Invesco Dividend Achievers ETF;19.558889357021712
+IMPV;Imperva, Inc.;19.532634845173874
+RING;iShares MSCI Global Gold Miners ETF;19.515978602615817
+ISBC;Investors Bancorp, Inc.;19.512260723594963
+MB;MINDBODY, Inc.;19.50777516384008
+CALM;Cal-Maine Foods, Inc.;19.499931228612013
+FPA;First Trust Asia Pacific Ex-Japan AlphaDEX Fund;19.49264537724666
+MSON;MISONIX, Inc.;19.419050693475796
+LQDT;Liquidity Services, Inc.;19.341141072488504
+IUSV;iShares Core S&P U.S. Value ETF;19.27644995310949
+PKW;Invesco BuyBack Achievers ETF;19.193325047417105
+SHLM;A. Schulman, Inc.;19.183460833769644
+ANIP;ANI Pharmaceuticals, Inc.;19.125267298956146
+KVHI;KVH Industries, Inc.;19.109667687430175
+TBBK;The Bancorp, Inc.;19.07779800887085
+DUSA;Davis Select U.S. Equity ETF;19.018918350768587
+RFDI;First Trust RiverFront Dynamic Developed International ETF;18.93653798106652
+OMAB;Grupo Aeroportuario del Centro Norte S.A.B. de C.V.;18.706548005313707
+IMMP;Immutep Limited;18.668817653275582
+AKAM;Akamai Technologies, Inc.;18.635283275034865
+DFNL;Davis Select Financial ETF;18.57044968200981
+QRVO;Qorvo, Inc.;18.55280770730623
+PEP;Pepsico, Inc.;18.542915353989912
+ADRA;Invesco BLDRS Asia 50 ADR Index Fund;18.465068928228504
+NUVA;NuVasive, Inc.;18.394070995519073
+CMCSA;Comcast Corporation;18.38807708883067
+HMSY;HMS Holdings Corp;18.296332036957097
+PIZ;Invesco DWA Developed Markets Momentum ETF;18.259770523742375
+VYMI;Vanguard International High Dividend Yield ETF;18.221116300026438
+FWRD;Forward Air Corporation;18.16401187738478
+CHRW;C.H. Robinson Worldwide, Inc.;18.07255401378572
+DWTR;Invesco DWA Tactical Sector Rotation ETF;18.06508810582349
+DYSL;Dynasil Corporation of America;18.02287486487677
+FCVT;First Trust SSI Strategic Convertible Securities ETF;18.012331615563795
+GPIC;Gaming Partners International Corporation;18.006071347663394
+DDBI;Legg Mason Developed EX-US Diversified Core ETF;17.966172486487764
+PTGX;Protagonist Therapeutics, Inc.;17.927617452464972
+CACG;ClearBridge All Cap Growth ETF;17.91800083772455
+CHNR;China Natural Resources, Inc.;17.91195927714682
+THRM;Gentherm Inc;17.87407972201629
+OSN;Ossen Innovation Co., Ltd.;17.78353504067306
+VALX;Validea Market Legends ETF;17.688549197097757
+HBK;Hamilton Bancorp, Inc.;17.683273967300565
+CCD;Calamos Dynamic Convertible & Income Fund;17.68279920567913
+OSIS;OSI Systems, Inc.;17.613430490692835
+STAY;Extended Stay America, Inc.;17.58130466669114
+MPCT;iShares MSCI Global Impact ETF;17.57528243569928
+TRNC;tronc, Inc.;17.54324294236701
+PNRG;PrimeEnergy Corporation;17.52640098713684
+EMMS;Emmis Communications Corporation;17.487511664679914
+HEWG;iShares Currency Hedged MSCI Germany ETF;17.46325611316118
+FNHC;FedNat Holding Company;17.196115054305494
+ARKR;Ark Restaurants Corp.;17.185840593605377
+EQRR;ProShares Equities for Rising Rates ETF;17.03118299864927
+IFV;First Trust Dorsey Wright International Focus 5 ETF;16.953209225421418
+DAX;Horizons DAX Germany ETF;16.87078468214952
+BNFT;Benefitfocus, Inc.;16.82368920916558
+IFEU;iShares FTSE EPRA/NAREIT Europe Index Fund;16.81086405666659
+NWLI;National Western Life Group, Inc.;16.752188358448393
+TFSL;TFS Financial Corporation;16.723153047659068
+BANX;StoneCastle Financial Corp;16.716947392291175
+PFI;Invesco DWA Financial Momentum ETF;16.652677292657472
+LYTS;LSI Industries Inc.;16.424285240235747
+PRCP;Perceptron, Inc.;16.40322620358539
+NODK;NI Holdings, Inc.;16.37313032825064
+PRIM;Primoris Services Corporation;16.37204089400683
+ROIC;Retail Opportunity Investments Corp.;16.37118273677713
+EXFO;EXFO Inc;16.35744359852049
+VONV;Vanguard Russell 1000 Value ETF;16.303020390400732
+VIDI;ETF Series Solutions Trust Vident International Equity Fund;16.283344953086598
+CGO;Calamos Global Total Return Fund;16.157099725072754
+ASET;FlexShares Real Assets Allocation Index Fund;16.154775102549024
+DSKE;Daseke, Inc.;15.918287796774251
+IXUS;iShares Core MSCI Total International Stock ETF;15.835899726422284
+AMBC;Ambac Financial Group, Inc.;15.82790830000927
+PERY;Perry Ellis International Inc.;15.814458383217527
+GEMP;Gemphire Therapeutics Inc.;15.723393419417292
+PSAU;Invesco Global Gold and Precious Metals ETF;15.699024796699732
+QINC;First Trust RBA Quality Income ETF;15.538878131476892
+BPOPM;Popular, Inc.;15.527657524063088
+ESGD;iShares MSCI EAFE ESG Optimized ETF;15.456826388942275
+SAMG;Silvercrest Asset Management Group Inc.;15.365456029082836
+MOR;MorphoSys AG;15.317374204385189
+FBIZ;First Business Financial Services, Inc.;15.317310269810974
+POPE;Pope Resources;15.277264630329753
+MDLZ;Mondelez International, Inc.;15.218626031937205
+CA;CA Inc.;15.109566126221566
+TCDA;Tricida, Inc.;14.999999999999986
+DXGE;WisdomTree Germany Hedged Equity Fund;14.95580279423281
+ATHN;athenahealth, Inc.;14.899232167894752
+CLFD;Clearfield, Inc.;14.766354942259994
+MDWD;MediWound Ltd.;14.635650725687476
+PFIN;P & F Industries, Inc.;14.616929522567062
+SLRC;Solar Capital Ltd.;14.573474697488876
+FUND;Sprott Focus Trust, Inc.;14.31234203578191
+VXUS;Vanguard Total International Stock ETF;14.288783986837245
+MITL;Mitel Networks Corporation;14.192479720428537
+PATI;Patriot Transportation Holding, Inc.;14.18478260869567
+LCAHU;Landcadia Holdings, Inc.;14.154937680417405
+CAKE;The Cheesecake Factory Incorporated;14.13499752566213
+LNDC;Landec Corporation;14.067197117469277
+QCLN;First Trust NASDAQ Clean Edge Green Energy Index Fund;14.033850576551174
+APLS;Apellis Pharmaceuticals, Inc.;13.992604213377646
+DXPE;DXP Enterprises, Inc.;13.976445203392416
+PFG;Principal Financial Group Inc;13.88288194998286
+DBX;Dropbox, Inc.;13.834262640449452
+AVNW;Aviat Networks, Inc.;13.78911926974257
+GOLD;Randgold Resources Limited;13.689060537148166
+AIRT;Air T, Inc.;13.628613287904585
+AMGN;Amgen Inc.;13.525317100827337
+ORIT;Oritani Financial Corp.;13.522265881178498
+BIDU;Baidu, Inc.;13.489332916093716
+PLAB;Photronics, Inc.;13.48912444308813
+SENEA;Seneca Foods Corp.;13.476451854938972
+NNBR;NN, Inc.;13.453869577148708
+MFINL;Medallion Financial Corp.;13.445272253565477
+FTXD;First Trust Nasdaq Retail ETF;13.375443197363865
+FARO;FARO Technologies, Inc.;13.299472276053393
+ACWX;iShares MSCI ACWI ex US Index Fund;13.21654415525137
+VSAT;ViaSat, Inc.;13.185208815384897
+CSQ;Calamos Strategic Total Return Fund;13.10457395083833
+RNSC;First Trust Small Cap US Equity Select ETF;13.04257911240721
+PIO;Invesco Global Water ETF;12.900070557540346
+INFR;Legg Mason Global Infrastructure ETF;12.849201762414282
+DWAT;Arrow DWA Tactical ETF;12.794547171905634
+VRCA;Verrica Pharmaceuticals Inc.;12.742857142857147
+PACW;PacWest Bancorp;12.718337990068449
+CSML;IQ Chaikin U.S. Small Cap ETF;12.6364340822511
+ICCH;ICC Holdings, Inc.;12.550251806263091
+EMCF;Emclaire Financial Corp;12.4590131147541
+VCYT;Veracyte, Inc.;12.354448280067174
+OPB;Opus Bank;12.341025525229114
+OMER;Omeros Corporation;12.323579636629617
+MIDD;The Middleby Corporation;12.168545541499967
+HIMX;Himax Technologies, Inc.;12.05981029900829
+FTHI;First Trust BuyWrite Income ETF;12.00229097560728
+FTLB;First Trust Hedged BuyWrite Income ETF;11.974718652012456
+GOV;Government Properties Income Trust;11.935028248587571
+JAZZ;Jazz Pharmaceuticals plc;11.645402987182834
+NWS;News Corporation;11.615910695097313
+BELFA;Bel Fuse Inc.;11.474358137609258
+EMKR;EMCORE Corporation;11.152473532456696
+SREV;ServiceSource International, Inc.;11.116399368779462
+QTNA;Quantenna Communications, Inc.;10.999185033605443
+RNMC;First Trust Mid Cap US Equity Select ETF;10.992269318722165
+SCKT;Socket Mobile, Inc.;10.973157944985346
+VSMV;VictoryShares US Multi-Factor Minimum Volatility ETF;10.860221317881155
+RECN;Resources Connection, Inc.;10.79695985857154
+GNTY;Guaranty Bancshares, Inc.;10.791843914265257
+ANAT;American National Insurance Company;10.786679874290087
+SBNY;Signature Bank;10.698458371921518
+DERM;Dermira, Inc.;10.68049147776631
+IDSY;I.D. Systems, Inc.;10.674640868667083
+IBB;iShares Nasdaq Biotechnology Index Fund;10.597852756743364
+CHSCL;CHS Inc;10.59213438721217
+PESI;Perma-Fix Environmental Services, Inc.;10.543359376915888
+JASO;JA Solar Holdings, Co., Ltd.;10.486116565781003
+CFFN;Capitol Federal Financial, Inc.;10.475986086997054
+FBSS;Fauquier Bankshares, Inc.;10.392500754571643
+SGBX;SG Blocks, Inc.;10.281916812342203
+IPDN;Professional Diversity Network, Inc.;10.263219835126428
+IAM;I-AM Capital Acquisition Company;10.238095238095227
+FKO;First Trust South Korea AlphaDEX Fund;10.186757186209334
+BABY;Natus Medical Incorporated;10.172983419049629
+IRIX;IRIDEX Corporation;10.12575700753866
+SCSC;ScanSource, Inc.;10.086569630471516
+DGRE;WisdomTree Emerging Markets Quality Dividend Growth Fund;10.073085400060236
+RNLC;First Trust Large Cap US Equity Select ETF;10.034867075079617
+PMPT;iSectors Post-MPT Growth ETF;10.028138661894985
+FSTR;L.B. Foster Company;9.999332907344183
+FKU;First Trust United Kingdom AlphaDEX Fund;9.966024060603687
+DTUS;Barclays PLC;9.851023833613425
+TBIO;Translate Bio, Inc.;9.809027777777786
+USATP;USA Technologies, Inc.;9.762850188254959
+JSYN;Jensyn Acquistion Corp.;9.60173048343971
+EFAS;Global X MSCI SuperDividend EAFE ETF;9.591648759067084
+IBKCP;IBERIABANK Corporation;9.576923490676421
+VSDA;VictoryShares Dividend Accelerator ETF;9.558546783321603
+BHAC;Barington/Hilco Acquisition Corp.;9.504972913594514
+CATM;Cardtronics plc;9.483304167742446
+VRTSP;Virtus Investment Partners, Inc.;9.374019519053661
+FIXX;Homology Medicines, Inc.;9.324758842443728
+NCLH;Norwegian Cruise Line Holdings Ltd.;9.238596719143587
+SMCP;AlphaMark Actively Managed Small Cap ETF;9.153280928011341
+VNQI;Vanguard Global ex-U.S. Real Estate ETF;9.147772514936321
+JSM;Navient Corporation;9.003128195169737
+GTYH;GTY Technology Holdings, Inc.;8.856156819114346
+RFAP;First Trust RiverFront Dynamic Asia Pacific ETF;8.827484174508342
+PFIS;Peoples Financial Services Corp. ;8.820482639518985
+PINC;Premier, Inc.;8.791814251719586
+PZZA;"Papa John&#39;s International, Inc.";8.711252124106366
+SELB;Selecta Biosciences, Inc.;8.665361297984354
+NUAN;Nuance Communications, Inc.;8.665052485927518
+CBLK;Carbon Black, Inc.;8.604840910407631
+WTFCM;Wintrust Financial Corporation;8.604644122514614
+WMGI;Wright Medical Group N.V.;8.585373130978411
+NESR;National Energy Services Reunited Corp.;8.542371378257485
+UBSI;United Bankshares, Inc.;8.531587677803756
+PMOM;Principal Sustainable Momentum Index ETF;8.510736978213373
+RYTM;Rhythm Pharmaceuticals, Inc.;8.509520476190474
+PTSI;P.A.M. Transportation Services, Inc.;8.477469180939664
+GSVC;GSV Capital Corp;8.351269681341563
+ZS;Zscaler, Inc.;8.333333333333329
+EVOP;EVO Payments, Inc.;8.201892744479494
+CVON;ConvergeOne Holdings, Inc.;8.179723502304157
+OLD;The Long-Term Care ETF;8.161914810522106
+RMBS;Rambus, Inc.;8.121101543054152
+EBAYL;eBay Inc.;8.111955654493812
+OXFD;Oxford Immunotec Global PLC;8.09857350515783
+KTWO;K2M Group Holdings, Inc.;8.080872227557592
+NTRSP;Northern Trust Corporation;8.05655765402463
+SUNS;Solar Senior Capital Ltd.;8.006470044461693
+YLDE;ClearBridge Dividend Strategy ESG ETF;7.9402512676921475
+NYMTP;New York Mortgage Trust, Inc.;7.799585936530022
+FAST;Fastenal Company;7.745669329428651
+CARV;Carver Bancorp, Inc.;7.6865834141837155
+CDMOP;Avid Bioservices, Inc.;7.597673333209173
+NYMTO;New York Mortgage Trust, Inc.;7.579706581676746
+SSLJ;SSLJ.com Limited;7.520891364902511
+TGA;TransGlobe Energy Corporation;7.4760192709668445
+CLBK;Columbia Financial, Inc.;7.328138780804139
+GLAD;Gladstone Capital Corporation;7.288352870308941
+ELSE;Electro-Sensors, Inc.;7.274388016075989
+AUTL;Autolus Therapeutics plc;7.160004000000015
+PNBK;Patriot National Bancorp Inc.;7.020349733320728
+HWKN;Hawkins, Inc.;6.970416276619318
+GFNCP;General Finance Corporation;6.952183626787132
+PWOD;Penns Woods Bancorp, Inc.;6.905472483854396
+TGEN;Tecogen Inc.;6.878955143656697
+GTYHU;GTY Technology Holdings, Inc.;6.846920359108992
+HQCL;Hanwha Q CELLS Co., Ltd. ;6.843294484430579
+CPIX;Cumberland Pharmaceuticals Inc.;6.8363906402220636
+HVBC;HV Bancorp, Inc.;6.791012429388147
+RNDV;First Trust US Equity Dividend Select ETF;6.702300237781529
+FCEF;First Trust CEF Income Opportunity ETF;6.656296841978431
+LMST;Limestone Bancorp, Inc.;6.573426573426559
+PLUG;Plug Power, Inc.;6.460622964588779
+FTXH;First Trust Nasdaq Pharmaceuticals ETF;6.433912369473404
+CLCT;Collectors Universe, Inc.;6.415308670137428
+FTSV;Forty Seven, Inc.;6.3122923588039725
+FHK;First Trust Hong Kong AlphaDEX Fund;6.189419477981062
+SVVC;Firsthand Technology Value Fund, Inc.;6.138226948230141
+CHW;Calamos Global Dynamic Income Fund;6.077508853445522
+PVAL;Principal Contrarian Value Index ETF;6.074746246684782
+SNFCA;Security National Financial Corporation;6.051435362638273
+ASRVP;AmeriServ Financial Inc.;6.003627898142881
+SDVY;First Trust SMID Cap Rising Dividend Achievers ETF;5.951953261026915
+IBKCO;IBERIABANK Corporation;5.826359287520745
+OSBCP;Old Second Bancorp, Inc.;5.817757279193188
+SMIT;Schmitt Industries, Inc.;5.7736248807305515
+DFVS;Barclays PLC;5.731394334384561
+HCOM;Hawaiian Telcom Holdco, Inc.;5.673756949609171
+NGHCZ;National General Holdings Corp;5.645060750315807
+ECHO;Echo Global Logistics, Inc.;5.6302510880974665
+ACSF;American Capital Senior Floating, Ltd.;5.597518700644727
+CTG;Computer Task Group, Incorporated;5.471591624473099
+HFBC;HopFed Bancorp, Inc.;5.470737913485976
+NWSA;News Corporation;5.453559383289672
+PLYA;Playa Hotels & Resorts N.V.;5.2986797430834685
+TGLS;Tecnoglass Inc.;5.275431587862123
+OBAS;Optibase Ltd.;5.166151733337031
+APVO;Aptevo Therapeutics Inc.;5.152631578947393
+FLAT;Barclays PLC;5.1421734670326344
+HMTV;Hemisphere Media Group, Inc.;5.128047128490721
+STLR;Stellar Acquisition III Inc.;5.079280781138394
+HBANO;Huntington Bancshares Incorporated;4.975613573521002
+USMC;Principal U.S. Mega-Cap Multi-Factor Index ETF;4.9622096904290345
+BPOPN;Popular, Inc.;4.88410596026489
+PIHPP;1347 Property Insurance Holdings, Inc.;4.877049180327873
+BRPAU;Big Rock Partners Acquisition Corp.;4.843246860876633
+OSPR;Osprey Energy Acquisition Corp.;4.800374097007236
+VIVO;Meridian Bioscience Inc.;4.799006769589212
+GRIN;Grindrod Shipping Holdings Ltd.;4.705876470588237
+EMCG;WisdomTree Emerging Markets Consumer Growth Fund;4.701423103730818
+KTCC;Key Tronic Corporation;4.696132596685089
+GOODP;Gladstone Commercial Corporation;4.615063481178225
+ISRL;Isramco, Inc.;4.584291882670172
+HSIC;Henry Schein, Inc.;4.582699011296455
+IGF;iShares Global Infrastructure ETF;4.58135519380329
+OCC;Optical Cable Corporation;4.563980532345603
+PDLB;PDL Community Bancorp;4.524284763805724
+LCA;Landcadia Holdings, Inc.;4.372202900959408
+BIB;ProShares Ultra Nasdaq Biotechnology;4.361013179578002
+LTRPB;Liberty TripAdvisor Holdings, Inc.;4.354403613516325
+FLN;First Trust Latin America AlphaDEX Fund;4.321912870516641
+BFST;Business First Bancshares, Inc.;4.315122723673781
+SCACU;Saban Capital Acquisition Corp.;4.273595057168663
+IGOV;iShares International Treasury Bond ETF;4.217834786059697
+MACQ;M I Acquisitions, Inc.;4.1378157634428305
+SRET;Global X SuperDividend REIT ETF;4.078591080622687
+GLADN;Gladstone Capital Corporation;4.053819444444457
+KBWY;Invesco KBW Premium Yield Equity REIT ETF;4.017074084988721
+OXLCO;Oxford Lane Capital Corp.;3.9680022102466808
+MTGEP;MTGE Investment Corp.;3.8967858024353745
+MTGE;MTGE Investment Corp.;3.8462721059069622
+GBLIZ;Global Indemnity Limited;3.7592287431724998
+ATAC;Atlantic Acquisition Corp.;3.759172380608703
+AVT;Avnet, Inc.;3.73262534587586
+CARZ;First Trust NASDAQ Global Auto Index Fund;3.690233696001272
+MTBCP;Medical Transcription Billing, Corp.;3.673987969917036
+MDRX;Allscripts Healthcare Solutions, Inc.;3.670749401356545
+ZUMZ;Zumiez Inc.;3.631894802505599
+FBZ;First Trust Brazil AlphaDEX Fund;3.621619033899492
+NRC;National Research Corporation;3.601119313081398
+HYZD;WisdomTree Interest Rate Hedged High Yield Bond Fund;3.572023223919672
+TSCAP;TriState Capital Holdings, Inc.;3.5573202987083192
+NWPX;Northwest Pipe Company;3.516308009764167
+AKBA;Akebia Therapeutics, Inc.;3.515705977766345
+CHSCM;CHS Inc;3.4243638728118384
+EACQ;Easterly Acquisition Corp.;3.4068590863722648
+COMT;iShares Commodities Select Strategy ETF;3.365733474546829
+HNRG;Hallador Energy Company;3.357410605783471
+VIVE;Viveve Medical, Inc.;3.3354546618378222
+BBH;VanEck Vectors Biotech ETF;3.321199417740715
+PSDO;Presidio, Inc.;3.292723598733957
+FMB;First Trust Managed Municipal ETF;3.1967813981256796
+BPRN;The Bank of Princeton;3.185597796802938
+BRPA;Big Rock Partners Acquisition Corp.;3.103715170278633
+FALN;iShares Fallen Angels USD Bond ETF;3.1021784257452794
+INCY;Incyte Corporation;3.0504151006194746
+BRAC;Black Ridge Acquisition Corp.;3.027139874739035
+ARCC;Ares Capital Corporation;3.010148522216838
+BOKFL;BOK Financial Corporation;3.0081643605316657
+GBDC;Golub Capital BDC, Inc.;2.9951343763606815
+GOODM;Gladstone Commercial Corporation;2.9793218151354495
+MTECU;MTech Acquisition Corp.;2.979145978152914
+TCBIL;Texas Capital Bancshares, Inc.;2.960005680012003
+AHPA;Avista Healthcare Public Acquisition Corp.;2.954487826334457
+GOVNI;Government Properties Income Trust;2.9303835576005497
+TRIP;TripAdvisor, Inc.;2.9288259481509016
+BNDX;Vanguard Total International Bond ETF;2.919324065655374
+FNTE;FinTech Acquisition Corp. II;2.8817850745216163
+BOFIL;BofI Holding, Inc.;2.763523808001821
+CGBD;TCG BDC, Inc.;2.756662038435408
+CALL;magicJack VocalTec Ltd;2.737593530914367
+INVA;Innoviva, Inc.;2.686429491118929
+NGHCP;National General Holdings Corp;2.678618240012881
+WHFBL;WhiteHorse Finance, Inc.;2.6661887353192384
+TRMD;TORM plc;2.631578947368425
+INAP;Internap Corporation;2.562220297129059
+AGNCB;AGNC Investment Corp.;2.5549602415761825
+DOTA;Draper Oakwood Technology Acquisition, Inc.;2.548535145516638
+GPAQU;Gordon Pointe Acquisition Corp.;2.499999999999986
+CIZ;VictoryShares Developed Enhanced Volatility Wtd ETF;2.499565793175563
+KBLM;KBL Merger Corp. IV;2.4717848535360503
+ADRD;Invesco BLDRS Developed Markets 100 ADR Index Fund;2.466865675452297
+BWINA;Baldwin & Lyons, Inc.;2.440934664805255
+MCEP;Mid-Con Energy Partners, LP;2.4261951593010878
+SNHNI;Senior Housing Properties Trust;2.3697005736589176
+MNRO;Monro, Inc. ;2.3337409265405142
+CBSHP;Commerce Bancshares, Inc.;2.2277129117842946
+MUDSU;Mudrick Capital Acquisition Corporation;2.200000000000003
+AMCX;AMC Networks Inc.;2.194048131493517
+MMDM;Modern Media Acquisition Corp.;2.142148415060845
+NMRK;Newmark Group, Inc.;2.035425316725238
+VETS;Pacer Military Times Best Employers ETF;2.0323190701085707
+JTPY;JetPay Corporation;2.013611660979848
+CUE;Cue Biopharma, Inc.;1.9776440240756585
+WRLS;Pensare Acquisition Corp.;1.963023138790092
+OXLCM;Oxford Lane Capital Corp.;1.8875341987866392
+KAAC;Kayne Anderson Acquisition Corp.;1.882757383942078
+NEWTZ;Newtek Business Services Corp.;1.8564738508509038
+MPAC;Matlin & Partners Acquisition Corporation;1.8480648977522378
+QYLD;Horizons NASDAQ-100 Covered Call ETF;1.7825735523662445
+GAINM;Gladstone Investment Corporation;1.7334515295676454
+PSMT;PriceSmart, Inc.;1.7218824058191302
+EAGLU;Platinum Eagle Acquisition Corp.;1.698301698301691
+III;Information Services Group, Inc.;1.6721830892780645
+SCAC;Saban Capital Acquisition Corp.;1.6607951685958682
+SGOC;SGOCO Group, Ltd;1.6412822022991662
+GOODO;Gladstone Commercial Corporation;1.607435495594487
+DFBHU;DFB Healthcare Acquisitions Corp.;1.5000000000000142
+GSHT;Gores Holdings II, Inc.;1.460301507537693
+MTEC;MTech Acquisition Corp.;1.4553014553014663
+HBANN;Huntington Bancshares Incorporated;1.4390809380269474
+NGHCO;National General Holdings Corp;1.3583464761130273
+VTIP;Vanguard Short-Term Inflation-Protected Securities Index Fund;1.3581567596175859
+HUNT;Hunter Maritime Acquisition Corp.;1.3424452379263414
+JCS;Communications Systems, Inc.;1.3297872340425556
+RILYH;B. Riley Financial, Inc.;1.309523757558594
+GAINN;Gladstone Investment Corporation;1.2983187074463558
+CCRN;Cross Country Healthcare, Inc.;1.2956292133863627
+PACQU;Pure Acquisition Corp.;1.284584980237156
+WILC;G. Willi-Food International,  Ltd.;1.2747875354107663
+FSAC;Federal Street Acquisition Corp.;1.2371134020618797
+FCAL;First Trust California Municipal High income ETF;1.1523286701768853
+RNDM;First Trust Developed International Equity Select ETF;1.1148188860411494
+PCYG;Park City Group, Inc.;1.0997336293455646
+PXI;Invesco DWA Energy Momentum ETF;1.0385387882676582
+STNL;Sentinel Energy Services Inc.;1.025641025641022
+HNNA;Hennessy Advisors, Inc.;1.0129049869356308
+PFLT;PennantPark Floating Rate Capital Ltd.;0.9952151889835505
+TCBIP;Texas Capital Bancshares, Inc.;0.9948510155267059
+LSCC;Lattice Semiconductor Corporation;0.9498214866294745
+LACQU;Leisure Acquisition Corp.;0.9107063977403129
+GMLPP;Golar LNG Partners LP;0.9085164998644899
+LMBS;First Trust Low Duration Opportunities ETF;0.8664678687230634
+DFVL;Barclays PLC;0.8659859027708734
+INBKL;First Internet Bancorp;0.8461499999999944
+BWINB;Baldwin & Lyons, Inc.;0.8212740646476675
+PBSK;Poage Bankshares, Inc.;0.8205128205128318
+DWIN;Invesco DWA Tactical Multi-Asset Income ETF;0.8054224777376078
+TEDU;Tarena International, Inc.;0.798934753661797
+OPESU;Opes Acquisition Corp.;0.7984031936127707
+BWB;Bridgewater Bancshares, Inc.;0.792393026941383
+SPOK;Spok Holdings, Inc.;0.7411282196298998
+CID;VictoryShares International High Div Volatility Wtd ETF;0.7312861463509108
+NEBUU;Nebula Acquisition Corporation;0.700000000000017
+LFACU;LF Capital Acquistion Corp.;0.700000000000017
+RTIX;RTI Surgical, Inc.;0.6562921266456669
+SRRK;Scholar Rock Holding Corporation;0.6451612903225765
+EDRY;EuroDry Ltd.;0.6024096385542066
+COWNL;Cowen Inc.;0.6019261637239168
+COWNZ;Cowen Inc.;0.6002588604081183
+HYXE;iShares iBoxx $ High Yield ex Oil & Gas Corporate Bond ETF;0.5865647618236665
+HSTM;HealthStream, Inc.;0.5644494184900282
+ACT;AdvisorShares Vice ETF;0.5385007366263466
+MUDS;Mudrick Capital Acquisition Corporation;0.5213764337852069
+SOHOO;Sotherly Hotels Inc.;0.5179325374816841
+DALI;First Trust DorseyWright DALI 1 ETF;0.5025125628140898
+TDACU;Trident Acquisitions Corp.;0.4985044865403836
+BHTG;BioHiTech Global, Inc.;0.4347599502238495
+TIBR;Tiberius Acquisition Corporation;0.4179728317659226
+BCAC;Bison Capital Acquisition Corp.;0.4155618718911569
+CSSEP;Chicken Soup for the Soul Entertainment, Inc.;0.40160642570282334
+SOHOK;Sotherly Hotels LP;0.3890972611246184
+SLGN;Silgan Holdings Inc.;0.32045107204672263
+ENTX;Entera Bio Ltd.;0.3184713375796093
+TMCX;Trinity Merger Corp.;0.3080082135523412
+EGOV;NIC Inc.;0.30587678120190276
+TIBRU;Tiberius Acquisition Corporation;0.29880478087650886
+LKOR;FlexShares Credit-Scored US Long Corporate Bond Index Fund;0.29342526710965444
+CLRG;IQ Chaikin U.S. Large Cap ETF;0.24911291089108545
+FMHI;First Trust Municipal High Income ETF;0.2446831578183719
+VEAC;Vantage Energy Acquisition Corp.;0.22341292222847642
+VTIQ;VectoIQ Acquisition Corp.;0.20920502092050697
+MBFIO;MB Financial Inc.;0.20711610722749185
+OPES;Opes Acquisition Corp.;0.20661157024792942
+GPAQ;Gordon Pointe Acquisition Corp.;0.20618556701033697
+VRIG;Invesco Variable Rate Investment Grade ETF;0.19338232495788077
+SHV;iShares Short Treasury Bond ETF;0.17244292020350827
+RILYG;B. Riley Financial, Inc.;0.13393530280801258
+LACQ;Leisure Acquisition Corp.;0.10362694300518172
+PETZC;Gabelli NextShares Trust;0.0700210056014754
+FOANC;Gabelli NextShares Trust;0.029995999800121353
+IVFVC;Ivy NextShares;0.010000001400101155
+FTSM;First Trust Enhanced Short Maturity ETF;0.0004639600844882352
+CRUSC;Calvert Management Series;-0.00999599979991217
+OXSQL;Oxford Square Capital Corp.;-0.011653653420353294
+BMRN;BioMarin Pharmaceutical Inc.;-0.02338178778590816
+IVENC;Ivy NextShares;-0.02999100359846807
+GRBIC;Gabelli NextShares Trust;-0.0499830062976514
+CHSCN;CHS Inc;-0.06004261868955041
+GLNG;Golar LNG Limited;-0.07849819937959523
+LPCN;Lipocine Inc.;-0.08024780522254815
+CSWCL;Capital Southwest Corporation;-0.14907111179076082
+TBRGU;Thunder Bridge Acquisition, Ltd.;-0.16915422885574571
+DTYS;Barclays PLC;-0.18520631821927225
+ATOM;Atomera Incorporated;-0.18627704163908732
+LEXEA;Liberty Expedia Holdings, Inc.;-0.20258209722227605
+BFRA;Biofrontera AG;-0.24630541871920286
+ALTY;Global X SuperDividend Alternatives ETF;-0.26937500809542314
+EAGL;Platinum Eagle Acquisition Corp.;-0.3076923076922924
+LAUR;Laureate Education, Inc.;-0.3098338802297036
+FTXG;First Trust Nasdaq Food & Beverage ETF;-0.33191734031017006
+CNCR;Loncar Cancer Immunotherapy ETF;-0.33454481401425085
+AIQ;Global X Future Analytics Tech ETF;-0.3724394785847238
+TSCO;Tractor Supply Company;-0.408360134450092
+PBCTP;"People&#39;s United Financial, Inc.";-0.470218153775221
+GAINO;Gladstone Investment Corporation;-0.5128619375315253
+PACQ;Pure Acquisition Corp.;-0.5159958720330167
+DTYL;Barclays PLC;-0.5964424850219388
+ISHG;iShares 1-3 Year International Treasury Bond ETF;-0.6910550136257854
+CZR;Caesars Entertainment Corporation;-0.7264286289230739
+DFBH;DFB Healthcare Acquisitions Corp.;-0.8247422680412342
+ADRU;Invesco BLDRS Europe Select ADR Index Fund;-0.8560314279479684
+IIJI;Internet Initiative Japan, Inc.;-0.9174717293884953
+HYRE;HyreCar Inc.;-0.9803921568627345
+LMRKP;Landmark Infrastructure Partners LP;-0.994108616475458
+KFFB;Kentucky First Federal Bancorp;-0.9980446776612126
+GULF;WisdomTree Middle East Dividend Fund;-1.1086646949050305
+VGSH;Vanguard Short-Term Treasury ETF;-1.1239527147609891
+IFGL;iShares FTSE EPRA/NAREIT Global Real Estate ex-U.S. Index Fund;-1.1806191871284568
+SLQD;iShares 0-5 Year Investment Grade Corporate Bond ETF;-1.2137584165435982
+CSJ;iShares 1-3 Year Credit Bond ETF;-1.2307295878156026
+CPTAL;Capitala Finance Corp.;-1.2309474417139512
+PCAR;PACCAR Inc.;-1.2797577149278112
+PIH;1347 Property Insurance Holdings, Inc.;-1.2972038072128953
+ALGT;Allegiant Travel Company;-1.322115974109451
+HYND;WisdomTree Negative Duration High Yield Bond Fund;-1.3313791271500008
+HWCPL;Hancock Whitney Corporation;-1.347729832601857
+VRNA;Verona Pharma plc;-1.369746083198251
+SHY;iShares 1-3 Year Treasury Bond ETF;-1.401569635070956
+NGHCN;National General Holdings Corp;-1.402318644254791
+SATS;EchoStar Corporation;-1.4697501425520585
+BANFP;BancFirst Corporation;-1.4925455801915604
+RILYL;B. Riley Financial, Inc.;-1.5057915057914926
+VCSH;Vanguard Short-Term Corporate Bond ETF;-1.5973613676295173
+FITBI;Fifth Third Bancorp;-1.6076496812339371
+VWOB;Vanguard Emerging Markets Government Bond ETF;-1.7654331689342513
+MRCC;Monroe Capital Corporation;-1.7834253868220316
+FIXD;First Trust TCW Opportunistic Fixed Income ETF;-1.804520036353253
+VNET;21Vianet Group, Inc.;-1.8969065619197494
+FTSL;First Trust Senior Loan Fund ETF;-1.9127686001630622
+ISTB;iShares Core 1-5 Year USD Bond ETF;-1.9177649664827499
+CDOR;Condor Hospitality Trust, Inc.;-1.9469327332906303
+SCWX;SecureWorks Corp.;-1.9479801399232741
+NFTY;First Trust India Nifty 50 Equal Weight ETF;-1.9676523971780284
+ACGLP;Arch Capital Group Ltd.;-1.9946421761425484
+EMCB;WisdomTree Emerging Markets Corporate Bond Fund;-2.007874543713072
+ODT;Odonate Therapeutics, Inc.;-2.0200777088204944
+STX;Seagate Technology PLC;-2.0899346901081373
+LEXEB;Liberty Expedia Holdings, Inc.;-2.1276595744680833
+GNRX;VanEck Vectors Generic Drugs ETF;-2.1361205174402187
+AMTX;Aemetis, Inc;-2.146014904635564
+IEI;iShares 3-7 Year Treasury Bond ETF;-2.152949245425944
+FAAR;First Trust Alternative Absolute Return Strategy ETF;-2.177270427456534
+DTUL;Barclays PLC;-2.1876346107944187
+MINDP;Mitcham Industries, Inc.;-2.1889084581126497
+AGIO;Agios Pharmaceuticals, Inc.;-2.2218715941329066
+EMB;iShares J.P. Morgan USD Emerging Markets Bond ETF;-2.232664629014593
+SKOR;FlexShares Credit-Scored US Corporate Bond Index Fund;-2.287638486805122
+SYNT;Syntel, Inc.;-2.2960552663586924
+IUSB;iShares Core Total USD Bond Market ETF;-2.3265880369214216
+SOHOB;Sotherly Hotels Inc.;-2.335743802518465
+NVMM;Novume Solutions, Inc.;-2.3508771929824377
+CERN;Cerner Corporation;-2.413182220498655
+AGZD;WisdomTree Barclays Interest Rate Hedged U.S. Aggregate Bond F;-2.4724282074293455
+LANDP;Gladstone Land Corporation;-2.5275307313939663
+LDRI;Invesco LadderRite 0-5 Year Corporate Bond ETF;-2.52959928833252
+REIS;Reis, Inc;-2.616221644021195
+ROBT;First Trust Nasdaq Artificial Intelligence and Robotics ETF;-2.61849850845212
+LMRKO;Landmark Infrastructure Partners LP;-2.648221448546309
+SIR;Select Income REIT;-2.696947106956088
+SGYP;Synergy Pharmaceuticals, Inc.;-2.704270607684421
+LMRKN;Landmark Infrastructure Partners LP;-2.7062706270627075
+FDIV;First Trust Strategic Income ETF;-2.718569318910241
+CIU;iShares Intermediate Credit Bond ETF;-2.746385029737155
+TANNL;TravelCenters of America LLC;-2.7871536949161424
+OFS;OFS Capital Corporation;-2.8881775963580054
+CHCI;Comstock Holding Companies, Inc.;-2.9154417698740644
+TURN;180 Degree Capital Corp.;-3.0113471606157844
+VCIT;Vanguard Intermediate-Term Corporate Bond ETF;-3.0129173376964786
+IMKTA;Ingles Markets, Incorporated;-3.0307470321863974
+CHSCO;CHS Inc;-3.0706656488331276
+VGIT;Vanguard Intermediate-Term Treasury ETF;-3.073555604421415
+FVE;Five Star Senior Living Inc.;-3.225806451612911
+DINT;Davis Select International ETF;-3.2371845523242087
+VMBS;Vanguard Mortgage-Backed Securities ETF;-3.2485569157189502
+TANNZ;TravelCenters of America LLC;-3.2968571488110143
+SUSB;iShares ESG 1-5 Year USD Corporate Bond ETF;-3.2987166529649983
+POWL;Powell Industries, Inc.;-3.3891952416723257
+HWCC;Houston Wire & Cable Company;-3.6381885593130434
+QTRX;Quanterix Corporation;-3.6509156922484323
+FFBW;FFBW, Inc.;-3.6966315413016417
+AGND;WisdomTree Barclays Negative Duration U.S. Aggregate Bond Fund;-3.70668118366531
+IEF;iShares 7-10 Year Treasury Bond ETF;-3.8448683063296727
+OCSLL;Oaktree Specialty Lending Corporation;-3.889558555884534
+HOLI;Hollysys Automation Technologies, Ltd.;-3.9035235508519577
+SUSC;iShares ESG USD Corporate Bond ETF;-3.971545652050665
+VCLT;Vanguard Long-Term Corporate Bond ETF;-4.004047410246628
+CRED;iShares U.S. Credit Bond ETF;-4.02164933332611
+SPKEP;Spark Energy, Inc.;-4.0321093377488495
+CYOU;Changyou.com Limited;-4.087940394190298
+TCGP;The Carlyle Group L.P.;-4.137973528089887
+KELYB;Kelly Services, Inc.;-4.166666666666657
+TLT;iShares 20+ Year Treasury Bond ETF;-4.173446044559697
+GNMA;iShares GNMA Bond ETF;-4.215914893921479
+ECPG;Encore Capital Group Inc;-4.237676819308305
+PLW;Invesco 1-30 Laddered Treasury ETF;-4.26394626914923
+LEGR;First Trust Indxx Innovative Transaction & Process ETF;-4.2733621549717355
+ILPT;Industrial Logistics Properties Trust;-4.2826552462526735
+LTRPA;Liberty TripAdvisor Holdings, Inc.;-4.340860027795486
+GLBZ;Glen Burnie Bancorp;-4.347826086956516
+DJCO;Daily Journal Corp. (S.C.);-4.355263906496802
+OTTW;Ottawa Bancorp, Inc.;-4.473503097040606
+TANNI;TravelCenters of America LLC;-4.518306938821738
+DLBS;Barclays PLC;-4.534523037723616
+HNDL;Strategy Shares Nasdaq 7HANDL Index ETF;-4.562446482197558
+MBB;iShares MBS ETF;-4.790209453417901
+INFN;Infinera Corporation;-4.809286830062973
+VGLT;Vanguard Long-Treasury ETF;-4.855834225767822
+SENEB;Seneca Foods Corp.;-4.8999336576736
+EMXC;iShares MSCI Emerging Markets ex China ETF;-4.90833187942745
+TMDI;Titan Medical Inc.;-4.9152542372881385
+PAGG;Invesco Global Agriculture ETF;-4.946031133034722
+DRIV;Global X Autonomous & Electric Vehicles ETF;-5.039267015706798
+ESCA;Escalade, Incorporated;-5.094631373157242
+MTEX;Mannatech, Incorporated;-5.140769850915746
+VBND;ETF Series Solutions Trust Vident Core U.S. Bond Strategy Fund;-5.148570012773192
+HYLS;First Trust High Yield Long/Short ETF;-5.158761857720606
+RDIB;Reading International Inc;-5.206077368040496
+RDHL;Redhill Biopharma Ltd.;-5.301723387526081
+FLIC;The First of Long Island Corporation;-5.304504509341925
+GIII;G-III Apparel Group, LTD.;-5.379266473459097
+IVAC;Intevac, Inc.;-5.438834396048101
+PFF;iShares U.S. Preferred Stock ETF;-5.457996509922651
+AIHS;Senmiao Technology Limited;-5.564924114671172
+AEHR;Aehr Test Systems;-5.650756627602661
+MMAC;MMA Capital Management, LLC;-5.673762210150272
+STXB;Spirit of Texas Bancshares, Inc.;-5.720823798627009
+BCNA;Reality Shares Nasdaq NexGen Economy China ETF;-5.826446040229499
+CHY;Calamos Convertible and High Income Fund;-5.860648371949807
+SNLN;Highland/iBoxx Senior Loan ETF;-5.897598770703212
+HCAP;Harvest Capital Credit Corporation;-5.8981137198857425
+EUFN;iShares MSCI Europe Financials Sector Index Fund;-5.915114483493696
+NYMTN;New York Mortgage Trust, Inc.;-5.997098515030771
+CRTO;Criteo S.A.;-6.098753612476976
+XERS;Xeris Pharmaceuticals, Inc.;-6.1325373952787885
+PBPB;Potbelly Corporation;-6.2802533138874
+MAGS;Magal Security Systems Ltd.;-6.360905856595508
+TLF;Tandy Leather Factory, Inc.;-6.434853363836666
+UXIN;Uxin Limited;-6.514994829369186
+DISCB;Discovery, Inc.;-6.530957172405877
+CHSCP;CHS Inc;-6.572680244976425
+SEED;Origin Agritech Limited;-6.68569907700342
+CPHC;Canterbury Park Holding Corporation;-6.7289661513374455
+SPNE;SeaSpine Holdings Corporation;-6.760483715239218
+CECE;CECO Environmental Corp.;-6.786898875577528
+FPRX;Five Prime Therapeutics, Inc.;-6.8061751740516385
+DWFI;SPDR Dorsey Wright Fixed Income Allocation ETF;-6.9169201833609435
+MGTA;Magenta Therapeutics, Inc.;-7.024793388429757
+PRPL;Purple Innovation, Inc.;-7.038520408674231
+LEVL;Level One Bancorp, Inc.;-7.10868079289132
+SPWH;"Sportsman&#39;s Warehouse Holdings, Inc.";-7.114250098678227
+ESRX;Express Scripts Holding Company;-7.150486343156743
+PRQR;ProQR Therapeutics N.V.;-7.157915780201449
+NXEOU;Nexeo Solutions, Inc.;-7.174596299075162
+CHI;Calamos Convertible Opportunities and Income Fund;-7.232699970982324
+HPT;Hospitality Properties Trust;-7.242684328197541
+XRAY;DENTSPLY SIRONA Inc.;-7.251147639465444
+RMCF;Rocky Mountain Chocolate Factory, Inc.;-7.278903500708026
+LAWS;Lawson Products, Inc.;-7.33743977409749
+TIPT;Tiptree Inc.;-7.36327806398792
+BLCN;Reality Shares Nasdaq NextGen Economy ETF;-7.381447422680409
+YDIV;First Trust International Multi-Asset Diversified Income Index;-7.3904568381669264
+REGN;Regeneron Pharmaceuticals, Inc.;-7.393718484344191
+PDBC;Invesco Optimum Yield Diversified Commodity Strategy No K-1 ET;-7.55484235795349
+PPH;VanEck Vectors Pharmaceutical ETF;-7.61527559186419
+EMIF;iShares S&P Emerging Markets Infrastructure Index Fund;-7.652613840621427
+GOGL;Golden Ocean Group Limited;-7.852501165835065
+AQXP;Aquinox Pharmaceuticals, Inc.;-7.858148724606494
+ATRO;Astronics Corporation;-7.903677623525056
+FCAN;First Trust Canada AlphaDEX Fund;-7.906796947300421
+UTHR;United Therapeutics Corporation;-7.955216378773798
+DWCR;Arrow DWA Country Rotation ETF;-7.956797171494372
+PID;Invesco International Dividend Achievers ETF;-8.015778830017084
+CLMT;Calumet Specialty Products Partners, L.P.;-8.024691358024683
+SOHO;Sotherly Hotels Inc.;-8.068081155659513
+BGFV;Big 5 Sporting Goods Corporation;-8.104178466206363
+JSYNU;Jensyn Acquistion Corp.;-8.236612709428385
+CG;The Carlyle Group L.P.;-8.351724937580151
+AVRO;AVROBIO, Inc.;-8.461544600591537
+BELFB;Bel Fuse Inc.;-8.549676586632913
+MBSD;FlexShares Disciplined Duration MBS Index Fund;-8.5535100454956
+CNAT;Conatus Pharmaceuticals Inc.;-8.717464336727886
+VCTR;Victory Capital Holdings, Inc.;-8.793103448275858
+ESBK;Elmira Savings Bank NY (The);-9.009795179133334
+ICLN;iShares S&P Global Clean Energy Index Fund;-9.034592711228925
+CSA;VictoryShares US Small Cap Volatility Wtd ETF;-9.043966540285616
+KBWD;Invesco KBW High Dividend Yield Financial ETF;-9.219913338162556
+GSKY;GreenSky, Inc.;-9.460620314185789
+ESTR;Estre Ambiental, Inc.;-9.58839924130777
+ANIK;Anika Therapeutics Inc.;-9.592225451091586
+FDUS;Fidus Investment Corporation;-9.636696083012552
+WMIH;WMIH Corp.;-9.709439391933557
+CORE;Core-Mark Holding Company, Inc.;-9.751354040693627
+BLMN;"Bloomin&#39; Brands, Inc.";-9.760048720174169
+KHC;The Kraft Heinz Company;-9.76272302334425
+PXS;Pyxis Tankers Inc.;-9.774791675326483
+CLNE;Clean Energy Fuels Corp.;-9.847514863399354
+ROSEU;Rosehill Resources Inc.;-9.857904085257545
+UIHC;United Insurance Holdings Corp.;-9.874286481571616
+TNAV;Telenav, Inc.;-9.896504867099964
+DOGZ;Dogness (International) Corporation;-9.935943060498218
+GNMK;GenMark Diagnostics, Inc.;-10.036224524632637
+ATAI;ATA Inc.;-10.582723721660685
+STPP;Barclays PLC;-10.604256026659385
+LALT;Invesco Multi-Strategy Alternative ETF;-10.66189044390272
+GECC;Great Elm Capital Corp.;-10.810810810810807
+PLLL;Piedmont Lithium Limited;-10.884786760025463
+KNSA;Kiniksa Pharmaceuticals, Ltd.;-10.888541904907115
+SIGM;Sigma Designs, Inc.;-11.306443040287135
+BMLP;Bank Of Montreal;-11.344449117364078
+WVVIP;Willamette Valley Vineyards, Inc.;-11.347517730496449
+HOVNP;Hovnanian Enterprises Inc;-11.406779734152437
+MSTR;MicroStrategy Incorporated;-11.442233414703452
+DGICA;Donegal Group, Inc.;-11.515402138848899
+MCEF;First Trust Municipal CEF Income Opportunity ETF;-11.592961760898305
+CNAC;Constellation Alpha Capital Corp.;-11.639257294429697
+CDMO;Avid Bioservices, Inc.;-11.6543801117855
+STDY;SteadyMed Ltd.;-11.688385362455975
+RDUS;Radius Health, Inc.;-11.720854935282333
+MDXG;MiMedx Group, Inc;-11.735483730872858
+FORK;Fuling Global Inc.;-11.956679627219359
+CASA;Casa Systems, Inc.;-11.967650240843682
+EIDX;Eidos Therapeutics, Inc.;-12.024225258467766
+SYNA;Synaptics Incorporated;-12.162480851627592
+CPTAG;Capitala Finance Corp.;-12.193066197308937
+ZEAL;Zealand Pharma A/S;-12.342792618725184
+GMLP;Golar LNG Partners LP;-12.384184352458604
+ASV;ASV Holdings, Inc.;-12.56810682219323
+GT;The Goodyear Tire & Rubber Company;-12.631085974081941
+FTEO;FRONTEO, Inc.;-12.725713671539125
+BIOS;BioScrip, Inc.;-12.940202866170026
+MPVD;Mountain Province Diamonds Inc.;-12.998886615660034
+SEAC;SeaChange International, Inc.;-13.022389305864024
+MIND;Mitcham Industries, Inc.;-13.087332873840914
+ACOR;Acorda Therapeutics, Inc.;-13.188577203453264
+SHLO;Shiloh Industries, Inc.;-13.204485296993923
+LOVE;The Lovesac Company;-13.50562734472696
+FENC;Fennec Pharmaceuticals Inc.;-13.642857142857153
+XPLR;Xplore Technologies Corp;-13.646059583091741
+TCPC;TCP Capital Corp.;-13.649955982753454
+QIWI;QIWI plc;-13.681554052846366
+PICO;PICO Holdings Inc.;-13.689459782126733
+PRTO;Proteon Therapeutics, Inc.;-13.763215893305244
+SANW;S&W Seed Company;-13.958858791931945
+UGLD;Credit Suisse AG;-13.979496671188159
+JRSH;Jerash Holdings (US), Inc.;-14.086146682188598
+SNNA;Sienna Biopharmaceuticals, Inc.;-14.097880406686201
+CLLS;Cellectis S.A.;-14.13873939872569
+HX;Hexindai Inc.;-14.150643387343209
+HPJ;Highpower International Inc;-14.177770673904156
+CRAY;Cray Inc;-14.208773273723025
+SNH;Senior Housing Properties Trust;-14.20942707415277
+CKPT;Checkpoint Therapeutics, Inc.;-14.297927461139906
+MHLD;Maiden Holdings, Ltd.;-14.351201928991387
+PFSW;PFSweb, Inc.;-14.353989819324582
+PCTI;PC-Tel, Inc.;-14.361198324942528
+RIBT;RiceBran Technologies;-14.391711801003837
+CRON;Cronos Group Inc.;-14.435695538057743
+RARX;Ra Pharmaceuticals, Inc.;-14.511947425992055
+GSM;Ferroglobe PLC;-14.54938452404069
+TMSR;TMSR Holding Company Limited;-14.629613281033812
+SGRP;SPAR Group, Inc.;-14.680284392919603
+SALM;Salem Media Group, Inc.;-14.685165366597431
+SRAX;Social Reality, Inc.;-14.743283509993375
+ISSC;Innovative Solutions and Support, Inc.;-14.764411662222557
+EFII;Electronics for Imaging, Inc.;-14.765105773758052
+ANDE;The Andersons, Inc.;-14.948185582654169
+SYMC;Symantec Corporation;-15.004843178802645
+IGLD;Internet Gold Golden Lines Ltd.;-15.032273495957853
+BRQS;Borqs Technologies, Inc. ;-15.193798449612402
+PACB;Pacific Biosciences of California, Inc.;-15.281895898509916
+AMOV;America Movil, S.A.B. de C.V.;-15.60169482102917
+LMRK;Landmark Infrastructure Partners LP;-15.616473712344089
+NXEO;Nexeo Solutions, Inc.;-15.660914474740409
+INSG;Inseego Corp.;-15.723529983151977
+BPY;Brookfield Property Partners L.P.;-15.743389458073437
+MDIV;First Trust Multi-Asset Diversified Income Index Fund;-15.766508605932827
+UEPS;Net 1 UEPS Technologies, Inc.;-15.768922510549316
+BCLI;Brainstorm Cell Therapeutics Inc.;-15.790656682919291
+LCUT;Lifetime Brands, Inc.;-15.812583995860791
+NTGN;Neon Therapeutics, Inc.;-16.0
+IKNX;Ikonics Corporation;-16.062491192065835
+REDU;RISE Education Cayman Ltd;-16.064786908375467
+GPRE;Green Plains, Inc.;-16.240970737757507
+ATNI;ATN International, Inc.;-16.2540099076884
+ADES;Advanced Emissions Solutions, Inc.;-16.359950347820813
+BTAI;BioXcel Therapeutics, Inc.;-16.59111514052583
+PPC;"Pilgrim&#39;s Pride Corporation";-16.632936329601208
+MVIS;Microvision, Inc.;-16.720496172165504
+KTOV;Kitov Pharma Ltd.;-16.78538983408498
+ECOR;electroCore, Inc.;-16.826196473551633
+ATLC;Atlanticus Holdings Corporation;-16.90429386281923
+ITRM;Iterum Therapeutics plc;-16.96498054474708
+AMBA;Ambarella, Inc.;-17.003136464202314
+IIIV;i3 Verticals, Inc.;-17.057220708446877
+WSTG;Wayside Technology Group, Inc.;-17.068642578799086
+AUTO;AutoWeb, Inc.;-17.279586191985622
+NYMT;New York Mortgage Trust, Inc.;-17.312245937182723
+ALKS;Alkermes plc;-17.33076364952136
+HALL;Hallmark Financial Services, Inc.;-17.447779021069636
+DVCR;Diversicare Healthcare Services Inc.;-17.55647489626172
+MTSI;MACOM Technology Solutions Holdings, Inc.;-17.68123960266827
+CMCT;CIM Commercial Trust Corporation;-17.711171662125352
+LFVN;Lifevantage Corporation;-17.743036928377947
+TOUR;Tuniu Corporation;-17.761748892921688
+SECO;Secoo Holding Limited;-17.806779661016947
+AGNC;AGNC Investment Corp.;-17.98684856376886
+CFBI;Community First Bancshares, Inc.;-18.001920564083917
+TESS;TESSCO Technologies Incorporated;-18.034145048783913
+AREX;Approach Resources Inc.;-18.054487883446825
+BIIB;Biogen Inc.;-18.11202842858404
+MTRX;Matrix Service Company;-18.211738279369868
+SYPR;Sypris Solutions, Inc.;-18.414322250639415
+QCOM;QUALCOMM Incorporated;-18.649280104409385
+ASPS;Altisource Portfolio Solutions S.A.;-18.68339124224518
+FOMX;Foamix Pharmaceuticals Ltd.;-18.757193735041582
+DGLD;Credit Suisse AG;-18.76820293924355
+SRRA;Sierra Oncology, Inc.;-18.95786748952915
+RCMT;RCM Technologies, Inc.;-19.06303818704248
+FTGC;First Trust Global Tactical Commodity Strategy Fund;-19.15089275650719
+YLCO;Global X Yieldco Index ETF;-19.220557398352696
+PRTS;U.S. Auto Parts Network, Inc.;-19.230455796614585
+MFIN;Medallion Financial Corp.;-19.293745780274804
+NURO;NeuroMetrix, Inc.;-19.29888312852023
+ZLAB;Zai Lab Limited;-19.541103432435534
+BWEN;Broadwind Energy, Inc.;-19.605651896553717
+ARRS;ARRIS International plc;-19.632049202637262
+HAYN;Haynes International, Inc.;-19.713733800102816
+RELV;"Reliv&#39; International, Inc.";-19.73629637634486
+QTNT;Quotient Limited;-19.76713955161155
+DISCA;Discovery, Inc.;-19.796347042147076
+QRTEA;Qurate Retail, Inc.;-19.80347769476485
+FUV;Arcimoto, Inc.;-19.898175264699262
+LAZY;Lazydays Holdings, Inc.;-19.909909909909913
+BKEPP;Blueknight Energy Partners L.P., L.L.C.;-19.991348152612673
+UAE;iShares MSCI UAE ETF;-20.029148109508313
+ICLK;iClick Interactive Asia Group Limited;-20.032894736842096
+NATR;"Nature&#39;s Sunshine Products, Inc.";-20.16096969881586
+DAKT;Daktronics, Inc.;-20.456263845891954
+SMSI;Smith Micro Software, Inc.;-20.546233634044796
+POLA;Polar Power, Inc.;-20.58659419170862
+WBA;Walgreens Boots Alliance, Inc.;-20.680328334580054
+VRNT;Verint Systems Inc.;-20.797422206497217
+FTRI;First Trust Indxx Global Natural Resources Income ETF;-20.970619294415037
+ROSE;Rosehill Resources Inc.;-21.012285735304943
+SGRY;Surgery Partners, Inc.;-21.1591359442332
+NTCT;NetScout Systems, Inc.;-21.2365251386163
+TAYD;Taylor Devices, Inc.;-21.247113163972287
+STKL;SunOpta, Inc.;-21.429901546906777
+GLIBA;GCI Liberty, Inc.;-21.695323953447982
+OCSI;Oaktree Strategic Income Corporation;-21.720135764096213
+QRTEB;Qurate Retail, Inc.;-21.77328843995511
+SGMA;SigmaTron International, Inc.;-21.826280623608028
+SHPG;Shire plc;-21.847059722869872
+AFSI;AmTrust Financial Services, Inc.;-22.06306246267257
+HTLD;Heartland Express, Inc.;-22.34370981447394
+VRTS;Virtus Investment Partners, Inc.;-22.41796333247852
+AY;Atlantica Yield plc;-22.419895941239517
+LBTYB;Liberty Global plc;-22.54495587579774
+FEMB;First Trust Emerging Markets Local Currency Bond ETF;-22.675156856760466
+TAPR;Barclays PLC;-22.856006789083494
+MIK;The Michaels Companies, Inc.;-22.92078349500072
+THST;Truett-Hurst, Inc.;-22.92768343219307
+CCNI;Command Center, Inc.;-22.975059085357984
+JMBA;Jamba, Inc.;-22.983421185935853
+RSYS;RadiSys Corporation;-23.1072044309021
+IMV;IMV Inc.;-23.14674735249622
+EVK;Ever-Glory International Group, Inc.;-23.201088921616048
+GRPN;Groupon, Inc.;-23.27867717112165
+AAL;American Airlines Group, Inc.;-23.302613840559403
+NITE;Nightstar Therapeutics plc;-23.382113821138212
+CRIS;Curis, Inc.;-23.42248178510404
+SBRA;Sabra Health Care REIT, Inc.;-23.422955151413205
+IEP;Icahn Enterprises L.P.;-23.433275597779613
+WDC;Western Digital Corporation;-23.452986103911478
+MGTX;MeiraGTx Holdings plc;-23.599999999999994
+CSSE;Chicken Soup for the Soul Entertainment, Inc.;-23.616843579000644
+PNNT;PennantPark Investment Corporation;-23.783805611487132
+SRNE;Sorrento Therapeutics, Inc.;-23.840591527205575
+NDRA;ENDRA Life Sciences Inc.;-23.86946386946387
+CRZO;Carrizo Oil & Gas, Inc.;-23.88282856172642
+GLDD;Great Lakes Dredge & Dock Corporation;-23.936339916158623
+PSEC;Prospect Capital Corporation;-23.971067903086563
+DISCK;Discovery, Inc.;-23.983359861890165
+LLIT;Lianluo Smart Limited;-24.004892461458468
+TRMT;Tremont Mortgage Trust;-24.097073311095812
+ACHC;Acadia Healthcare Company, Inc.;-24.122551443925367
+WHLRP;Wheeler Real Estate Investment Trust, Inc.;-24.12962390167968
+NCMI;National CineMedia, Inc.;-24.18194200697284
+INSE;Inspired Entertainment, Inc.;-24.246061477847306
+KPTI;Karyopharm Therapeutics Inc.;-24.43062618801939
+TRIL;Trillium Therapeutics Inc.;-24.52350099031156
+HSON;Hudson Global, Inc.;-24.851663348458658
+CMFN;CM Finance Inc;-24.934918640667078
+BOSC;B.O.S. Better Online Solutions;-24.959876307351387
+NHLD;National Holdings Corporation;-25.229004047751914
+TAOP;Taoping Inc.;-25.287356321839084
+DBVT;DBV Technologies S.A.;-25.40580260650458
+AAME;Atlantic American Corporation;-25.46416390275914
+BOXL;Boxlight Corporation;-25.472663695166048
+AHPI;Allied Healthcare Products, Inc.;-25.61622573599783
+SSP;E.W. Scripps Company (The);-25.624390456213234
+TTNP;Titan Pharmaceuticals, Inc.;-25.701572722266576
+DYNT;Dynatronics Corporation;-25.8287475236628
+NTEC;Intec Pharma Ltd.;-25.844155844155807
+MTSC;MTS Systems Corporation;-25.845697490182857
+VOD;Vodafone Group Plc;-26.006777937143738
+UNIT;Uniti Group Inc.;-26.06993689210575
+INDU;Industrea Acquisition Corp.;-26.090520860645498
+RCON;Recon Technology, Ltd.;-26.171133136469265
+PEGI;Pattern Energy Group Inc.;-26.198901580577882
+EVLO;Evelo Biosciences, Inc.;-26.25
+WHLRD;Wheeler Real Estate Investment Trust, Inc.;-26.278003845150423
+EIGI;Endurance International Group Holdings, Inc.;-26.770560167596507
+SMCI;Super Micro Computer, Inc.;-26.99829631937007
+PYDS;Payment Data Systems, Inc.;-27.042804589496512
+COWN;Cowen Inc.;-27.108809564856585
+ZIOP;ZIOPHARM Oncology Inc;-27.181395082004045
+ICPT;Intercept Pharmaceuticals, Inc.;-27.201598515920907
+AINV;Apollo Investment Corporation;-27.323343195138747
+PTNR;Partner Communications Company Ltd.;-27.428545767531475
+PRAA;PRA Group, Inc.;-27.45836682792408
+MARPS;Marine Petroleum Trust;-27.510916483066808
+SOHU;Sohu.com Limited ;-27.765324529418812
+TYPE;Monotype Imaging Holdings Inc.;-27.805740327509184
+ELON;Echelon Corporation;-27.837212989825133
+GASS;StealthGas, Inc.;-27.937420130931066
+GILD;Gilead Sciences, Inc.;-28.11676275256744
+HWC;Hancock Whitney Corporation;-28.117437258757036
+PKOH;Park-Ohio Holdings Corp.;-28.227880739017984
+ERIC;Ericsson;-28.424581657624458
+HJLI;Hancock Jaffe Laboratories, Inc.;-28.43511450381679
+IFMK;iFresh Inc.;-28.455612020829406
+YGYI;Youngevity International, Inc.;-28.81327553217227
+NAVI;Navient Corporation;-28.91329579746167
+FEIM;Frequency Electronics, Inc.;-29.164890580878193
+CBAK;CBAK Energy Technology, Inc.;-29.238005062380992
+FTAG;First Trust Indxx Global Agriculture ETF;-29.35100430842366
+BSQR;BSQUARE Corporation;-29.451454935986213
+CRVS;Corvus Pharmaceuticals, Inc.;-29.555235792808233
+ARLP;Alliance Resource Partners, L.P.;-29.7828924742696
+ARII;American Railcar Industries, Inc.;-29.819197683557064
+APRI;Apricus Biosciences, Inc.;-29.865881407163968
+QAT;iShares MSCI Qatar ETF;-29.899810006829327
+CUBA;The Herzfeld Caribbean Basin Fund, Inc.;-29.996511877884842
+PETZ;TDH Holdings, Inc.;-30.068036054775533
+EDGW;Edgewater Technology, Inc.;-30.123597470873122
+VOXX;VOXX International Corporation;-30.495022236914977
+BHF;Brighthouse Financial, Inc.;-30.518464731002766
+ACRX;AcelRx Pharmaceuticals, Inc.;-30.558547374320014
+AFH;Atlas Financial Holdings, Inc.;-30.65396430897212
+CRWS;Crown Crafts, Inc.;-30.69103411341095
+ELTK;Eltek Ltd.;-30.815350613354113
+ADTN;ADTRAN, Inc.;-30.8594433672136
+IONS;Ionis Pharmaceuticals, Inc.;-31.00812947052188
+ALCO;Alico, Inc.;-31.034897976415195
+HRZN;Horizon Technology Finance Corporation;-31.453171105120546
+CALA;Calithera Biosciences, Inc.;-31.542266872382697
+EFBI;Eagle Financial Bancorp, Inc.;-31.571315396007336
+CTHR;Charles & Colvard Ltd.;-31.95105558132755
+EPZM;Epizyme, Inc.;-32.09217597619519
+BOJA;"Bojangles&#39;, Inc.";-32.09389319869885
+ZYNE;Zynerba Pharmaceuticals, Inc.;-32.10929604386759
+CLXT;Calyxt, Inc.;-32.1225732130806
+EMITF;Elbit Imaging Ltd.;-32.15024396949153
+LYL;Dragon Victory International Limited;-32.166301969365435
+OIIM;O2Micro International Limited;-32.296068430817726
+IMOS;ChipMOS TECHNOLOGIES INC.;-32.297706585285084
+DNLI;Denali Therapeutics Inc.;-32.541917283732914
+AMR;Alta Mesa Resources, Inc.;-32.64094955489614
+OXLC;Oxford Lane Capital Corp.;-32.65149089454222
+AZRX;AzurRx BioPharma, Inc.;-32.71989546898551
+NEOS;Neos Therapeutics, Inc.;-32.94917150911917
+CLGN;CollPlant Holdings, Ltd.;-33.29608938547486
+BKCC;BlackRock Capital Investment Corporation;-33.31678196231313
+CELG;Celgene Corporation;-33.399328349890894
+ACER;Acer Therapeutics Inc.;-33.409904767381306
+ARPO;Aerpio Pharmaceuticals, Inc.;-33.46491228070175
+PRSS;CafePress Inc.;-33.74129701608172
+PPSI;Pioneer Power Solutions, Inc.;-33.76623376623378
+TOCA;Tocagen Inc.;-33.82867195893087
+GENE;Genetic Technologies Ltd;-33.85794147253375
+ALXN;Alexion Pharmaceuticals, Inc.;-33.9246549264504
+CPSI;Computer Programs and Systems, Inc.;-33.94555210655413
+LOOP;Loop Industries, Inc.;-33.95997574287446
+HLIT;Harmonic Inc.;-34.16733092052257
+FCSC;Fibrocell Science Inc.;-34.38742674440614
+RMNI;Rimini Street, Inc.;-34.52142499496992
+HURN;Huron Consulting Group Inc.;-34.525775458550285
+GLDI;Credit Suisse AG;-34.5869716358486
+TUR;iShares MSCI Turkey ETF;-34.646418084807706
+MCHX;Marchex, Inc.;-34.679133731765305
+CSIQ;Canadian Solar Inc.;-34.692305252612854
+NCSM;NCS Multistage Holdings, Inc.;-34.7227080028712
+AMAG;AMAG Pharmaceuticals, Inc.;-34.778357251723634
+FRTA;Forterra, Inc.;-34.77913337713841
+PSCE;Invesco S&P SmallCap Energy ETF;-34.88274873825606
+VERU;Veru Inc.;-34.890107393855516
+JAKK;JAKKS Pacific, Inc.;-34.904024632889374
+VRML;Vermillion, Inc.;-35.533642387574986
+VRA;Vera Bradley, Inc.;-35.67093565146246
+UNFI;United Natural Foods, Inc.;-35.83487792329646
+GIGM;GigaMedia Limited;-35.84516269140168
+RAIL;Freightcar America, Inc.;-35.952568459788466
+RAND;Rand Capital Corporation;-36.06671238908082
+COCP;Cocrystal Pharma, Inc.;-36.078127344868335
+XOG;Extraction Oil & Gas, Inc.;-36.11156174872191
+CODX;Co-Diagnostics, Inc.;-36.221695830467894
+RRGB;Red Robin Gourmet Burgers, Inc.;-36.35500774818496
+EYEN;Eyenovia, Inc.;-36.491935483870975
+FLGT;Fulgent Genetics, Inc.;-36.810289975906194
+NYNY;Empire Resorts, Inc.;-37.032615069756915
+AMCN;AirMedia Group Inc;-37.191134428784295
+LE;"Lands&#39; End, Inc.";-37.486783904344406
+EGC;Energy XXI Gulf Coast, Inc.;-37.51829988193626
+LPNT;LifePoint Health, Inc.;-37.63347319843719
+NVAX;Novavax, Inc.;-37.63571170952808
+SFM;Sprouts Farmers Market, Inc.;-37.65553730117166
+CXDC;China XD Plastics Company Limited;-37.828619802123015
+DXYN;The Dixie Group, Inc.;-37.83783783783785
+CAAS;China Automotive Systems, Inc.;-37.87101686972818
+PFMT;Performant Financial Corporation;-38.05327617384357
+WSTL;Westell Technologies, Inc.;-38.056835637480766
+BCOM;B Communications Ltd.;-38.22445971812735
+ALDR;Alder BioPharmaceuticals, Inc.;-38.64179599432718
+TIVO;TiVo Corporation;-38.873479832170815
+SES;Synthesis Energy Systems, Inc.;-39.0534007422053
+CPSH;CPS Technologies Corp.;-39.32138979833819
+NVFY;Nova Lifestyle, Inc;-39.51379116777761
+FRGI;Fiesta Restaurant Group, Inc.;-39.564935596425244
+TRUE;TrueCar, Inc.;-39.69105127960585
+FAT;FAT Brands Inc.;-39.74374997632927
+CNFR;Conifer Holdings, Inc.;-39.748448816349764
+OVID;Ovid Therapeutics Inc.;-39.91786806465707
+IDSA;Industrial Services of America, Inc.;-39.966497722348464
+INVE;Identiv, Inc.;-40.14530891263075
+GEOS;Geospace Technologies Corporation;-40.20184148266042
+MGNX;MacroGenics, Inc.;-40.27041464585194
+SAVE;Spirit Airlines, Inc.;-40.370273299609536
+MYL;Mylan N.V.;-40.429175158833445
+KOPN;Kopin Corporation;-40.493445597324836
+SNDX;Syndax Pharmaceuticals, Inc.;-40.53225881825149
+PETQ;PetIQ, Inc.;-41.013391279053984
+SLVO;Credit Suisse AG;-41.154520180834155
+CSB;VictoryShares US Small Cap High Div Volatility Wtd ETF;-41.44465497514187
+NSYS;Nortech Systems Incorporated;-41.639668841351366
+NICK;Nicholas Financial, Inc.;-41.77219723947438
+TTOO;T2 Biosystems, Inc.;-41.88791688281539
+MXWL;Maxwell Technologies, Inc.;-42.30879980097829
+UNAM;Unico American Corporation;-42.34377683420091
+PI;Impinj, Inc.;-42.42039679413807
+AKRX;Akorn, Inc.;-42.44976858137617
+DEST;Destination Maternity Corporation;-42.45711200237233
+GTIM;Good Times Restaurants Inc.;-42.66992864599594
+INTX;Intersections, Inc.;-42.752494702359364
+CSWC;Capital Southwest Corporation;-43.393708458517665
+RNWK;RealNetworks, Inc.;-43.48899285109037
+SKIS;Peak Resorts, Inc.;-43.64711800706576
+TCRD;THL Credit, Inc.;-43.78735802615226
+ARCT;Arcturus Therapeutics Ltd.;-43.99430875403116
+GNUS;Genius Brands International, Inc.;-44.54872514013959
+XPER;Xperi Corporation;-44.77057708480777
+PDVW;pdvWireless, Inc.;-45.44084435249695
+WETF;WisdomTree Investments, Inc.;-45.69567593479037
+TORC;resTORbio, Inc.;-45.79383565129357
+FRSH;"Papa Murphy&#39;s Holdings, Inc.";-45.85474065180594
+ADMP;Adamis Pharmaceuticals Corporation;-45.99300396335102
+MNDO;MIND C.T.I. Ltd.;-46.31492342782667
+MTEM;Molecular Templates, Inc.;-46.65503258782072
+IPIC;iPic Entertainment Inc.;-46.829590488771466
+UEIC;Universal Electronics Inc.;-46.95573939751027
+ACAD;ACADIA Pharmaceuticals Inc.;-47.410939308917975
+METC;Ramaco Resources, Inc.;-47.47070628601022
+VEON;VEON Ltd.;-47.74560630176188
+CPSS;Consumer Portfolio Services, Inc.;-47.74604149018877
+MOGO;Mogo Finance Technology Inc.;-47.95189778278842
+TRVN;Trevena, Inc.;-48.02033248629357
+LINC;Lincoln Educational Services Corporation;-48.11736625624043
+ERYP;Erytech Pharma S.A.;-48.394548394548394
+RCII;Rent-A-Center Inc.;-48.47811004193038
+CVV;CVD Equipment Corporation;-48.8964583860114
+ACIU;AC Immune SA;-48.91507427407893
+MPAA;Motorcar Parts of America, Inc.;-49.226897152771144
+LBTYA;Liberty Global plc;-49.25314347452132
+DGICB;Donegal Group, Inc.;-49.59258435672845
+FLNT;Fluent, Inc.;-50.0
+ISIG;Insignia Systems, Inc.;-50.0850103337215
+BDSI;BioDelivery Sciences International, Inc.;-50.15446599227582
+ALLT;Allot Communications Ltd.;-50.26673160529243
+LOCO;El Pollo Loco Holdings, Inc.;-50.32390520315672
+LBTYK;Liberty Global plc;-50.51580873895294
+STNLU;Sentinel Energy Services Inc.;-50.827385987506126
+ALRN;Aileron Therapeutics, Inc.;-50.8864948598789
+ARAY;Accuray Incorporated;-50.99474479943001
+USEG;U.S. Energy Corp.;-51.051185869749276
+AGEN;Agenus Inc.;-51.06328822616092
+HIBB;Hibbett Sports, Inc.;-51.50884924415956
+MOBL;MobileIron, Inc.;-51.53816761543432
+PSTI;Pluristem Therapeutics, Inc.;-51.54925647406475
+CJJD;China Jo-Jo Drugstores, Inc.;-51.92251852084382
+RMTI;Rockwell Medical, Inc.;-51.94368894708796
+DFRG;"Del Frisco&#39;s Restaurant Group, Inc.";-51.95206944568861
+FRAN;"Francesca&#39;s Holdings Corporation";-52.01808685182763
+OCSL;Oaktree Specialty Lending Corporation;-52.04674056104784
+STKS;The ONE Group Hospitality, Inc.;-52.09882093699368
+NCTY;The9 Limited;-52.323616945505684
+HAIN;The Hain Celestial Group, Inc.;-52.46419960990711
+CETXP;Cemtrex Inc.;-52.62352518046176
+AEY;ADDvantage Technologies Group, Inc.;-52.65159512080693
+SYRS;Syros Pharmaceuticals, Inc.;-52.73340201275617
+SPWR;SunPower Corporation;-52.92997813455692
+YIN;Yintech Investment Holdings Limited;-52.93657427664961
+SMRT;Stein Mart, Inc.;-53.16708308809271
+KIRK;"Kirkland&#39;s, Inc.";-53.362075272685395
+CAR;Avis Budget Group, Inc.;-53.7304823496044
+QUIK;QuickLogic Corporation;-53.84391347694101
+YTRA;Yatra Online, Inc.;-53.87127371273712
+CLRO;ClearOne, Inc.;-53.89221556886227
+MAT;Mattel, Inc.;-53.893160524050494
+CNSL;Consolidated Communications Holdings, Inc.;-54.19017156963172
+ASNA;Ascena Retail Group, Inc.;-54.21874481552061
+ALJJ;ALJ Regional Holdings, Inc.;-54.31755635156388
+LORL;Loral Space and Communications, Inc.;-54.35826622220369
+CPST;Capstone Turbine Corporation;-54.83120342827476
+GARS;Garrison Capital Inc.;-55.002250907801326
+ZBIO;ProShares UltraPro Short NASDAQ Biotechnology;-55.00460212016013
+ACTG;Acacia Research Corporation;-55.08971138409707
+BKEP;Blueknight Energy Partners L.P., L.L.C.;-55.37267080745342
+VBLT;Vascular Biogenics Ltd.;-55.63958681395319
+GLIBP;GCI Liberty, Inc.;-55.87477082642304
+CLBS;Caladrius Biosciences, Inc.;-56.01596810164119
+WMGIZ;Wright Medical Group N.V.;-56.33203032950563
+BLRX;BioLineRx Ltd.;-56.34083970030217
+LILAK;Liberty Latin America Ltd.;-56.383065445027185
+CYAN;Cyanotech Corporation;-56.57282613221433
+SMMT;Summit Therapeutics plc;-56.6364373537962
+QTRH;Quarterhill Inc.;-56.79432133917826
+ABDC;Alcentra Capital Corp.;-56.861343418822855
+CPAH;CounterPath Corporation;-57.02057788239817
+IPAS;iPass Inc.;-57.2814109727326
+OPK;Opko Health, Inc.;-57.31874581988521
+XELA;Exela Technologies, Inc.;-57.48862603030296
+FEYE;FireEye, Inc.;-57.684633049958535
+PEIX;Pacific Ethanol, Inc.;-57.71620860765926
+LIVX;LiveXLive Media, Inc.;-57.73015873015876
+SRCL;Stericycle, Inc.;-58.14664476154839
+GIFI;Gulf Island Fabrication, Inc.;-58.332003604647404
+CUI;CUI Global, Inc.;-58.51292210045725
+CMSS;CM Seven Star Acquisition Corporation;-58.88450027590211
+RETO;ReTo Eco-Solutions, Inc.;-58.8995471885907
+SLNO;Soleno Therapeutics, Inc.;-60.569585979422044
+ASFI;Asta Funding, Inc.;-60.65014184351512
+DSLV;Credit Suisse AG;-60.9767467894999
+HGSH;China HGS Real Estate, Inc.;-60.98110522624924
+MATR;Mattersight Corporation;-61.62242525050017
+VECO;Veeco Instruments Inc.;-61.693436973442886
+INOV;Inovalon Holdings, Inc.;-61.93184238445369
+VIA;Viacom Inc.;-62.40915762839607
+STRM;Streamline Health Solutions, Inc.;-62.60413148711024
+SWIR;Sierra Wireless, Inc.;-62.61808792280716
+ATXI;Avenue Therapeutics, Inc.;-62.64862726481526
+CPTA;Capitala Finance Corp.;-62.742999397389326
+USLV;Credit Suisse AG;-62.75446657486024
+CTIC;CTI BioPharma Corp.;-62.77883799830363
+SRCLP;Stericycle, Inc.;-62.88311438293026
+BIS;ProShares UltraShort Nasdaq Biotechnology;-63.2158763938518
+ADMA;ADMA Biologics Inc;-63.42053337371385
+DRAD;Digirad Corporation;-63.794479150588565
+HYAC;Haymaker Acquisition Corp.;-64.00724177308958
+EGLT;Egalet Corporation;-64.05286825438677
+RBBN;Ribbon Communications Inc. ;-64.61359502110687
+ATIS;Attis Industries Inc.;-65.45454545454547
+SCOR;comScore, Inc.;-65.52281292668077
+TERP;TerraForm Power, Inc.;-65.76908621503422
+NOVN;Novan, Inc.;-66.40127627065706
+DXLG;Destination XL Group, Inc.;-66.41046602152234
+PSC;Principal U.S. Small-Cap Multi-Factor Index ETF;-66.53361450808738
+SNDE;Sundance Energy Australia Limited;-66.56279075036457
+HTGM;HTG Molecular Diagnostics, Inc.;-66.79414131305286
+KCAP;KCAP Financial, Inc.;-67.05073287310658
+GLRE;Greenlight Reinsurance, Ltd.;-67.35530225534296
+APDN;Applied DNA Sciences Inc;-67.50005414890342
+TRPX;Therapix Biosciences Ltd.;-67.70843420160745
+YRCW;YRC Worldwide, Inc.;-67.73142427827223
+SCPH;scPharmaceuticals Inc.;-67.74751306841029
+EVOK;Evoke Pharma, Inc.;-67.83932554179003
+BCRX;BioCryst Pharmaceuticals, Inc.;-67.86778581843978
+PDCO;Patterson Companies, Inc.;-67.99365867436796
+ABAC;Renmin Tianli Group, Inc.;-68.0518214582107
+ARTW;"Art&#39;s-Way Manufacturing Co., Inc.";-68.26522249338606
+JNCE;Jounce Therapeutics, Inc.;-68.92277741726153
+ELGX;Endologix, Inc.;-69.104573753322
+DAVE;"Famous Dave&#39;s of America, Inc.";-69.3417464305162
+VBIV;VBI Vaccines, Inc.;-69.8230738739704
+OASM;Oasmia Pharmaceutical AB;-69.86153536776342
+KNDI;Kandi Technologies Group, Inc.;-69.87936744327811
+DEPO;Depomed, Inc.;-70.0396276693136
+PULM;Pulmatrix, Inc.;-70.17788668875346
+GSUM;Gridsum Holding Inc.;-70.1990655234618
+SUMR;Summer Infant, Inc.;-70.44910907551828
+OPHC;OptimumBank Holdings, Inc.;-70.8341259892695
+INSY;Insys Therapeutics, Inc.;-71.1234208057121
+MMLP;Martin Midstream Partners L.P.;-71.33875959621975
+STCN;Steel Connect, Inc.;-71.51927437641724
+MNLO;Menlo Therapeutics Inc.;-71.71717073205053
+ESND;Essendant Inc.;-72.23907986140328
+OPHT;Ophthotech Corporation;-72.43031907238077
+CREG;China Recycling Energy Corporation;-72.49134295802223
+PCRX;Pacira Pharmaceuticals, Inc.;-72.54005481983666
+VTNR;Vertex Energy, Inc;-72.80836081784219
+DISH;DISH Network Corporation;-72.81406569364422
+HSGX;Histogenics Corporation;-72.8318752266551
+TANH;Tantech Holdings Ltd.;-73.78763421373162
+VTL;Vital Therapies, Inc.;-73.79533700623696
+OCUL;Ocular Therapeutix, Inc.;-73.84505149897475
+OHAI;OHA Investment Corporation;-74.31792180712083
+CPLP;Capital Product Partners L.P.;-74.62690555131437
+HMHC;Houghton Mifflin Harcourt Company;-74.85245489831158
+CGEN;Compugen Ltd.;-75.14013673271641
+MESO;Mesoblast Limited;-75.19227417148522
+BSPM;Biostar Pharmaceuticals, Inc.;-75.3035307277557
+IMMY;Imprimis Pharmaceuticals, Inc.;-75.33193880506208
+BNTC;Benitec Biopharma Limited;-75.80007928243458
+INOD;Innodata Inc.;-76.0256513958712
+HEBT;Hebron Technology Co., Ltd.;-76.30679934726354
+VIAB;Viacom Inc.;-76.90450992579346
+LEDS;SemiLEDS Corporation;-76.92867330565672
+AFMD;Affimed N.V.;-77.08684439626143
+INO;Inovio Pharmaceuticals, Inc.;-77.28297036331233
+EARS;Auris Medical Holding AG;-77.62757678638289
+XELB;Xcel Brands, Inc;-77.99845993704751
+GOGO;Gogo Inc.;-78.18053720858947
+OXBR;Oxbridge Re Holdings Limited;-78.39653083565486
+CNTF;China TechFaith Wireless Communication Technology Limited;-78.43247006132718
+RMGN;RMG Networks Holding Corporation;-78.79443143377571
+AVID;Avid Technology, Inc.;-79.34162308902124
+PETX;Aratana Therapeutics, Inc.;-79.44072216046443
+TRVG;trivago N.V.;-79.73659102466188
+MYSZ;My Size, Inc.;-80.02832271762209
+VVUS;VIVUS, Inc.;-80.27868825825428
+CAPR;Capricor Therapeutics, Inc.;-80.34604007207979
+PIXY;ShiftPixy, Inc.;-80.5219308992894
+JRJC;China Finance Online Co. Limited;-80.67360555150304
+CCCL;China Ceramics Co., Ltd.;-81.46572125251808
+SNOA;Sonoma Pharmaceuticals, Inc.;-81.48881472187419
+ZKIN;ZK International Group Co., Ltd;-82.12327458451142
+PRAN;Prana Biotechnology Ltd;-82.1836782367341
+MBRX;Moleculin Biotech, Inc.;-82.9540850326536
+STRT;Strattec Security Corporation;-83.12521922516868
+MDCA;MDC Partners Inc.;-83.28954441281644
+HAIR;Restoration Robotics, Inc.;-83.38611727830744
+MYOS;MYOS RENS Technology Inc.;-83.50105590195591
+GEC;Great Elm Capital Group, Inc. ;-83.62744478027436
+CLDC;China Lending Corporation;-83.74831463362443
+RRD;R.R. Donnelley & Sons Company;-84.07862808183461
+FRSX;Foresight Autonomous Holdings Ltd.;-84.54025516937968
+LILA;Liberty Latin America Ltd.;-85.40172418583587
+TLGT;Teligent, Inc.;-85.48644249835233
+CCLP;CSI Compressco LP;-85.73012108311607
+SNMX;Senomyx, Inc.;-86.06511018823825
+IDRA;Idera Pharmaceuticals, Inc.;-86.54360205620712
+ADVM;Adverum Biotechnologies, Inc.;-86.62125890612319
+GNMX;Aevi Genomic Medicine, Inc.;-86.76184177766261
+ICAD;icad inc.;-87.12720813367949
+AMRS;Amyris, Inc.;-87.19697161224906
+IZEA;IZEA Inc.;-87.29037425367703
+SOFO;Sonic Foundry, Inc.;-87.56058699343906
+PAVM;PAVmed Inc.;-87.66481589713618
+PDLI;PDL BioPharma, Inc.;-88.2315174971751
+XONE;The ExOne Company;-88.40787280392222
+ONVO;Organovo Holdings, Inc.;-88.4295304527226
+PERI;Perion Network Ltd;-88.69667193279922
+JASN;Jason Industries, Inc.;-88.92632050069636
+CTXR;Citius Pharmaceuticals, Inc.;-89.04768274395784
+CDTX;Cidara Therapeutics, Inc.;-89.50536698426198
+KERX;Keryx Biopharmaceuticals, Inc.;-90.14838342971493
+RVLT;Revolution Lighting Technologies, Inc.;-90.77240184918101
+NAUH;National American University Holdings, Inc.;-91.13708369387115
+IPCI;Intellipharmaceutics International Inc.;-91.361455274896
+PRTK;Paratek Pharmaceuticals, Inc. ;-91.4584467454228
+NLST;Netlist, Inc.;-92.02782978526683
+FTEK;Fuel Tech, Inc.;-92.1075364909145
+BVSN;BroadVision, Inc.;-92.36380546050783
+TWMC;Trans World Entertainment Corp.;-92.66881289552859
+AXSM;Axsome Therapeutics, Inc.;-93.29347599478143
+VVPR;VivoPower International PLC;-93.65684473488629
+ARCI;Appliance Recycling Centers of America, Inc.;-94.9398472384292
+ATEC;Alphatec Holdings, Inc.;-95.1856071059031
+EVOL;Evolving Systems, Inc.;-95.66583132415478
+HABT;The Habit Restaurants, Inc.;-95.71224024148843
+QUMU;Qumu Corporation;-95.81049696816716
+LBIX;Leading Brands Inc;-96.01418229643164
+PGLC;Pershing Gold Corporation;-96.35588076993264
+KALV;KalVista Pharmaceuticals, Inc.;-96.81469187972077
+OESX;Orion Energy Systems, Inc.;-97.34033526121138
+ASTC;Astrotech Corporation;-97.80164490272338
+LENS;Presbia PLC;-98.2919025779112
+VTGN;VistaGen Therapeutics, Inc.;-98.69636502828807
+TISA;Top Image Systems, Ltd.;-98.88866832667578
+PHII;PHI, Inc.;-99.002782980381
+BLCM;Bellicum Pharmaceuticals, Inc.;-99.14180784054123
+SSYS;Stratasys, Ltd.;-99.8013692665587
+UBX;Unity Biotechnology, Inc.;-99.975
+GPOR;Gulfport Energy Corporation;-100.53391749220985
+CLIR;ClearSign Combustion Corporation;-100.5980845376825
+ODP;Office Depot, Inc.;-100.81677601560159
+LWAY;Lifeway Foods, Inc.;-100.95007616980328
+DTRM;Determine, Inc. ;-101.4967655282057
+INFI;Infinity Pharmaceuticals, Inc.;-101.80499072177923
+KONA;Kona Grill, Inc.;-101.85034512106083
+NNDM;Nano Dimension Ltd.;-101.94446097512511
+EDGE;Edge Therapeutics, Inc.;-102.04148106768878
+SBT;Sterling Bancorp, Inc.;-102.48630641934736
+SAUC;Diversified Restaurant Holdings, Inc.;-102.64239028944911
+IVTY;Invuity, Inc.;-103.40991959834386
+MOXC;Moxian, Inc.;-103.45381892697466
+AVDL;Avadel Pharmaceuticals plc;-103.59181804263777
+DTEA;DAVIDsTEA Inc.;-104.2717259180484
+FPAY;FlexShopper, Inc.;-104.38002473716759
+ESEA;Euroseas Ltd.;-105.32599089889865
+FRED;"Fred&#39;s, Inc.";-105.58780359416758
+XBIT;XBiotech Inc.;-105.79202106724134
+TRIB;Trinity Biotech plc;-106.15907763372013
+FTFT;Future FinTech Group Inc.;-106.17658058458903
+EVLV;EVINE Live Inc.;-106.70805814485226
+EVFM;Evofem Biosciences, Inc.;-106.72774498146237
+SLS;SELLAS Life Sciences Group, Inc. ;-106.8709093341926
+MICT;Micronet Enertec Technologies, Inc.;-107.00980392156863
+EVGN;Evogene Ltd.;-107.18242197299101
+PHIIK;PHI, Inc.;-107.40703571836181
+ACET;Aceto Corporation;-107.73423982275636
+BLNK;Blink Charging Co.;-107.74380815184627
+MKGI;Monaker Group, Inc.;-107.91024609148387
+TCON;TRACON Pharmaceuticals, Inc.;-107.91660884308921
+NVUS;Novus Therapeutics, Inc.;-109.3055090966541
+BBBY;Bed Bath & Beyond Inc.;-110.1070652567265
+TA;TravelCenters of America LLC;-110.21848035758944
+SPCB;SuperCom, Ltd.;-110.27584278359043
+MLNT;Melinta Therapeutics, Inc.;-110.62464320455338
+DELT;Delta Technology Holdings Limited;-110.99130170934978
+DHXM;DHX Media Ltd.;-111.19425800945817
+BBOX;Black Box Corporation;-111.72467325656626
+RNET;RigNet, Inc.;-112.21577170163516
+SUNW;Sunworks, Inc.;-112.3966966422648
+FHB;First Hawaiian, Inc.;-113.28471781314293
+AGRX;Agile Therapeutics, Inc.;-113.6182249176537
+SYBX;Synlogic, Inc.;-113.72612544539678
+NBRV;Nabriva Therapeutics plc;-114.91492637106808
+AETI;American Electric Technologies, Inc.;-115.12659679277023
+CSTE;Caesarstone Ltd.;-116.20278834108522
+RAVE;Rave Restaurant Group, Inc.;-116.2312516116933
+ADOM;ADOMANI, Inc.;-117.20081135902635
+VSAR;Versartis, Inc.;-117.43530246340521
+ACHN;Achillion Pharmaceuticals, Inc.;-117.4926288298814
+UPL;Ultra Petroleum Corp.;-117.7761858223188
+IFON;Cool Holdings Inc.;-117.79659705864638
+ASNS;Arsanis, Inc.;-118.76630622361016
+CHMA;Chiasma, Inc.;-118.88899945693939
+MNGA;MagneGas Corporation;-119.31371733402496
+ADXS;Advaxis, Inc.;-119.74188207081275
+MCRB;Seres Therapeutics, Inc.;-119.88397142237433
+TAX;Liberty Tax, Inc.;-119.95990612192826
+MBIO;Mustang Bio, Inc.;-120.06151601937007
+AGTC;Applied Genetic Technologies Corporation;-120.68506479122446
+VTVT;vTv Therapeutics Inc.;-121.1202179505047
+ENT;Global Eagle Entertainment Inc.;-121.4680575700486
+CIDM;Cinedigm Corp;-121.49488683545188
+ALIM;Alimera Sciences, Inc.;-121.63055582126603
+SHIP;Seanergy Maritime Holdings Corp;-122.2059829059829
+CMRX;Chimerix, Inc.;-122.2318832488752
+FLDM;Fluidigm Corporation;-122.63195569330162
+IMDZ;Immune Design Corp.;-122.75659935688525
+ONS;Oncobiologics, Inc.;-122.83471075166463
+YOGA;YogaWorks, Inc.;-123.10751908584369
+ALPN;Alpine Immune Sciences, Inc.;-123.4802571125866
+REFR;Research Frontiers Incorporated;-123.71886599989631
+NVLN;Novelion Therapeutics Inc. ;-123.73497619528351
+BIOL;Biolase, Inc.;-124.00769909598162
+OPTT;Ocean Power Technologies, Inc.;-124.2470323013149
+TTPH;Tetraphase Pharmaceuticals, Inc.;-124.65359193036338
+TNTR;Tintri, Inc.;-125.23187083006594
+CYCC;Cyclacel Pharmaceuticals, Inc.;-126.11378426714703
+ONCS;OncoSec Medical Incorporated;-126.3402065554666
+SPEX;Spherix Incorporated;-126.43055863522034
+ENDP;Endo International plc;-126.83488134531264
+QRHC;Quest Resource Holding Corporation.;-126.93811016508657
+FTRPR;Frontier Communications Corporation;-126.95593622123334
+LTBR;Lightbridge Corporation;-127.10369659725792
+EYES;Second Sight Medical Products, Inc.;-127.25049252375317
+NXTD;NXT-ID Inc.;-129.59181041449594
+TUES;Tuesday Morning Corp.;-129.7108448564818
+ARDX;Ardelyx, Inc.;-129.88245457582627
+EKSO;Ekso Bionics Holdings, Inc.;-130.02508027094962
+SNGX;Soligenix, Inc.;-131.57913698536296
+ADRO;Aduro Biotech, Inc.;-131.8902978968816
+SQBG;Sequential Brands Group, Inc.;-133.68125989957198
+EIGR;Eiger BioPharmaceuticals, Inc.;-135.81782571764174
+IPWR;Ideal Power Inc.;-136.12058663923057
+XTLB;XTL Biopharmaceuticals Ltd.;-136.29748144810645
+ESES;Eco-Stim Energy Solutions, Inc.;-136.3554061942503
+LIFE;aTyr Pharma, Inc.;-137.8152125887671
+DGLY;Digital Ally, Inc.;-137.89852151493014
+SHOS;Sears Hometown and Outlet Stores, Inc.;-137.90383494936827
+CGIX;Cancer Genetics, Inc.;-138.13299810729114
+VIIX;Credit Suisse AG;-138.55522794998572
+OBLN;Obalon Therapeutics, Inc.;-138.76849787766818
+PTIE;Pain Therapeutics, Inc.;-140.0517653490651
+FTD;FTD Companies, Inc.;-140.14151066607263
+FWP;Forward Pharma A/S;-140.54887937637483
+CBIO;Catalyst Biosciences, Inc. ;-142.5744620427766
+WHLR;Wheeler Real Estate Investment Trust, Inc.;-142.9793257536425
+MYND;MYnd Analytics, Inc.;-145.01111775000416
+SCYX;SCYNEXIS, Inc.;-145.1904017633749
+CELGZ;Celgene Corporation;-145.4584478021978
+SNSS;Sunesis Pharmaceuticals, Inc.;-147.1749792089967
+WIN;Windstream Holdings, Inc.;-147.43679838006827
+TVIZ;Credit Suisse AG;-150.12241311066924
+PTX;Pernix Therapeutics Holdings, Inc.;-150.9905132744945
+NETE;Net Element, Inc.;-152.11660522278558
+TYHT;Shineco, Inc.;-152.59660699451655
+OMED;OncoMed Pharmaceuticals, Inc.;-152.7002946248667
+CFMS;ConforMIS, Inc.;-153.18495300005895
+GNCA;Genocea Biosciences, Inc.;-153.27189936330203
+CYTR;CytRx Corporation;-153.42948319915496
+GPRO;GoPro, Inc.;-153.58855817696355
+NLNK;NewLink Genetics Corporation;-153.96215384254654
+YECO;Yulong Eco-Materials Limited;-154.44378631960973
+PRPO;Precipio, Inc.;-154.66666666666669
+PTI;Proteostasis Therapeutics, Inc.;-155.58304716052828
+AMMA;Alliance MMA, Inc.;-155.6331583134447
+SKYS;Sky Solar Holdings, Ltd.;-156.0936585490577
+OTIC;Otonomy, Inc.;-157.20662979237272
+SQQQ;ProShares UltraPro Short QQQ;-159.33990653673374
+AEMD;Aethlon Medical, Inc.;-160.0585401902952
+SGLB;Sigma Labs, Inc.;-160.50409549476436
+BPTH;Bio-Path Holdings, Inc.;-160.58638784461152
+TENX;Tenax Therapeutics, Inc.;-160.7272286167464
+USAU;U.S. Gold Corp.;-160.8939963246541
+VXRT;Vaxart, Inc.;-160.89946017215445
+AEZS;AEterna Zentaris Inc.;-161.00809907392187
+CCIH;ChinaCache International Holdings Ltd.;-161.13209505114884
+SND;Smart Sand, Inc.;-162.20344392311904
+NH;NantHealth, Inc.;-163.2275095307126
+NEON;Neonode Inc.;-165.25549372995064
+VLRX;Valeritas Holdings, Inc.;-167.0019841269841
+OHRP;Ohr Pharmaceutical, Inc.;-168.5287693179376
+ACST;Acasti Pharma, Inc.;-169.72855713928482
+EGLE;Eagle Bulk Shipping Inc.;-170.02489331871126
+FTR;Frontier Communications Corporation;-170.66439394404475
+MRIN;Marin Software Incorporated;-170.87309452430077
+ORIG;Ocean Rig UDW Inc.;-171.2726744421991
+FCEL;FuelCell Energy, Inc.;-172.17115152718583
+VICL;Vical Incorporated;-172.18572924016792
+DCAR;DropCar, Inc.;-173.95247271809615
+VIIZ;Credit Suisse AG;-175.43554619396798
+CTRV;ContraVir Pharmaceuticals Inc.;-176.03326791819265
+AXON;Axovant Sciences Ltd.;-176.17905203551274
+ASCMA;Ascent Capital Group, Inc.;-177.54975453878308
+NVIV;InVivo Therapeutics Holdings Corp.;-177.7400528243239
+CHEK;Check-Cap Ltd.;-178.5094653457991
+EYEG;Eyegate Pharmaceuticals, Inc.;-181.67241192997625
+XSPA;XpresSpa Group, Inc. ;-182.6478404072161
+PLXP;PLx Pharma Inc.;-182.7625063066808
+FLKS;Flex Pharma, Inc.;-182.8982810385336
+ABIO;ARCA biopharma, Inc.;-183.4070416136965
+RWLK;ReWalk Robotics Ltd;-183.62877593882428
+ICON;Iconix Brand Group, Inc.;-184.237263053834
+MNKD;MannKind Corporation;-185.07348493967058
+SCON;Superconductor Technologies Inc.;-185.11590916668456
+CATB;Catabasis Pharmaceuticals, Inc.;-186.11773420594085
+PRKR;ParkerVision, Inc.;-186.17517651430694
+KOOL;Cesca Therapeutics Inc.;-187.27732015458454
+LMFA;LM Funding America, Inc.;-188.73647170041815
+AIPT;Precision Therapeutics Inc.;-188.77540684301695
+PMTS;CPI Card Group Inc.;-189.30672770800834
+SHLD;Sears Holdings Corporation;-190.7296195339949
+ARLZ;Aralez Pharmaceuticals Inc.;-193.82641506330742
+SPI;SPI Energy Co., Ltd.;-194.05366566528835
+MARA;Marathon Patent Group, Inc.;-194.12627668917816
+CLDX;Celldex Therapeutics, Inc.;-195.41950572714737
+CDTI;CDTI Advanced Materials, Inc.;-195.7284242648422
+ORPN;Bioblast Pharma Ltd.;-198.26582376251238
+CHKE;Cherokee Inc.;-199.14407839551683
+RSLS;ReShape Lifesciences Inc.;-200.22115333963882
+ALQA;Alliqua BioMedical, Inc.;-200.7316466510876
+MTP;Midatech Pharma PLC;-201.69611110558222
+STAF;Staffing 360 Solutions, Inc.;-202.64466837887656
+MACK;Merrimack Pharmaceuticals, Inc.;-206.44217933367156
+CLRB;Cellectar Biosciences, Inc.;-206.81794024437426
+JMU;JMU Limited;-207.67489098432162
+MDGS;Medigus Ltd.;-208.68156785968515
+OVAS;OvaScience Inc.;-212.5855189800953
+HTBX;Heat Biologics, Inc.;-212.6162027353676
+TROV;TrovaGene, Inc.;-213.43449329109978
+AYTU;Aytu BioScience, Inc.;-214.3496679253148
+BIOC;Biocept, Inc.;-215.0691407019
+AKTX;Akari Therapeutics Plc;-216.0641073618864
+RGLS;Regulus Therapeutics Inc.;-219.3939893137822
+SBOT;Stellar Biotechnologies, Inc.;-240.67234107805155
+CHFS;CHF Solutions, Inc.;-240.699948712614
+ZSAN;Zosano Pharma Corporation;-241.53171341832956
+DRYS;DryShips Inc.;-241.6268721074419
+CYTX;Cytori Therapeutics Inc.;-241.72905701961758
+MBVX;MabVax Therapeutics Holdings, Inc.;-242.1217704455209
+SAEX;SAExploration Holdings, Inc.;-242.18934706037288
+WWR;Westwater Resources, Inc.;-243.8176190241647
+RXII;RXi Pharmaceuticals Corporation;-245.04546287728047
+XGTI;XG Technology, Inc;-246.96834996690743
+NVCN;Neovasc Inc.;-249.7580543298007
+DARE;Dare Bioscience, Inc.;-253.22300950433578
+ACHV;Achieve Life Sciences, Inc. ;-254.97386075836772
+DFFN;Diffusion Pharmaceuticals Inc.;-256.0935814299651
+ONTX;Onconova Therapeutics, Inc.;-256.41319075203876
+TOPS;TOP Ships Inc.;-257.27727839434067
+MBOT;Microbot Medical Inc. ;-258.58000062082453
+TVIX;Credit Suisse AG;-262.21421045536863
+ATOS;Atossa Genetics Inc.;-264.8206393255577
+DCIX;Diana Containerships Inc.;-277.9248435163628
+AMDA;Amedica Corporation;-282.61762813633277
+ANY;Sphere 3D Corp.;-298.67433213547827
+GEVO;Gevo, Inc.;-313.0170345484912
+INPX;Inpixon ;-322.52353017835935
