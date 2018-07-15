@@ -9,7 +9,7 @@ import pandas
 
 _MAX_WORKERS = 16
 _MAX_REVENUE = 500
-_MIN_REVENUE = 50
+_MIN_REVENUE = 75
 _DATA_PATH = "./data"
 _OUT_STOCK_REVENUE = "stocks_revenue_ordered_desc.csv"
 _FILENAME_STOCK_DESC = "stocks_desc.csv"
