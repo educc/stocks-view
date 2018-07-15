@@ -1,4 +1,5 @@
 import asyncio
+import numpy as np
 from queue import Queue
 from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor
 import os
@@ -6,10 +7,17 @@ import time
 import dateutil
 import pandas
 
+_MAX_WORKERS = 16
+_MAX_REVENUE = 500
+_MIN_REVENUE = 50
 _DATA_PATH = "./data"
 _OUT_STOCK_REVENUE = "stocks_revenue_ordered_desc.csv"
 _FILENAME_STOCK_DESC = "stocks_desc.csv"
-_REVENUE = "revenue"
+
+_COL_REVENUE = "revenue"
+_COL_DATEATMONTH = "dateAtMonth"
+_COL_STD = "std"
+
 
 
 def read_stocks_desc():
@@ -21,31 +29,43 @@ _STOCKS_DICT = read_stocks_desc()
 def create_and_process_dataframe_from_csv(filename):
     df = pandas.read_csv(filename)
 
+    col_group = _COL_DATEATMONTH
+
     df['Date'] = df['Date'].apply(dateutil.parser.parse)
     df['DateYear'] = df.apply(lambda x: x['Date'].strftime("%Y") , axis=1)
+    df[col_group] = df.apply(lambda x: x['Date'].strftime("%Y%m") , axis=1)
     df = df.loc[df['DateYear'].isin( ("2018","2017","2016","2015") )]
     df = df.set_index(['Date'])
 
-    df = df['Close'].groupby(df['DateYear']).agg({
+    df = df['Close'].groupby(df[col_group]).agg({
         "first": lambda x: x.iloc[0],
         "last":  lambda x: x.iloc[-1],
     })
-    df[_REVENUE] = df.apply( lambda x: x["last"]/x["first"]*100-100 , axis=1)
+    df[_COL_REVENUE] = df.apply( lambda x: x["last"]/x["first"]*100-100 , axis=1)
     return df
 
 def create_dataframe(stock_name, filename_data_stock):
     try:
         df = create_and_process_dataframe_from_csv(filename_data_stock)
         
-        print(stock_name)
+        #print(stock_name)
         
-        total_revenue = df[_REVENUE].sum()
+        total_revenue = df[_COL_REVENUE].sum()
+        total_revenue = int(np.round(total_revenue)/10)*10
+
+        if total_revenue < _MIN_REVENUE or total_revenue > _MAX_REVENUE:
+            return None
+
+
+        standard_deviation = df[_COL_REVENUE].std()
+        standard_deviation = np.round(standard_deviation)
 
         if total_revenue != 0:
             return {
                 "stock": stock_name,
                 "stock_desc": _STOCKS_DICT[stock_name],
-                _REVENUE: total_revenue
+                _COL_REVENUE: total_revenue,
+                _COL_STD: standard_deviation
             }
     except Exception as ex:
         print("Error at: " + stock_name, ex)
@@ -63,7 +83,7 @@ def main():
     myqueue = Queue()
 
     results = []
-    with ProcessPoolExecutor(max_workers=8) as executor:
+    with ProcessPoolExecutor(max_workers=_MAX_WORKERS) as executor:
 
         for filename in os.listdir(_DATA_PATH):
             absfilename = os.path.join(_DATA_PATH, filename)
@@ -77,8 +97,10 @@ def main():
         data.append(myqueue.get())
     
     df = pandas.DataFrame.from_dict(data)
-    df = df.sort_values(by=_REVENUE, ascending=False)
-    df.to_csv(_OUT_STOCK_REVENUE, columns=["stock","stock_desc",_REVENUE], index=False, sep=";")
+    #df = df.sort_values([_COL_REVENUE, _COL_STD], ascending=[False, True])
+    #df = df.sort_values(_COL_STD, ascending=True)
+    df = df.sort_values([_COL_STD, _COL_REVENUE], ascending=[True, False])
+    df.to_csv(_OUT_STOCK_REVENUE, columns=["stock","stock_desc",_COL_REVENUE, _COL_STD], index=False, sep=";")
     
     end_time = time.time()  
     print("Total time: {}".format(end_time - start))
