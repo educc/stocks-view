@@ -1,21 +1,11 @@
 import os
 import pandas as pd
 from stock import Stock
+from stock import StockOrder
 from typing import List
 from criteria import Criteria
 from criteria import all_criteria
 
-class StockOrder:
-
-    def __init__(self, symbol, desc, order, criteria_name):
-        self.symbol = symbol
-        self.criteria_name = criteria_name
-        self.order = order
-        self.description = desc
-
-    def __str__(self):
-        return "{0}\t{2} {3} - {1}".format( \
-            self.symbol, self.description, self.criteria_name, self.order)
 
 class ProcessCriteria:
 
