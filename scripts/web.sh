@@ -1,5 +1,7 @@
 #!/bin/bash
 
+source env/bin/activate
+
 stocks="./stocks/nasdaq_nyse.csv"
 data="./data"
 
