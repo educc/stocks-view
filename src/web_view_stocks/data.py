@@ -9,6 +9,12 @@ class StockData:
         self.stock_list_filename = stock_list_filename
         self.data_dir = data_dir
 
+    def name(self):
+        filename = os.path.splitext(self.stock_list_filename)[0]
+        filename = filename.replace("_", " ")
+        filename = os.path.basename(filename)
+        return filename
+
     def stock_list(self):
         df = pandas.read_csv(self.stock_list_filename, delimiter=SEPARATOR_STOCKS_LIST)
         r = [{'label': it.Description, 'value': it.Symbol } for it in df.itertuples()]

@@ -16,7 +16,7 @@ class WebStockView:
     def _init_web_ui(self):
         
         self.app.layout = html.Div([
-            html.H1('Stock List'),
+            html.H1('Stock: ' + self.stock_data.name()),
             dcc.Dropdown(
                 id='my-dropdown',
                 options=self.stock_data.stock_list(),
