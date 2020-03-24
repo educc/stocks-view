@@ -1,12 +1,12 @@
 import sys
 import os
-from web import start_web
+from web import WebStockView
 from data import StockData
 
 def main(stock_list_filename, data_dir):
     stock_data = StockData(stock_list_filename, data_dir)
-    
-    start_web(stock_data)
+    web = WebStockView(stock_data)
+    web.start()
 
 
 if __name__ == '__main__':

@@ -34,26 +34,3 @@ class WebStockView:
 
     def start(self):
         self.app.run_server(port=8080, host="0.0.0.0")
-
-
-def start_web(stock_data: StockData):
-
-    app = dash.Dash()
-    app.layout = html.Div([
-            html.H1('Stock List'),
-            dcc.Dropdown(
-                id='my-dropdown',
-                options=stock_data.stock_list(),
-                value='MSFT'
-            ),
-            dcc.Graph(id='my-graph')
-        ])
-    
-    @app.callback(Output('my-graph', 'figure'), [Input('my-dropdown', 'value')])
-    def _cb_update_graph(selected_dropdown_value):
-        print(selected_dropdown_value)
-        return {
-            'data':  stock_data.history(selected_dropdown_value)
-        }
-
-    app.run_server(port=8080, host="0.0.0.0")
